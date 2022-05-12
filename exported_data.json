@@ -1,0 +1,2182 @@
+[
+    {
+        "type": "way",
+        "id": 45073030,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:postcode": "37405",
+            "addr:state": "TN",
+            "addr:street": "River Street",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "sushi;japanese",
+            "name": "Sushi Nabe",
+            "phone": "+1-423-634-0171",
+            "website": "www.sushinaberestaurant.com"
+        },
+        "lat": 35.0618498,
+        "lon": -85.3081754
+    },
+    {
+        "type": "way",
+        "id": 45074588,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Aretha Frankenteins"
+        },
+        "lat": 35.0669012,
+        "lon": -85.2985674
+    },
+    {
+        "type": "way",
+        "id": 45074913,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "North Shore Grille and Canteen"
+        },
+        "lat": 35.0623685,
+        "lon": -85.3080444
+    },
+    {
+        "type": "way",
+        "id": 45074917,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Good Dog"
+        },
+        "lat": 35.0622873,
+        "lon": -85.307438
+    },
+    {
+        "type": "way",
+        "id": 45075269,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Food Works"
+        },
+        "lat": 35.0629637,
+        "lon": -85.3120519
+    },
+    {
+        "type": "way",
+        "id": 45123647,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Longhorn"
+        },
+        "lat": 35.0636602,
+        "lon": -85.3088646
+    },
+    {
+        "type": "way",
+        "id": 45189171,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "description": "http://www.bluffviewartdistrict.com/subpage.php?pageId=139",
+            "name": "Back Inn cafe"
+        },
+        "lat": 35.0546794,
+        "lon": -85.3046301
+    },
+    {
+        "type": "way",
+        "id": 45189174,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "pasta",
+            "description": "http://www.bluffviewartdistrict.com/subpage.php?pageId=141",
+            "name": "Tony's Pasta Shop & Trattoria"
+        },
+        "lat": 35.0543357,
+        "lon": -85.304997
+    },
+    {
+        "type": "way",
+        "id": 45208436,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "1801",
+            "addr:postcode": "464643",
+            "addr:state": "TN",
+            "addr:street": "Spring Road",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Mojo Burrito"
+        },
+        "lat": 35.0842923,
+        "lon": -85.3171109
+    },
+    {
+        "type": "way",
+        "id": 45772612,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Tubby's"
+        },
+        "lat": 35.0701659,
+        "lon": -85.3193255
+    },
+    {
+        "type": "way",
+        "id": 46546569,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Waffle House"
+        },
+        "lat": 35.0836584,
+        "lon": -85.3182589
+    },
+    {
+        "type": "way",
+        "id": 46546597,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "burger",
+            "name": "Sofa King Juicy Burger"
+        },
+        "lat": 35.0832381,
+        "lon": -85.3180028
+    },
+    {
+        "type": "way",
+        "id": 46547063,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Crust's Pizza"
+        },
+        "lat": 35.084376,
+        "lon": -85.3183491
+    },
+    {
+        "type": "way",
+        "id": 46547078,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "1801",
+            "addr:postcode": "464643",
+            "addr:state": "TN",
+            "addr:street": "Dayton Boulevard",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "stringers branch"
+        },
+        "lat": 35.0845792,
+        "lon": -85.3178508
+    },
+    {
+        "type": "way",
+        "id": 49533126,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Champy's Fried Chicken"
+        },
+        "lat": 35.0432472,
+        "lon": -85.3021296
+    },
+    {
+        "type": "way",
+        "id": 50184284,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "408",
+            "addr:postcode": "37402",
+            "addr:street": "Market Street",
+            "amenity": "restaurant",
+            "brand": "Chili's",
+            "brand:wikidata": "Q1072948",
+            "brand:wikipedia": "en:Chili's",
+            "building": "yes",
+            "cuisine": "tex-mex",
+            "name": "Chili's",
+            "official_name": "Chili's Grill & Bar"
+        },
+        "lat": 35.0520377,
+        "lon": -85.3092833
+    },
+    {
+        "type": "way",
+        "id": 51790235,
+        "tags": {
+            "addr:housename": "Chili's Bar and Grill",
+            "amenity": "restaurant",
+            "brand": "Chili's",
+            "brand:wikidata": "Q1072948",
+            "brand:wikipedia": "en:Chili's",
+            "building": "yes",
+            "cuisine": "tex-mex",
+            "name": "Chili's",
+            "official_name": "Chili's Grill & Bar"
+        },
+        "lat": 35.0113818,
+        "lon": -85.2163871
+    },
+    {
+        "type": "way",
+        "id": 51791507,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Huddle House",
+            "brand:wikidata": "Q5928324",
+            "brand:wikipedia": "en:Huddle House",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Huddle House"
+        },
+        "lat": 35.0111171,
+        "lon": -85.2172303
+    },
+    {
+        "type": "way",
+        "id": 51805269,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "seafood",
+            "name": "Boil Shack Seafood"
+        },
+        "lat": 35.0106081,
+        "lon": -85.2213831
+    },
+    {
+        "type": "way",
+        "id": 53648232,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Outback Steakhouse",
+            "brand:wikidata": "Q1064893",
+            "brand:wikipedia": "en:Outback Steakhouse",
+            "building": "yes",
+            "cuisine": "american;steak",
+            "name": "Outback Steakhouse",
+            "phone": "+1-423-870-0980"
+        },
+        "lat": 35.1288279,
+        "lon": -85.2424223
+    },
+    {
+        "type": "way",
+        "id": 53648339,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Logan's Roadhouse",
+            "brand:wikidata": "Q6666872",
+            "brand:wikipedia": "en:Logan's Roadhouse",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Logan's Roadhouse"
+        },
+        "lat": 35.126454,
+        "lon": -85.240831
+    },
+    {
+        "type": "way",
+        "id": 53648496,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "123",
+            "addr:postcode": "37415",
+            "addr:street": "Northgate Mall Drive",
+            "amenity": "restaurant",
+            "brand": "Chili's",
+            "brand:wikidata": "Q1072948",
+            "brand:wikipedia": "en:Chili's",
+            "building": "yes",
+            "cuisine": "tex-mex",
+            "name": "Chili's",
+            "official_name": "Chili's Grill & Bar"
+        },
+        "lat": 35.1326005,
+        "lon": -85.2411283
+    },
+    {
+        "type": "way",
+        "id": 67285974,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "3953",
+            "addr:postcode": "37415",
+            "addr:state": "TN",
+            "addr:street": "Dayton Boulevard",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Typhoon of Tokyo"
+        },
+        "lat": 35.1204703,
+        "lon": -85.2893768
+    },
+    {
+        "type": "way",
+        "id": 80344585,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Pie R square"
+        },
+        "lat": 35.127335,
+        "lon": -85.2848579
+    },
+    {
+        "type": "way",
+        "id": 80396077,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:postcode": "37415",
+            "addr:state": "TN",
+            "addr:street": "Martin Road",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Mama Greene's"
+        },
+        "lat": 35.0991399,
+        "lon": -85.3035794
+    },
+    {
+        "type": "way",
+        "id": 80396169,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Southern Restaurant"
+        },
+        "lat": 35.1087099,
+        "lon": -85.2953433
+    },
+    {
+        "type": "way",
+        "id": 80433449,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Nooga Q"
+        },
+        "lat": 35.0861617,
+        "lon": -85.3265081
+    },
+    {
+        "type": "way",
+        "id": 80436725,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "P.F. Chang's"
+        },
+        "lat": 35.0341042,
+        "lon": -85.155994
+    },
+    {
+        "type": "way",
+        "id": 80513734,
+        "tags": {
+            "addr:housenumber": "423-899-9998",
+            "addr:street": "4903 Brainerd Rd",
+            "amenity": "restaurant",
+            "brand": "Waffle House",
+            "brand:wikidata": "Q1701206",
+            "brand:wikipedia": "en:Waffle House",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Waffle House",
+            "opening_hours": "24/7"
+        },
+        "lat": 35.0129187,
+        "lon": -85.227462
+    },
+    {
+        "type": "way",
+        "id": 81100874,
+        "tags": {
+            "addr:street": "Mississippi Avenue",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Humingbird Pastaria"
+        },
+        "lat": 35.1224184,
+        "lon": -85.3469042
+    },
+    {
+        "type": "way",
+        "id": 82665329,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "5771",
+            "addr:state": "TN",
+            "addr:street": "Brainerd Road",
+            "amenity": "restaurant",
+            "brand": "LongHorn Steakhouse",
+            "brand:wikidata": "Q3259007",
+            "brand:wikipedia": "en:LongHorn Steakhouse",
+            "building": "yes",
+            "cuisine": "steak_house",
+            "name": "LongHorn Steakhouse"
+        },
+        "lat": 35.013246,
+        "lon": -85.2125838
+    },
+    {
+        "type": "way",
+        "id": 85630923,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "cajun",
+            "name": "Parkway Pourhouse",
+            "source": "USGS ortho"
+        },
+        "lat": 35.0508233,
+        "lon": -85.3212222
+    },
+    {
+        "type": "way",
+        "id": 130663063,
+        "tags": {
+            "addr:state": "TN",
+            "amenity": "restaurant",
+            "brand": "Buffalo Wild Wings",
+            "brand:wikidata": "Q509255",
+            "brand:wikipedia": "en:Buffalo Wild Wings",
+            "building": "commercial",
+            "cuisine": "wings",
+            "name": "Buffalo Wild Wings"
+        },
+        "lat": 35.1550268,
+        "lon": -85.2480822
+    },
+    {
+        "type": "way",
+        "id": 130899372,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Golden Corral",
+            "brand:wikidata": "Q4039560",
+            "brand:wikipedia": "en:Golden Corral",
+            "building": "yes",
+            "cuisine": "american;buffet",
+            "name": "Golden Corral"
+        },
+        "lat": 35.0251519,
+        "lon": -85.157685
+    },
+    {
+        "type": "way",
+        "id": 131410714,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Red Lobster",
+            "brand:wikidata": "Q846301",
+            "brand:wikipedia": "en:Red Lobster",
+            "building": "yes",
+            "cuisine": "seafood",
+            "name": "Red Lobster"
+        },
+        "lat": 35.1330776,
+        "lon": -85.2406912
+    },
+    {
+        "type": "way",
+        "id": 150226866,
+        "tags": {
+            "addr:state": "TN",
+            "amenity": "restaurant",
+            "brand": "Buffalo Wild Wings",
+            "brand:wikidata": "Q509255",
+            "brand:wikipedia": "en:Buffalo Wild Wings",
+            "building": "commercial",
+            "cuisine": "wings",
+            "name": "Buffalo Wild Wings"
+        },
+        "lat": 35.0552111,
+        "lon": -85.3092678
+    },
+    {
+        "type": "way",
+        "id": 150237161,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "barbecue",
+            "name": "Mike's Smokehouse"
+        },
+        "lat": 35.0195919,
+        "lon": -85.3216502
+    },
+    {
+        "type": "way",
+        "id": 168228477,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "532",
+            "addr:postcode": "37403",
+            "addr:state": "TN",
+            "addr:street": "Lookout Street",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "burger",
+            "name": "Universal Joint",
+            "opening_hours": "Mo-Fr 11:00-1:00, Sa-Su 12:00-23:00",
+            "website": "http://www.ujchattanooga.com/"
+        },
+        "lat": 35.0500334,
+        "lon": -85.3061697
+    },
+    {
+        "type": "way",
+        "id": 178471696,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Ruby Tuesday",
+            "brand:wikidata": "Q7376400",
+            "brand:wikipedia": "en:Ruby Tuesday (restaurant)",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Ruby Tuesday"
+        },
+        "lat": 35.1479415,
+        "lon": -85.2498914
+    },
+    {
+        "type": "way",
+        "id": 178573814,
+        "tags": {
+            "addr:city": "chattanooga",
+            "addr:postcode": "5",
+            "addr:state": "TN",
+            "addr:street": "Mountain Creek Road",
+            "amenity": "restaurant",
+            "brand": "Pizza Hut",
+            "brand:wikidata": "Q191615",
+            "brand:wikipedia": "en:Pizza Hut",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Pizza Hut"
+        },
+        "lat": 35.0996063,
+        "lon": -85.3270452
+    },
+    {
+        "type": "way",
+        "id": 208259881,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Olive Garden",
+            "brand:wikidata": "Q3045312",
+            "brand:wikipedia": "en:Olive Garden",
+            "building": "yes",
+            "cuisine": "italian",
+            "name": "Olive Garden"
+        },
+        "lat": 35.145577,
+        "lon": -85.2498902
+    },
+    {
+        "type": "way",
+        "id": 239043558,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "809",
+            "addr:postcode": "37402",
+            "addr:state": "TN",
+            "addr:street": "Market Street",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Mexiville",
+            "opening_hours": "Mo-Sa 11:00-22:00",
+            "website": "https://mexivilletn.com/"
+        },
+        "lat": 35.0467802,
+        "lon": -85.3097735
+    },
+    {
+        "type": "way",
+        "id": 263215259,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Pizzaeria Cortile"
+        },
+        "lat": 35.1269485,
+        "lon": -85.2842799
+    },
+    {
+        "type": "way",
+        "id": 300948091,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "McCallie Dining Hall"
+        },
+        "lat": 35.0268602,
+        "lon": -85.2620962
+    },
+    {
+        "type": "way",
+        "id": 301425665,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Kabob-ster"
+        },
+        "lat": 35.015657,
+        "lon": -85.1627861
+    },
+    {
+        "type": "way",
+        "id": 317438951,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "IHOP",
+            "brand:wikidata": "Q1185675",
+            "brand:wikipedia": "en:IHOP",
+            "building": "retail",
+            "cuisine": "breakfast;pancake",
+            "name": "IHOP"
+        },
+        "lat": 35.1219989,
+        "lon": -85.2396121
+    },
+    {
+        "type": "way",
+        "id": 321667147,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "japanese",
+            "name": "Fuji Steak & Sushi"
+        },
+        "lat": 35.1401598,
+        "lon": -85.2490244
+    },
+    {
+        "type": "way",
+        "id": 321757064,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Waffle House",
+            "brand:wikidata": "Q1701206",
+            "brand:wikipedia": "en:Waffle House",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Waffle House",
+            "opening_hours": "24/7"
+        },
+        "lat": 35.139647,
+        "lon": -85.2476716
+    },
+    {
+        "type": "way",
+        "id": 392103747,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "7035",
+            "addr:postcode": "37421",
+            "addr:state": "TN",
+            "addr:street": "Amin Drive",
+            "amenity": "restaurant",
+            "brand": "Texas Roadhouse",
+            "brand:wikidata": "Q7707945",
+            "brand:wikipedia": "en:Texas Roadhouse",
+            "building": "yes",
+            "cuisine": "steak_house",
+            "name": "Texas Roadhouse",
+            "phone": "423-899-8293"
+        },
+        "lat": 35.0422451,
+        "lon": -85.1593309
+    },
+    {
+        "type": "way",
+        "id": 393628184,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Plaza Del Sol"
+        },
+        "lat": 35.0039545,
+        "lon": -85.1486885
+    },
+    {
+        "type": "way",
+        "id": 474405370,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "El Arca De Noe"
+        },
+        "lat": 35.1045042,
+        "lon": -85.2994721
+    },
+    {
+        "type": "way",
+        "id": 507861525,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "internet_access": "yes",
+            "internet_access:fee": "no",
+            "name": "Dos Amigos",
+            "smoking": "no",
+            "takeaway": "yes",
+            "wheelchair": "yes"
+        },
+        "lat": 35.080089,
+        "lon": -85.264231
+    },
+    {
+        "type": "way",
+        "id": 509682298,
+        "tags": {
+            "addr:housenumber": "3950",
+            "addr:street": "Brainerd Road",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Your Local Seitanist",
+            "shop": "deli"
+        },
+        "lat": 35.0196603,
+        "lon": -85.2405293
+    },
+    {
+        "type": "way",
+        "id": 509707767,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "IHOP",
+            "brand:wikidata": "Q1185675",
+            "brand:wikipedia": "en:IHOP",
+            "building": "yes",
+            "cuisine": "breakfast;pancake",
+            "name": "IHOP"
+        },
+        "lat": 35.0120677,
+        "lon": -85.212672
+    },
+    {
+        "type": "way",
+        "id": 510913588,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "japanese",
+            "name": "Haiku Hibachi"
+        },
+        "lat": 34.9945144,
+        "lon": -85.2336598
+    },
+    {
+        "type": "way",
+        "id": 554845839,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Pizza Hut",
+            "brand:wikidata": "Q191615",
+            "brand:wikipedia": "en:Pizza Hut",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Pizza Hut"
+        },
+        "lat": 35.0813129,
+        "lon": -85.0586835
+    },
+    {
+        "type": "way",
+        "id": 578548131,
+        "tags": {
+            "amenity": "restaurant",
+            "name": "Dub's Place"
+        },
+        "lat": 35.1275216,
+        "lon": -85.2839749
+    },
+    {
+        "type": "way",
+        "id": 585218268,
+        "tags": {
+            "addr:city": "Walden",
+            "addr:housenumber": "1832",
+            "addr:postcode": "37377",
+            "addr:state": "TN",
+            "addr:street": "Taft Highway",
+            "amenity": "restaurant",
+            "building": "yes",
+            "capacity": "50",
+            "cuisine": "mexican",
+            "name": "Ayala's Mexican Restarant",
+            "opening_hours": "Mo-Fr 11:00-21:30;Sa 12:00-22:00;Su 12:00-21:00",
+            "outdoor_seating": "yes",
+            "phone": "+1(423)-886-0063",
+            "takeaway": "yes",
+            "website": "ayalasgrillandbar.com"
+        },
+        "lat": 35.1526366,
+        "lon": -85.3192987
+    },
+    {
+        "type": "way",
+        "id": 591358374,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Burrito Xpress"
+        },
+        "lat": 35.1616796,
+        "lon": -84.8810188
+    },
+    {
+        "type": "way",
+        "id": 591361362,
+        "tags": {
+            "addr:city": "Cleveland",
+            "addr:housenumber": "126",
+            "addr:postcode": "37311",
+            "addr:state": "TN",
+            "addr:street": "Keith Street SW",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "The Chef",
+            "opening_hours": "Mo-Sa 06:00-14:00; Su off",
+            "payment:discover_card": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes"
+        },
+        "lat": 35.1608537,
+        "lon": -84.8848374
+    },
+    {
+        "type": "way",
+        "id": 594624536,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Monterrey"
+        },
+        "lat": 35.1904132,
+        "lon": -84.8668478
+    },
+    {
+        "type": "way",
+        "id": 594770835,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Pizza Hut",
+            "brand:wikidata": "Q191615",
+            "brand:wikipedia": "en:Pizza Hut",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Pizza Hut"
+        },
+        "lat": 35.1858965,
+        "lon": -84.8706648
+    },
+    {
+        "type": "way",
+        "id": 602837044,
+        "tags": {
+            "addr:city": "Cleveland",
+            "addr:housenumber": "2625",
+            "addr:postcode": "37312",
+            "addr:state": "TN",
+            "addr:street": "Keith Street Northwest",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Gabriel's Pizza",
+            "opening_hours": "Mo-Th 11:00-14:00,16:00-21:00; Fr 11:00-14:00,16:00-22:00; Sa 11:30-22:00; Su 11:30-21:00",
+            "payment:discover_card": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "phone": "+1 423 728 2222",
+            "website": "http://gabrielspizzas.com/"
+        },
+        "lat": 35.1854767,
+        "lon": -84.8721235
+    },
+    {
+        "type": "way",
+        "id": 602837065,
+        "tags": {
+            "addr:city": "Cleveland",
+            "addr:housenumber": "2487",
+            "addr:postcode": "37311",
+            "addr:state": "TN",
+            "addr:street": "Keith Street NW",
+            "amenity": "restaurant",
+            "building": "yes",
+            "contact:facebook": "https://www.facebook.com/mrswinnerschickenandbiscuitshome",
+            "name": "Mrs. Winner's",
+            "opening_hours": "Mo-Sa 06:00-19:00; Su 07:00-19:00 open \"Dining in\" || Mo-Sa 06:00-20:00; Su 07:00-20:00 open \"Drive-through\"",
+            "phone": "+1 423 476 7266",
+            "website": "https://lovemrswinners.com/"
+        },
+        "lat": 35.1814733,
+        "lon": -84.8742212
+    },
+    {
+        "type": "way",
+        "id": 602837129,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "chinese",
+            "name": "Dynasty Chinese Buffet"
+        },
+        "lat": 35.1751012,
+        "lon": -84.877891
+    },
+    {
+        "type": "way",
+        "id": 613907449,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Los Poblanos"
+        },
+        "lat": 35.1470951,
+        "lon": -84.8327523
+    },
+    {
+        "type": "way",
+        "id": 656626389,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "seafood",
+            "name": "Scotties on the River"
+        },
+        "lat": 35.0543338,
+        "lon": -85.3205023
+    },
+    {
+        "type": "way",
+        "id": 657099909,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Third Deck Burger Bar"
+        },
+        "lat": 35.0564054,
+        "lon": -85.3152445
+    },
+    {
+        "type": "way",
+        "id": 659757417,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "6521",
+            "addr:state": "TN",
+            "addr:street": "Ringgold Road",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Wally's Restaurant"
+        },
+        "lat": 34.9901928,
+        "lon": -85.2062655
+    },
+    {
+        "type": "way",
+        "id": 659757424,
+        "tags": {
+            "addr:city": "East Ridge",
+            "addr:housenumber": "1460",
+            "addr:state": "TN",
+            "addr:street": "Mack Smith Road",
+            "amenity": "restaurant",
+            "brand": "Cracker Barrel",
+            "brand:wikidata": "Q4492609",
+            "brand:wikipedia": "en:Cracker Barrel",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Cracker Barrel",
+            "official_name": "Cracker Barrel Old Country Store"
+        },
+        "lat": 34.9906722,
+        "lon": -85.2082776
+    },
+    {
+        "type": "way",
+        "id": 659757428,
+        "tags": {
+            "addr:city": "East Ridge",
+            "addr:housenumber": "6515",
+            "addr:postcode": "37412",
+            "addr:state": "TN",
+            "addr:street": "Ringgold Road",
+            "amenity": "restaurant",
+            "building": "yes",
+            "building:levels": "2",
+            "name": "Champy's Chicken",
+            "opening_hours": "Mo-Su 10:30-22:00",
+            "phone": "4236025999",
+            "website": "https://champyschicken.com/"
+        },
+        "lat": 34.9898285,
+        "lon": -85.2074068
+    },
+    {
+        "type": "way",
+        "id": 659934888,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "6513",
+            "addr:state": "TN",
+            "addr:street": "Ringgold Road",
+            "amenity": "restaurant",
+            "brand": "Waffle House",
+            "brand:wikidata": "Q1701206",
+            "brand:wikipedia": "en:Waffle House",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Waffle House"
+        },
+        "lat": 34.9897617,
+        "lon": -85.2081165
+    },
+    {
+        "type": "way",
+        "id": 660031283,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "commercial",
+            "cuisine": "japanese",
+            "name": "Teriyaki House"
+        },
+        "lat": 34.9898727,
+        "lon": -85.2170262
+    },
+    {
+        "type": "way",
+        "id": 662780696,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "commercial",
+            "cuisine": "american",
+            "name": "Epicurean Restuarant"
+        },
+        "lat": 34.996787,
+        "lon": -85.2400124
+    },
+    {
+        "type": "way",
+        "id": 662780746,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Melodee's Diner"
+        },
+        "lat": 34.9980318,
+        "lon": -85.254452
+    },
+    {
+        "type": "way",
+        "id": 683411563,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "309",
+            "addr:postcode": "37409",
+            "addr:state": "TN",
+            "addr:street": "East Main Street",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "burger",
+            "name": "Slicks Burgers",
+            "opening_hours": "11:00-22:00",
+            "phone": "(423) 760-4878",
+            "takeaway": "yes"
+        },
+        "lat": 35.0350294,
+        "lon": -85.3038979
+    },
+    {
+        "type": "way",
+        "id": 683598537,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Off The Grill II"
+        },
+        "lat": 35.1537914,
+        "lon": -85.3179185
+    },
+    {
+        "type": "way",
+        "id": 686352733,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Cracker Barrel",
+            "brand:wikidata": "Q4492609",
+            "brand:wikipedia": "en:Cracker Barrel",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Cracker Barrel"
+        },
+        "lat": 35.0842631,
+        "lon": -85.0705108
+    },
+    {
+        "type": "way",
+        "id": 689050308,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "1825",
+            "addr:state": "TN",
+            "addr:street": "Gunbarrel Road",
+            "amenity": "restaurant",
+            "branch": "Gunbarrel",
+            "brand": "First Watch",
+            "brand:wikidata": "Q5454064",
+            "brand:wikipedia": "en:First Watch (restaurant chain)",
+            "building": "retail",
+            "cuisine": "american;breakfast",
+            "name": "First Watch",
+            "opening_hours": "Mo-Su 07:00-14:30"
+        },
+        "lat": 35.0258958,
+        "lon": -85.1585047
+    },
+    {
+        "type": "way",
+        "id": 689274005,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "2213",
+            "addr:state": "TN",
+            "addr:street": "Hamilton Place Boulevard",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Acropolis Grill"
+        },
+        "lat": 35.0397462,
+        "lon": -85.1561565
+    },
+    {
+        "type": "way",
+        "id": 689274015,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "7047",
+            "addr:state": "TN",
+            "addr:street": "Amin Drive",
+            "amenity": "restaurant",
+            "brand": "Waffle House",
+            "brand:wikidata": "Q1701206",
+            "brand:wikipedia": "en:Waffle House",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Waffle House",
+            "opening_hours": "24/7",
+            "phone": "423-899-3888"
+        },
+        "lat": 35.0428214,
+        "lon": -85.1588595
+    },
+    {
+        "type": "way",
+        "id": 690974668,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "6903",
+            "addr:postcode": "37421",
+            "addr:state": "TN",
+            "addr:street": "Lee Highway",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "asian",
+            "name": "Chopstix",
+            "phone": "423-305-0537",
+            "website": "http://www.noogachopstix.com/"
+        },
+        "lat": 35.0431034,
+        "lon": -85.1659582
+    },
+    {
+        "type": "way",
+        "id": 690974673,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "6925",
+            "addr:state": "TN",
+            "addr:street": "Lee Highway",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "chicken",
+            "name": "Champy's",
+            "phone": "423-803-2800"
+        },
+        "lat": 35.043859,
+        "lon": -85.1646671
+    },
+    {
+        "type": "way",
+        "id": 693814861,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Mellow Mushroom",
+            "brand:wikidata": "Q17021360",
+            "brand:wikipedia": "en:Mellow Mushroom",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Mellow Mushroom"
+        },
+        "lat": 35.0416344,
+        "lon": -85.1506847
+    },
+    {
+        "type": "way",
+        "id": 699523255,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "asian",
+            "name": "Golden Big Bowl"
+        },
+        "lat": 35.0104202,
+        "lon": -85.2190945
+    },
+    {
+        "type": "way",
+        "id": 702571266,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Armando's East Ridge"
+        },
+        "lat": 34.9911117,
+        "lon": -85.2245665
+    },
+    {
+        "type": "way",
+        "id": 702571268,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Los Potros"
+        },
+        "lat": 34.9920704,
+        "lon": -85.2253726
+    },
+    {
+        "type": "way",
+        "id": 702573903,
+        "tags": {
+            "addr:city": "Ooltewah",
+            "addr:housenumber": "9032",
+            "addr:state": "TN",
+            "addr:street": "Old Lee Highway",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Salsarita's Fresh Mexican Grill"
+        },
+        "lat": 35.0838512,
+        "lon": -85.0659268
+    },
+    {
+        "type": "way",
+        "id": 712691471,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "7601",
+            "addr:postcode": "37421",
+            "addr:state": "TN",
+            "addr:street": "East Brainerd Road",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "barbecue",
+            "name": "Bones Smokehouse",
+            "phone": "+1-423-710-3382"
+        },
+        "lat": 35.0137128,
+        "lon": -85.1569425
+    },
+    {
+        "type": "way",
+        "id": 726971378,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "LongHorn Steakhouse",
+            "brand:wikidata": "Q3259007",
+            "brand:wikipedia": "en:LongHorn Steakhouse",
+            "building": "yes",
+            "cuisine": "steak_house",
+            "name": "LongHorn Steakhouse"
+        },
+        "lat": 35.1465577,
+        "lon": -85.2499445
+    },
+    {
+        "type": "way",
+        "id": 750290208,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "O'Charley's",
+            "brand:wikidata": "Q7071703",
+            "brand:wikipedia": "en:O'Charley's",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "O'Charley's"
+        },
+        "lat": 35.1349855,
+        "lon": -85.2412085
+    },
+    {
+        "type": "way",
+        "id": 755283379,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "8912",
+            "addr:state": "TN",
+            "addr:street": "Lee Highway",
+            "amenity": "restaurant",
+            "brand": "Waffle House",
+            "brand:wikidata": "Q1701206",
+            "brand:wikipedia": "en:Waffle House",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Waffle House",
+            "opening_hours": "24/7"
+        },
+        "lat": 35.0873114,
+        "lon": -85.0711132
+    },
+    {
+        "type": "way",
+        "id": 756390730,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "2215",
+            "addr:state": "TN",
+            "addr:street": "Hamilton Place Boulevard",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "J. Alexander\u00e2\u20ac\u2122s"
+        },
+        "lat": 35.0404785,
+        "lon": -85.1566157
+    },
+    {
+        "type": "way",
+        "id": 756391569,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "2200",
+            "addr:state": "TN",
+            "addr:street": "Bams Drive",
+            "amenity": "restaurant",
+            "brand": "Red Lobster",
+            "brand:wikidata": "Q846301",
+            "brand:wikipedia": "en:Red Lobster",
+            "building": "yes",
+            "cuisine": "seafood",
+            "name": "Red Lobster"
+        },
+        "lat": 35.0389074,
+        "lon": -85.1574801
+    },
+    {
+        "type": "way",
+        "id": 756439020,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "2120",
+            "addr:state": "TN",
+            "addr:street": "Hamilton Place Boulevard",
+            "amenity": "restaurant",
+            "brand": "Outback Steakhouse",
+            "brand:wikidata": "Q1064893",
+            "brand:wikipedia": "en:Outback Steakhouse",
+            "building": "yes",
+            "cuisine": "american;steak",
+            "name": "Outback Steakhouse"
+        },
+        "lat": 35.0382902,
+        "lon": -85.1583806
+    },
+    {
+        "type": "way",
+        "id": 756677033,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "2200",
+            "addr:state": "TN",
+            "addr:street": "Hamilton Place Boulevard",
+            "amenity": "restaurant",
+            "brand": "Olive Garden",
+            "brand:wikidata": "Q3045312",
+            "brand:wikipedia": "en:Olive Garden",
+            "building": "yes",
+            "cuisine": "italian",
+            "name": "Olive Garden"
+        },
+        "lat": 35.0369385,
+        "lon": -85.15675
+    },
+    {
+        "type": "way",
+        "id": 756677039,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "japanese",
+            "name": "Hana Steak & Sushi"
+        },
+        "lat": 35.0359473,
+        "lon": -85.1559242
+    },
+    {
+        "type": "way",
+        "id": 756677175,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "2204",
+            "addr:state": "TN",
+            "addr:street": "Hamilton Place Boulevard",
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "El Meson Restaurant"
+        },
+        "lat": 35.0380889,
+        "lon": -85.1559765
+    },
+    {
+        "type": "way",
+        "id": 756782629,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Cheddar's",
+            "brand:wikidata": "Q5089187",
+            "brand:wikipedia": "en:Cheddar's Scratch Kitchen",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Cheddar's",
+            "official_name": "Cheddar's Scratch Kitchen"
+        },
+        "lat": 35.0316426,
+        "lon": -85.1539937
+    },
+    {
+        "type": "way",
+        "id": 756783050,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Jason's Deli",
+            "brand:wikidata": "Q16997641",
+            "brand:wikipedia": "en:Jason's Deli",
+            "building": "yes",
+            "cuisine": "sandwich",
+            "name": "Jason's Deli"
+        },
+        "lat": 35.0343861,
+        "lon": -85.1545808
+    },
+    {
+        "type": "way",
+        "id": 767722608,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "2031",
+            "addr:state": "TN",
+            "addr:street": "Hamilton Place Boulevard",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Sticky Fingers Ribhouse- BBQ Chattanooga"
+        },
+        "lat": 35.0353105,
+        "lon": -85.1625156
+    },
+    {
+        "type": "way",
+        "id": 767725734,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Old Chicago",
+            "brand:wikidata": "Q64411347",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Old Chicago",
+            "official_name": "Old Chicago Pizza & Taproom"
+        },
+        "lat": 35.0332802,
+        "lon": -85.1645214
+    },
+    {
+        "type": "way",
+        "id": 767726840,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Big River Grille & Brewing Works"
+        },
+        "lat": 35.0336439,
+        "lon": -85.1627118
+    },
+    {
+        "type": "way",
+        "id": 767726852,
+        "tags": {
+            "alt_name": "Cheesecake Factory",
+            "amenity": "restaurant",
+            "brand": "The Cheesecake Factory",
+            "brand:wikidata": "Q1045842",
+            "brand:wikipedia": "en:The Cheesecake Factory",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "The Cheesecake Factory"
+        },
+        "lat": 35.0328028,
+        "lon": -85.1610848
+    },
+    {
+        "type": "way",
+        "id": 775664252,
+        "tags": {
+            "addr:city": "East Brainerd",
+            "addr:housenumber": "8701",
+            "addr:postcode": "37421",
+            "addr:state": "TN",
+            "addr:street": "East Brainerd Road",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Mahoney's Grub House",
+            "phone": "423-541-6244"
+        },
+        "lat": 35.0012455,
+        "lon": -85.1320658
+    },
+    {
+        "type": "way",
+        "id": 775666155,
+        "tags": {
+            "addr:city": "Chattanooga",
+            "addr:housenumber": "2318",
+            "addr:postcode": "37421",
+            "addr:state": "TN",
+            "addr:street": "Shallowford Village Drive",
+            "amenity": "restaurant",
+            "brand": "Shoney's",
+            "brand:wikidata": "Q7500392",
+            "brand:wikipedia": "en:Shoney's",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Shoney's",
+            "phone": "423-894-5917"
+        },
+        "lat": 35.0437009,
+        "lon": -85.1568941
+    },
+    {
+        "type": "way",
+        "id": 778406266,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Buddy's bar-b-q East Ridge"
+        },
+        "lat": 34.9935646,
+        "lon": -85.2008672
+    },
+    {
+        "type": "way",
+        "id": 790901272,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Amigos"
+        },
+        "lat": 35.1361567,
+        "lon": -85.1238181
+    },
+    {
+        "type": "way",
+        "id": 823683939,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Drake's Chattanooga"
+        },
+        "lat": 35.0423421,
+        "lon": -85.1493203
+    },
+    {
+        "type": "way",
+        "id": 823684641,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "DosBros Fresh Mexican Grill"
+        },
+        "lat": 35.0429104,
+        "lon": -85.1513324
+    },
+    {
+        "type": "way",
+        "id": 823685083,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "James County Cattle Company Bar and Grill"
+        },
+        "lat": 35.0452777,
+        "lon": -85.1517349
+    },
+    {
+        "type": "way",
+        "id": 823686650,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Firebox Grill"
+        },
+        "lat": 35.043387,
+        "lon": -85.1572149
+    },
+    {
+        "type": "way",
+        "id": 827725292,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "MIssion BBQ"
+        },
+        "lat": 35.0292137,
+        "lon": -85.1552897
+    },
+    {
+        "type": "way",
+        "id": 827725293,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Bad Daddys Burger Bar"
+        },
+        "lat": 35.0290545,
+        "lon": -85.1553778
+    },
+    {
+        "type": "way",
+        "id": 827725294,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Brown Bag"
+        },
+        "lat": 35.0289614,
+        "lon": -85.1554251
+    },
+    {
+        "type": "way",
+        "id": 827728008,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Chili's",
+            "brand:wikidata": "Q1072948",
+            "brand:wikipedia": "en:Chili's",
+            "building": "yes",
+            "cuisine": "tex-mex",
+            "name": "Chili's",
+            "official_name": "Chili's Grill & Bar"
+        },
+        "lat": 35.0289042,
+        "lon": -85.1568001
+    },
+    {
+        "type": "way",
+        "id": 827738246,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Your Pie Pizza"
+        },
+        "lat": 35.0285069,
+        "lon": -85.1570042
+    },
+    {
+        "type": "way",
+        "id": 827739281,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Chicken Salad Chick"
+        },
+        "lat": 35.0256252,
+        "lon": -85.1561236
+    },
+    {
+        "type": "way",
+        "id": 827740872,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "chinese",
+            "name": "Shogun Japanese Steak and Sushi"
+        },
+        "lat": 35.024174,
+        "lon": -85.1582319
+    },
+    {
+        "type": "way",
+        "id": 828614275,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Carrabba's Italian Grill",
+            "brand:wikidata": "Q5045999",
+            "brand:wikipedia": "en:Carrabba's Italian Grill",
+            "building": "yes",
+            "cuisine": "italian",
+            "name": "Carrabba's Italian Grill"
+        },
+        "lat": 35.031791,
+        "lon": -85.1601972
+    },
+    {
+        "type": "way",
+        "id": 828615264,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Jim 'N Nick's Bar-B-Q"
+        },
+        "lat": 35.0310872,
+        "lon": -85.158226
+    },
+    {
+        "type": "way",
+        "id": 828618452,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "chinese",
+            "name": "Forbidden City Restaurant"
+        },
+        "lat": 35.0386254,
+        "lon": -85.1529079
+    },
+    {
+        "type": "way",
+        "id": 828618455,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Chuy's",
+            "brand:wikidata": "Q5118415",
+            "brand:wikipedia": "en:Chuy's",
+            "building": "yes",
+            "cuisine": "tex-mex",
+            "name": "Chuy's"
+        },
+        "lat": 35.0381413,
+        "lon": -85.1517262
+    },
+    {
+        "type": "way",
+        "id": 828618456,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Smokey Bones Bar & Fire Grill"
+        },
+        "lat": 35.0375874,
+        "lon": -85.1523217
+    },
+    {
+        "type": "way",
+        "id": 832433560,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Cici's Pizza",
+            "brand:wikidata": "Q2972189",
+            "brand:wikipedia": "en:Cicis",
+            "building": "yes",
+            "cuisine": "pizza;buffet",
+            "name": "Cici's Pizza"
+        },
+        "lat": 35.0366803,
+        "lon": -85.1501981
+    },
+    {
+        "type": "way",
+        "id": 832440480,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "chinese",
+            "name": "Imperial Garden"
+        },
+        "lat": 35.0380739,
+        "lon": -85.1494876
+    },
+    {
+        "type": "way",
+        "id": 832440481,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "McAlister's Deli",
+            "brand:wikidata": "Q17020829",
+            "brand:wikipedia": "en:McAlister's Deli",
+            "building": "yes",
+            "cuisine": "sandwich",
+            "name": "McAlister's Deli"
+        },
+        "lat": 35.038158,
+        "lon": -85.1494414
+    },
+    {
+        "type": "way",
+        "id": 832440483,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "seafood",
+            "name": "Pier 88 Boiling Seafood & Bar"
+        },
+        "lat": 35.0383263,
+        "lon": -85.1493284
+    },
+    {
+        "type": "way",
+        "id": 832447149,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "O'Charley\u00e2\u20ac\u2122s Restaurant & Bar"
+        },
+        "lat": 35.0441524,
+        "lon": -85.1559309
+    },
+    {
+        "type": "way",
+        "id": 832447153,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Applebee's Neighborhood Grill & Bar",
+            "brand:wikidata": "Q621532",
+            "brand:wikipedia": "en:Applebee's",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Applebee's",
+            "official_name": "Applebee's Neighborhood Grill & Bar"
+        },
+        "lat": 35.0446244,
+        "lon": -85.1554983
+    },
+    {
+        "type": "way",
+        "id": 832447156,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Cracker Barrel",
+            "brand:wikidata": "Q4492609",
+            "brand:wikipedia": "en:Cracker Barrel",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Cracker Barrel",
+            "official_name": "Cracker Barrel Old Country Store"
+        },
+        "lat": 35.0449966,
+        "lon": -85.154912
+    },
+    {
+        "type": "way",
+        "id": 835414791,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Molcajete Mexican Restaurant"
+        },
+        "lat": 35.0292228,
+        "lon": -85.1827679
+    },
+    {
+        "type": "way",
+        "id": 835417430,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Seoul Restaurant"
+        },
+        "lat": 35.0295915,
+        "lon": -85.1834549
+    },
+    {
+        "type": "way",
+        "id": 835629463,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Chef Lin Buffet"
+        },
+        "lat": 35.0035345,
+        "lon": -85.2221458
+    },
+    {
+        "type": "way",
+        "id": 835629464,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Provino's Italian Restaurant"
+        },
+        "lat": 35.0033853,
+        "lon": -85.2222122
+    },
+    {
+        "type": "way",
+        "id": 835632085,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Waffle House",
+            "brand:wikidata": "Q1701206",
+            "brand:wikipedia": "en:Waffle House",
+            "building": "yes",
+            "cuisine": "american",
+            "name": "Waffle House",
+            "opening_hours": "24/7"
+        },
+        "lat": 35.0616296,
+        "lon": -85.13329
+    },
+    {
+        "type": "way",
+        "id": 836292434,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "japanese",
+            "name": "Hibachi Express"
+        },
+        "lat": 35.0156079,
+        "lon": -85.1632169
+    },
+    {
+        "type": "way",
+        "id": 839176269,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Didas Pizza"
+        },
+        "lat": 35.033064,
+        "lon": -85.1509007
+    },
+    {
+        "type": "way",
+        "id": 839176537,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "seafood",
+            "name": "The Juicy Crab"
+        },
+        "lat": 35.0333302,
+        "lon": -85.1516084
+    },
+    {
+        "type": "way",
+        "id": 839182834,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "japanese",
+            "name": "Fuji Steak & Sushi Tennessee"
+        },
+        "lat": 35.0421504,
+        "lon": -85.1584264
+    },
+    {
+        "type": "way",
+        "id": 905977614,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Dos Bros Fresh Mexican Grill"
+        },
+        "lat": 34.9930793,
+        "lon": -85.2010602
+    },
+    {
+        "type": "way",
+        "id": 910957376,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "pizza",
+            "name": "Lupi's Pizza"
+        },
+        "lat": 35.1445847,
+        "lon": -85.2247764
+    },
+    {
+        "type": "way",
+        "id": 919002671,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Abuelo's Mexican Food Embassy"
+        },
+        "lat": 35.0321416,
+        "lon": -85.1568203
+    },
+    {
+        "type": "way",
+        "id": 932496324,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Grand China"
+        },
+        "lat": 35.1176078,
+        "lon": -85.2911324
+    },
+    {
+        "type": "way",
+        "id": 937904860,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "chicken",
+            "name": "Touchdown Wings"
+        },
+        "lat": 35.0127022,
+        "lon": -85.2270347
+    },
+    {
+        "type": "way",
+        "id": 939553112,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "indian",
+            "name": "India Mahal"
+        },
+        "lat": 35.0167231,
+        "lon": -85.2065913
+    },
+    {
+        "type": "way",
+        "id": 939553119,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Hooters",
+            "brand:wikidata": "Q1025921",
+            "brand:wikipedia": "en:Hooters",
+            "building": "yes",
+            "cuisine": "burger",
+            "name": "Hooters"
+        },
+        "lat": 35.0148094,
+        "lon": -85.2092297
+    },
+    {
+        "type": "way",
+        "id": 973940529,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "japanese",
+            "name": "Ichiban Japanese Steakhouse & Sushi Bar"
+        },
+        "lat": 35.0111591,
+        "lon": -85.2167877
+    },
+    {
+        "type": "way",
+        "id": 973941535,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Jonathan\u00e2\u20ac\u2122s Grille"
+        },
+        "lat": 34.9922057,
+        "lon": -85.2011125
+    },
+    {
+        "type": "way",
+        "id": 989276134,
+        "tags": {
+            "amenity": "restaurant",
+            "building": "yes",
+            "cuisine": "mexican",
+            "name": "Tres Hermanos"
+        },
+        "lat": 35.1786697,
+        "lon": -84.8636601
+    },
+    {
+        "type": "way",
+        "id": 991999751,
+        "tags": {
+            "addr:city": "Cleveland",
+            "addr:housenumber": "395",
+            "addr:postcode": "37311",
+            "addr:state": "TN",
+            "addr:street": "Inman Street West",
+            "amenity": "restaurant",
+            "building": "retail",
+            "contact:facebook": "https://www.facebook.com/CentralParkClevelandTN/",
+            "cuisine": "burger",
+            "name": "Central Park",
+            "phone": "+1 423 479 1668"
+        },
+        "lat": 35.1603614,
+        "lon": -84.8787635
+    },
+    {
+        "type": "way",
+        "id": 1007901519,
+        "tags": {
+            "addr:city": "Cleveland",
+            "addr:housenumber": "1422",
+            "addr:postcode": "37311",
+            "addr:state": "TN",
+            "addr:street": "25th Street Northwest",
+            "amenity": "restaurant",
+            "building": "yes",
+            "name": "Old Fort Restaurant"
+        },
+        "lat": 35.1902688,
+        "lon": -84.881287
+    },
+    {
+        "type": "way",
+        "id": 1007901523,
+        "tags": {
+            "addr:city": "Cleveland",
+            "addr:housenumber": "919",
+            "addr:postcode": "37311",
+            "addr:state": "TN",
+            "addr:street": "25th Street Northwest",
+            "amenity": "restaurant",
+            "name": "City Cafe",
+            "opening_hours": "24/7",
+            "phone": "+1 423 790 7460"
+        },
+        "lat": 35.1849627,
+        "lon": -84.8759619
+    }
+]
