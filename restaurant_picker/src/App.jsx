@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useRef } from 'react'
 import { createUseStyles } from 'react-jss'
 
 
@@ -8,6 +8,11 @@ import './App.css'
 import { MapContainer, TileLayer, Marker, Popup, useMapEvents } from 'react-leaflet'
 import "leaflet/dist/leaflet.css"
 import "leaflet/dist/images/marker-shadow.png"
+
+import Chip from '@mui/material/Chip';
+import Autocomplete from '@mui/material/Autocomplete';
+import TextField from '@mui/material/TextField';
+import Stack from '@mui/material/Stack';
 
 
 const useStyles = createUseStyles(theme => ({
@@ -20,7 +25,7 @@ const useStyles = createUseStyles(theme => ({
   filter_column: {
     align: 'center',
     textAlign: 'center',
-    width: '25%',
+    width: '20%',
     height: '100vh',
     overflow: 'auto',
     overflowY: 'scroll',
@@ -41,18 +46,18 @@ const useStyles = createUseStyles(theme => ({
     fontWeight: 'bold',
     margin: '0.5rem',
     padding: '0.5rem',
-    border: '1px solid #ccc',
-    borderRadius: '0.25rem',
-    cursor: 'pointer',
-    '&:hover': {
-      backgroundColor: '#eee',
-    }
+    // border: '1px solid #ccc',
+    // borderRadius: '0.25rem',
+    // cursor: 'pointer',
+    // '&:hover': {
+    //   backgroundColor: '#eee',
+    // }
   },
 
   restaurant_column: {
     align: 'center',
     textAlign: 'center',
-    width: '25%',
+    width: '20%',
     height: '100vh',
     overflow: 'auto',
     overflowY: 'scroll',
@@ -80,8 +85,13 @@ const useStyles = createUseStyles(theme => ({
       backgroundColor: '#eee',
     }
   },
-
-
+  map: {
+    height: '100vh',
+    width: '60%',
+  },
+  active: {
+    backgroundColor: '#eee',
+  },
 }))
 
 function LocationMarker() {
@@ -106,13 +116,37 @@ function LocationMarker() {
 function App() {
   const [restaurants, setRestaurants] = useState([])
   const [filteredRestaurants, setFilteredRestaurants] = useState([])
+  const [filteredCuisines, setFilteredCuisines] = useState([])
+  const [cuisines, setCuisines] = useState([])
 
   const classes = useStyles()
+
+  let markerRefs = useRef({})
 
   // Load the data from the json file
   useEffect(() => {
     setRestaurants(exported_data)
+
+    // Get the cuisines
+    // this line is kinda confusing. First we map the restaurants to an array of cuisines, if the restaurant doens't have a cuisine, then we add an empty array, otherwise we add an array of the cuisines split on a semicolon.
+    // we then flatten the array of arrays, and then we remove any duplicates.
+    setCuisines(exported_data.map(r => r.tags.cuisine ? r.tags.cuisine.split(";") : []).flat().filter((v, i, a) => a.indexOf(v) === i))
   }, [])
+
+  useEffect(() => {
+    setFilteredRestaurants(restaurants)
+  }, [restaurants])
+
+  useEffect(() => {
+    // Filter the restaurants by cuisine
+    if (filteredCuisines.length > 0) {
+      setFilteredRestaurants(restaurants.filter(r => r.tags.cuisine ? r.tags.cuisine.split(";").some(c => filteredCuisines.includes(c)) : false))
+    } else {
+      setFilteredRestaurants(restaurants)
+    }
+
+  }, [filteredCuisines])
+
 
   return (
     <div className={classes.root}>
@@ -120,10 +154,40 @@ function App() {
       <div className={classes.filter_column}>
         <h1>Filters</h1>
         <div className={classes.filters_list}>
-          <div className={classes.filter}>
-            <input type="checkbox" />
-            <span>Filter 1</span>
-          </div>
+          {/* Filter by cuisine: */}
+          {/* {
+            cuisines.map(cuisine => (
+              <div
+                key={cuisine}
+                className={`${classes.filter} ${(filteredCuisines.includes(cuisine) ? classes.active : '')}`}
+                onClick={() => {
+                  if (filteredCuisines.includes(cuisine)) {
+                    setFilteredCuisines(filteredCuisines.filter(c => c !== cuisine))
+                  } else {
+                    setFilteredCuisines([...filteredCuisines, cuisine])
+                  }
+                }}
+              >
+                {cuisine}
+              </div>
+            ))
+          } */}
+          <Autocomplete
+            className={classes.filter}
+            multiple
+            id="tags-outlined"
+            options={cuisines}
+            getOptionLabel={(option) => option}
+            onChange={(event, cuisine) => setFilteredCuisines(cuisine)}
+            filterSelectedOptions
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                label="Cuisine"
+              />
+            )}
+          />
+
 
         </div>
       </div>
@@ -133,9 +197,16 @@ function App() {
         <h1>Filtered Restaurants</h1>
         <div className={classes.restaurant_list}>
 
-          {restaurants.map((restaurant) => (
+          {filteredRestaurants.map((restaurant) => (
             <div key={restaurant.id} className="restaurant-item">
-              <div className={classes.restaurant}>
+              <div
+                className={classes.restaurant}
+                onClick={() => {
+                  if (markerRefs.current[restaurant.id]) {
+                    markerRefs.current[restaurant.id].openPopup()
+                  }
+                }}
+              >
                 {restaurant.tags.name}
               </div>
 
@@ -158,47 +229,36 @@ function App() {
 
 
         {/* Map */}
-        <MapContainer center={[35.07, -85.13]} zoom={12} style={{ height: '100vh', width: '75wh' }}>
+        <MapContainer center={[35.07, -85.2]} zoom={12} style={{ height: '100vh', width: '75wh' }}>
           <TileLayer
             attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          {/* Map over the restaurant locations */}
-          {restaurants.map((restaurant) =>
-
-          (<Marker key={restaurant.id} position={[restaurant.lat, restaurant.lon]}>
-            <Popup>
-              <div className="restaurant-item">
-                <h2>{restaurant.tags.name}</h2>
-              </div>
-            </Popup>
-          </Marker>
-          )
-          )}
+          {filteredRestaurants.map((restaurant) => (
+            <Marker
+              key={restaurant.id}
+              position={[restaurant.lat, restaurant.lon]}
+              ref={(ref) => {
+                markerRefs.current[restaurant.id] = ref
+              }}
+            >
+              <Popup>
+                <div className="restaurant-item">
+                  <h2>{restaurant.tags.name}</h2>
+                  <div className="tags">
+                    {Object.keys(restaurant.tags).map((key, index) => (
+                      <div key={restaurant.id + key} className="tag">
+                        {key + ": " + restaurant.tags[key]}
+                      </div>
+                    )
+                    )}
+                  </div>
+                </div>
+              </Popup>
+            </Marker>
+          ))}
           <LocationMarker />
         </MapContainer>
-
-
-
-        {/* <MapContainer
-          center={[51.505, -0.09]}
-          zoom={13}
-          scrollWheelZoom={false}
-          style={{ height: '100vh', width: '100wh' }}
-        >
-
-          <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-          />
-
-          <Marker position={[51.505, -0.09]}>
-            <Popup>
-              A pretty CSS3 popup. <br /> Easily customizable.
-            </Popup>
-          </Marker>
-        </MapContainer> */}
-
 
       </div>
 
