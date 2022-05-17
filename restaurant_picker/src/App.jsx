@@ -5,14 +5,14 @@ import { createUseStyles } from 'react-jss'
 import exported_data from '../../exported_data.json'
 import './App.css'
 
-import { MapContainer, TileLayer, Marker, Popup, useMapEvents } from 'react-leaflet'
+import { MapContainer, TileLayer, Marker, Popup, useMapEvents, Circle } from 'react-leaflet'
 import "leaflet/dist/leaflet.css"
 import "leaflet/dist/images/marker-shadow.png"
 
-import Chip from '@mui/material/Chip';
 import Autocomplete from '@mui/material/Autocomplete';
 import TextField from '@mui/material/TextField';
-import Stack from '@mui/material/Stack';
+
+import { milesToMeters, getDistance } from './Utilities'
 
 
 const useStyles = createUseStyles(theme => ({
@@ -94,30 +94,34 @@ const useStyles = createUseStyles(theme => ({
   },
 }))
 
-function LocationMarker() {
-  const [position, setPosition] = useState(null)
+function LocationMarker(props) {
   const map = useMapEvents({
     click() {
       map.locate()
     },
     locationfound(e) {
-      setPosition(e.latlng)
+      props.setPosition(e.latlng)
       map.flyTo(e.latlng, map.getZoom())
     },
   })
 
-  return position === null ? null : (
-    <Marker position={position}>
+  return props.position === null ? null : (
+    <Marker position={props.position}>
       <Popup>You are here</Popup>
     </Marker>
   )
 }
 
+
 function App() {
   const [restaurants, setRestaurants] = useState([])
   const [filteredRestaurants, setFilteredRestaurants] = useState([])
   const [filteredCuisines, setFilteredCuisines] = useState([])
+  const [filteredDistance, setFilteredDistance] = useState(null)
   const [cuisines, setCuisines] = useState([])
+  const [userPosition, setUserPosition] = useState(null)
+
+
 
   const classes = useStyles()
 
@@ -138,14 +142,31 @@ function App() {
   }, [restaurants])
 
   useEffect(() => {
+    let tempFilteredRestaurants = restaurants.slice()
     // Filter the restaurants by cuisine
     if (filteredCuisines.length > 0) {
-      setFilteredRestaurants(restaurants.filter(r => r.tags.cuisine ? r.tags.cuisine.split(";").some(c => filteredCuisines.includes(c)) : false))
-    } else {
-      setFilteredRestaurants(restaurants)
+      tempFilteredRestaurants = tempFilteredRestaurants.filter(r => r.tags.cuisine ? r.tags.cuisine.split(";").some(c => filteredCuisines.includes(c)) : false)
     }
 
-  }, [filteredCuisines])
+    // Filter the restaurants by distance from the user
+    if (filteredDistance) {
+      if (!userPosition) {
+        console.log("No user position")
+      } else {
+        // get the distance to each restaurant
+        tempFilteredRestaurants.forEach(r => {
+          r.distance = getDistance(r.lat, r.lon, userPosition.lat, userPosition.lng)
+        })
+
+        // filter the restaurants by distance
+        tempFilteredRestaurants = tempFilteredRestaurants.filter(r => filteredDistance > r.distance)
+
+      }
+    }
+
+    setFilteredRestaurants(tempFilteredRestaurants)
+
+  }, [filteredCuisines, filteredDistance, userPosition])
 
 
   return (
@@ -155,23 +176,6 @@ function App() {
         <h1>Filters</h1>
         <div className={classes.filters_list}>
           {/* Filter by cuisine: */}
-          {/* {
-            cuisines.map(cuisine => (
-              <div
-                key={cuisine}
-                className={`${classes.filter} ${(filteredCuisines.includes(cuisine) ? classes.active : '')}`}
-                onClick={() => {
-                  if (filteredCuisines.includes(cuisine)) {
-                    setFilteredCuisines(filteredCuisines.filter(c => c !== cuisine))
-                  } else {
-                    setFilteredCuisines([...filteredCuisines, cuisine])
-                  }
-                }}
-              >
-                {cuisine}
-              </div>
-            ))
-          } */}
           <Autocomplete
             className={classes.filter}
             multiple
@@ -187,6 +191,20 @@ function App() {
               />
             )}
           />
+
+          {/* Filter by Distance: */}
+          <div className={classes.filter}>
+            <TextField
+              id="outlined-basic"
+              label="Distance"
+              variant="outlined"
+              fullWidth
+              onChange={(event) => {
+                setFilteredDistance(event.target.value)
+              }}
+            />
+          </div>
+
 
 
         </div>
@@ -209,17 +227,6 @@ function App() {
               >
                 {restaurant.tags.name}
               </div>
-
-              {/* <div className="tags">
-
-                {Object.keys(restaurant.tags).map((key, index) => (
-                  <div key={restaurant.id + key} className="tag">
-                    {key + ": " + restaurant.tags[key]}
-
-                  </div>
-                )
-                )}
-              </div> */}
             </div>
           ))}
         </div>
@@ -257,7 +264,17 @@ function App() {
               </Popup>
             </Marker>
           ))}
-          <LocationMarker />
+          <LocationMarker position={userPosition} setPosition={setUserPosition} />
+
+          {/* User defined filterDistance circle */}
+          <Circle
+            center={userPosition}
+            radius={milesToMeters(filteredDistance)}
+            color="red"
+            fillColor="red"
+            fillOpacity={0.2}
+          />
+
         </MapContainer>
 
       </div>
