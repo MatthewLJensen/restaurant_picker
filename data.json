@@ -1,6 +1,16 @@
 [
   {
     "type": "node",
+    "id": 506373951,
+    "lat": 35.0592212,
+    "lon": -85.0682756,
+    "tags": {
+      "amenity": "fast_food",
+      "phone": "+1-423-396-9898"
+    }
+  },
+  {
+    "type": "node",
     "id": 571510330,
     "lat": 35.0620144,
     "lon": -85.3058260,
@@ -232,6 +242,33 @@
   },
   {
     "type": "node",
+    "id": 637893314,
+    "lat": 35.0449892,
+    "lon": -85.3096024,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "sandwich",
+      "name": "Jimmy Johns's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 637894994,
+    "lat": 35.0517045,
+    "lon": -85.3098125,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Panera Bread",
+      "brand:wikidata": "Q7130852",
+      "brand:wikipedia": "en:Panera Bread",
+      "cuisine": "sandwich;bakery",
+      "name": "Panera Bread",
+      "short_name": "Panera",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 638422172,
     "lat": 35.0519260,
     "lon": -85.3104062,
@@ -239,6 +276,40 @@
       "amenity": "restaurant",
       "cuisine": "pizza",
       "name": "Lupi's Pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 674071972,
+    "lat": 35.1187151,
+    "lon": -85.2909368,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Firehouse Subs",
+      "brand:wikidata": "Q5451873",
+      "brand:wikipedia": "en:Firehouse Subs",
+      "cuisine": "sandwich",
+      "name": "Firehouse Subs",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 681592009,
+    "lat": 35.0955316,
+    "lon": -85.3312612,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:postcode": "37405",
+      "addr:state": "TN",
+      "addr:street": "Signal Mountain Boulevard",
+      "amenity": "fast_food",
+      "brand": "Little Caesars",
+      "brand:wikidata": "Q1393809",
+      "brand:wikipedia": "en:Little Caesars",
+      "cuisine": "pizza",
+      "name": "Little Caesars",
+      "takeaway": "yes"
     }
   },
   {
@@ -279,6 +350,33 @@
   },
   {
     "type": "node",
+    "id": 939287435,
+    "lat": 35.0110046,
+    "lon": -85.2242764,
+    "tags": {
+      "addr:street": "5210 Brainerd Rd",
+      "amenity": "fast_food",
+      "brand": "Papa John's",
+      "brand:wikidata": "Q2759586",
+      "brand:wikipedia": "en:Papa John's Pizza",
+      "cuisine": "pizza",
+      "name": "Papa John's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 945168391,
+    "lat": 35.0081487,
+    "lon": -85.1523578,
+    "tags": {
+      "addr:street": "1414 Jenkins Road",
+      "amenity": "fast_food",
+      "name": "Tasty Doughnuts"
+    }
+  },
+  {
+    "type": "node",
     "id": 945168943,
     "lat": 35.0083421,
     "lon": -85.1523042,
@@ -286,6 +384,35 @@
       "addr:street": "1414 Jenkins Road",
       "amenity": "restaurant",
       "name": "Lupi's Pizza Parlor"
+    }
+  },
+  {
+    "type": "node",
+    "id": 945171441,
+    "lat": 35.0138825,
+    "lon": -85.1577330,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "7601",
+      "addr:street": "E Brainerd Road",
+      "amenity": "fast_food",
+      "brand": "Little Caesars",
+      "brand:wikidata": "Q1393809",
+      "brand:wikipedia": "en:Little Caesars",
+      "cuisine": "pizza",
+      "name": "Little Caesars",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 945172750,
+    "lat": 35.0443614,
+    "lon": -85.2807192,
+    "tags": {
+      "addr:street": "E 3rd St",
+      "amenity": "fast_food",
+      "name": "cental park"
     }
   },
   {
@@ -316,6 +443,37 @@
   },
   {
     "type": "node",
+    "id": 946774085,
+    "lat": 35.1137829,
+    "lon": -85.2618617,
+    "tags": {
+      "addr:state": "TN",
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "brand:wikipedia": "en:Arby's",
+      "cuisine": "sandwich",
+      "name": "Arby's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1233738092,
+    "lat": 35.0596239,
+    "lon": -85.0693891,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Papa John's",
+      "brand:wikidata": "Q2759586",
+      "brand:wikipedia": "en:Papa John's Pizza",
+      "cuisine": "pizza",
+      "name": "Papa John's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 1233738132,
     "lat": 35.0600498,
     "lon": -85.0658458,
@@ -325,6 +483,33 @@
       "toilets:wheelchair": "no",
       "wheelchair": "limited",
       "wheelchair:description": "Awesome food but getting in and out is difficult and their bathroom is terrible.  I actually got stuck in it once."
+    }
+  },
+  {
+    "type": "node",
+    "id": 1233738206,
+    "lat": 35.0612047,
+    "lon": -85.0699282,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Domino's",
+      "brand:wikidata": "Q839466",
+      "brand:wikipedia": "en:Domino's Pizza",
+      "cuisine": "pizza",
+      "name": "Domino's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1233752491,
+    "lat": 35.0591804,
+    "lon": -85.0681365,
+    "tags": {
+      "amenity": "cafe",
+      "name": "4 Corners Cafe",
+      "wheelchair": "limited",
+      "wheelchair:description": "The wheelchair ramp is down a ways in front of another store."
     }
   },
   {
@@ -343,6 +528,51 @@
   },
   {
     "type": "node",
+    "id": 1342458510,
+    "lat": 35.1271130,
+    "lon": -85.2474470,
+    "tags": {
+      "addr:housenumber": "4827",
+      "addr:street": "Hixson Pike",
+      "amenity": "fast_food",
+      "brand": "Burger King",
+      "brand:wikidata": "Q177054",
+      "brand:wikipedia": "en:Burger King",
+      "cuisine": "burger",
+      "name": "Burger King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1343606241,
+    "lat": 34.9905430,
+    "lon": -85.3539044,
+    "tags": {
+      "addr:housenumber": "826",
+      "addr:street": "Scenic Hwy",
+      "amenity": "cafe",
+      "name": "Café on the corner"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1343753833,
+    "lat": 34.9738760,
+    "lon": -85.3506955,
+    "tags": {
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 1354445877,
     "lat": 35.0463976,
     "lon": -85.3085148,
@@ -355,6 +585,21 @@
       "amenity": "restaurant",
       "cuisine": "mexican",
       "name": "Taqueria Jalisco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1354445879,
+    "lat": 35.0463896,
+    "lon": -85.3089636,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
     }
   },
   {
@@ -417,6 +662,16 @@
   },
   {
     "type": "node",
+    "id": 1365583541,
+    "lat": 35.0416290,
+    "lon": -85.3098274,
+    "tags": {
+      "amenity": "cafe",
+      "name": "Strouds"
+    }
+  },
+  {
+    "type": "node",
     "id": 1365583549,
     "lat": 35.0422702,
     "lon": -85.3086097,
@@ -475,6 +730,38 @@
   },
   {
     "type": "node",
+    "id": 1438395689,
+    "lat": 35.1131071,
+    "lon": -85.2615007,
+    "tags": {
+      "addr:postcode": "37415",
+      "addr:street": "Hixson Pike",
+      "amenity": "fast_food",
+      "brand": "Papa John's",
+      "brand:wikidata": "Q2759586",
+      "brand:wikipedia": "en:Papa John's Pizza",
+      "cuisine": "pizza",
+      "name": "Papa John's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1438400125,
+    "lat": 35.1238394,
+    "lon": -85.2394561,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Smoothie King",
+      "brand:wikidata": "Q5491421",
+      "brand:wikipedia": "en:Smoothie King",
+      "cuisine": "juice",
+      "name": "Smoothie King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 1438428827,
     "lat": 35.1491845,
     "lon": -85.2072678,
@@ -491,6 +778,16 @@
     "tags": {
       "amenity": "restaurant",
       "name": "fiesta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1442839799,
+    "lat": 35.1536291,
+    "lon": -85.2491449,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "ChooChoo BBQ"
     }
   },
   {
@@ -526,12 +823,39 @@
   },
   {
     "type": "node",
+    "id": 1798661772,
+    "lat": 35.0365436,
+    "lon": -85.3088627,
+    "tags": {
+      "amenity": "cafe",
+      "cost:coffee": "$3",
+      "name": "Mean Mug",
+      "wifi": "free"
+    }
+  },
+  {
+    "type": "node",
     "id": 1888190714,
     "lat": 35.1378605,
     "lon": -85.2807052,
     "tags": {
       "amenity": "restaurant",
       "name": "Armando's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2185751055,
+    "lat": 35.1412811,
+    "lon": -85.3266475,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
     }
   },
   {
@@ -566,6 +890,55 @@
       "brand:wikipedia": "en:Cicis",
       "cuisine": "pizza;buffet",
       "name": "Cici's Pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2188684910,
+    "lat": 35.1249154,
+    "lon": -85.2401254,
+    "tags": {
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2188700692,
+    "lat": 35.1354243,
+    "lon": -85.2388295,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Five Guys",
+      "brand:wikidata": "Q1131810",
+      "brand:wikipedia": "en:Five Guys",
+      "cuisine": "burger",
+      "name": "Five Guys",
+      "official_name": "Five Guys Burgers and Fries",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2188702449,
+    "lat": 35.1242465,
+    "lon": -85.2482791,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Bojangles'",
+      "brand:wikidata": "Q891163",
+      "brand:wikipedia": "en:Bojangles' Famous Chicken 'n Biscuits",
+      "cuisine": "chicken",
+      "drive_through": "yes",
+      "name": "Bojangles'",
+      "official_name": "Bojangles' Famous Chicken 'n Biscuits",
+      "takeaway": "yes"
     }
   },
   {
@@ -622,6 +995,18 @@
   },
   {
     "type": "node",
+    "id": 2190022559,
+    "lat": 35.0454316,
+    "lon": -85.3069346,
+    "tags": {
+      "amenity": "cafe",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "The Camp House"
+    }
+  },
+  {
+    "type": "node",
     "id": 2195905180,
     "lat": 35.1143801,
     "lon": -85.2593259,
@@ -657,12 +1042,45 @@
   },
   {
     "type": "node",
+    "id": 2195951371,
+    "lat": 35.1373419,
+    "lon": -85.2372846,
+    "tags": {
+      "amenity": "cafe",
+      "name": "Dennys Cafe"
+    }
+  },
+  {
+    "type": "node",
     "id": 2195955231,
     "lat": 35.1370392,
     "lon": -85.2377620,
     "tags": {
       "amenity": "restaurant",
       "name": "Little panda express"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2195958248,
+    "lat": 35.1398161,
+    "lon": -85.2345648,
+    "tags": {
+      "addr:city": "Hixson",
+      "addr:housenumber": "5237",
+      "addr:postcode": "37343",
+      "addr:state": "TN",
+      "addr:street": "Hixson Pike",
+      "alt_name": "Einstein Brothers Bagels",
+      "amenity": "fast_food",
+      "brand": "Einstein Bros. Bagels",
+      "brand:wikidata": "Q5349788",
+      "brand:wikipedia": "en:Einstein Bros. Bagels",
+      "cuisine": "bagel",
+      "internet_access": "wlan",
+      "name": "Einstein Bros. Bagels",
+      "takeaway": "yes",
+      "website": "https://www.einsteinbros.com/menu/bagels-and-shmear"
     }
   },
   {
@@ -731,6 +1149,137 @@
   },
   {
     "type": "node",
+    "id": 2743010305,
+    "lat": 35.0121373,
+    "lon": -85.1569772,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "7647",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "East Brainerd Road",
+      "amenity": "fast_food",
+      "brand": "Dunkin' Donuts",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "cuisine": "donut;coffee_shop",
+      "name": "Dunkin' Donuts",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2743010309,
+    "lat": 35.0118930,
+    "lon": -85.1563622,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "7655",
+      "addr:postcode": "37421",
+      "addr:street": "East Brainerd Road",
+      "amenity": "fast_food",
+      "brand": "Wendy's",
+      "brand:wikidata": "Q550258",
+      "brand:wikipedia": "en:Wendy's",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Wendy's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2830068357,
+    "lat": 35.1894850,
+    "lon": -84.8798801,
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "1340",
+      "addr:postcode": "37311",
+      "addr:state": "TN",
+      "addr:street": "25th Street Northwest",
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "opening_hours": "Mo-Sa 06:30-00:00; Su 08:00-00:00",
+      "phone": "+1 423 559 5999",
+      "takeaway": "yes",
+      "website": "https://www.sonicdrivein.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2830078967,
+    "lat": 35.1889874,
+    "lon": -84.8806789,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Burger King",
+      "brand:wikidata": "Q177054",
+      "brand:wikipedia": "en:Burger King",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Burger King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2830079159,
+    "lat": 35.1897549,
+    "lon": -84.8802755,
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "1350",
+      "addr:postcode": "37312",
+      "addr:state": "TN",
+      "addr:street": "25th Street Northwest",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "McDonald's",
+      "phone": "+1 423 479 5343",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2894699891,
+    "lat": 34.9893175,
+    "lon": -85.2112177,
+    "tags": {
+      "addr:state": "TN",
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "cuisine": "sandwich",
+      "drive_through": "yes",
+      "name": "Arby's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2894700755,
+    "lat": 34.9891972,
+    "lon": -85.2105160,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Burger King",
+      "brand:wikidata": "Q177054",
+      "brand:wikipedia": "en:Burger King",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Burger King"
+    }
+  },
+  {
+    "type": "node",
     "id": 2894700756,
     "lat": 34.9897509,
     "lon": -85.2081074,
@@ -756,6 +1305,51 @@
       "opening_hours": "Mo-Th 07:00-20:30; Fr-Sa 07:00-21:00; Su 11:00-20:00",
       "phone": "(423) 485-3481",
       "website": "http://www.urbanspoon.com/r/109/1722919/restaurant/Chattanooga/JCs-Family-BBQ-Harrison"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2939280218,
+    "lat": 35.0172862,
+    "lon": -85.2047246,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:country": "US",
+      "addr:housenumber": "5706",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Firehouse Subs",
+      "brand:wikidata": "Q5451873",
+      "brand:wikipedia": "en:Firehouse Subs",
+      "cuisine": "sandwich",
+      "name": "Firehouse Subs",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2981147603,
+    "lat": 35.1475991,
+    "lon": -84.8410598,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "sandwich",
+      "name": "Subway"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2992335781,
+    "lat": 35.1848011,
+    "lon": -84.8744306,
+    "tags": {
+      "addr:housenumber": "920",
+      "addr:postcode": "37311",
+      "addr:street": "25th Street NW",
+      "amenity": "fast_food",
+      "cuisine": "burger",
+      "name": "Checkers"
     }
   },
   {
@@ -800,6 +1394,16 @@
       "amenity": "restaurant",
       "cuisine": "regional",
       "name": "TerraMae Appalachian Bistro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3413108272,
+    "lat": 35.1029342,
+    "lon": -85.3312284,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Subway"
     }
   },
   {
@@ -882,6 +1486,22 @@
   },
   {
     "type": "node",
+    "id": 4032066274,
+    "lat": 35.0679727,
+    "lon": -85.2883072,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "1313",
+      "addr:postcode": "37405",
+      "addr:state": "TN",
+      "addr:street": "Hanover Street",
+      "amenity": "cafe",
+      "cuisine": "sandwich",
+      "name": "Vine Street Market"
+    }
+  },
+  {
+    "type": "node",
     "id": 4032071679,
     "lat": 35.0686801,
     "lon": -85.2889961,
@@ -894,6 +1514,22 @@
       "amenity": "restaurant",
       "cuisine": "italian",
       "name": "Il Primo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4032104985,
+    "lat": 35.0695758,
+    "lon": -85.2896050,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "1209",
+      "addr:postcode": "37405",
+      "addr:state": "TN",
+      "addr:street": "Tremont Street",
+      "amenity": "cafe",
+      "cuisine": "juice",
+      "name": "Southern Sqweeze"
     }
   },
   {
@@ -914,6 +1550,32 @@
   },
   {
     "type": "node",
+    "id": 4332722992,
+    "lat": 35.1313173,
+    "lon": -84.8571227,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Hardee's",
+      "brand:wikidata": "Q1585088",
+      "brand:wikipedia": "en:Hardee's",
+      "cuisine": "burger",
+      "name": "Hardee's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4332723398,
+    "lat": 35.1853030,
+    "lon": -84.8761712,
+    "tags": {
+      "amenity": "fast_food",
+      "drive_through": "yes",
+      "name": "Wendy's"
+    }
+  },
+  {
+    "type": "node",
     "id": 4375939712,
     "lat": 35.0831059,
     "lon": -85.0547446,
@@ -927,6 +1589,17 @@
       "cuisine": "pizza",
       "name": "Lupi's Pizza",
       "opening_hours": "Tu-Th 11:00-22:00, Fr-Sa 11:00-23:00, Su 11:30-21:00, Mo closed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4375947800,
+    "lat": 35.0833263,
+    "lon": -85.0552450,
+    "tags": {
+      "amenity": "cafe",
+      "cuisine": "coffee_shop",
+      "name": "Wired Coffee"
     }
   },
   {
@@ -956,6 +1629,18 @@
       "cuisine": "burger",
       "drink:beer": "served",
       "name": "Southern Burger",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4688874599,
+    "lat": 35.0752578,
+    "lon": -85.0618098,
+    "tags": {
+      "amenity": "cafe",
+      "cuisine": "coffee_shop",
+      "name": "Wired",
       "smoking": "no"
     }
   },
@@ -1014,6 +1699,38 @@
   },
   {
     "type": "node",
+    "id": 4830653385,
+    "lat": 35.1487302,
+    "lon": -85.2072813,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Subway"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4862264622,
+    "lat": 34.9546266,
+    "lon": -85.1635018,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Thacher's BBQ",
+      "name:en": "Thacher's BBQ"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4862264821,
+    "lat": 34.9335414,
+    "lon": -85.1374159,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bailey's BBQ",
+      "name:en": "Bailey's BBQ"
+    }
+  },
+  {
+    "type": "node",
     "id": 4989038181,
     "lat": 35.0125348,
     "lon": -85.2111706,
@@ -1031,12 +1748,69 @@
   },
   {
     "type": "node",
+    "id": 4989038182,
+    "lat": 35.0114748,
+    "lon": -85.2129999,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Little Caesars",
+      "brand:wikidata": "Q1393809",
+      "brand:wikipedia": "en:Little Caesars",
+      "cuisine": "pizza",
+      "delivery": "yes",
+      "internet_access": "no",
+      "name": "Little Caesars",
+      "smoking": "no",
+      "takeaway": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 4989067165,
     "lat": 35.0957171,
     "lon": -85.3298302,
     "tags": {
       "amenity": "restaurant",
       "name": "McCalister's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4993669059,
+    "lat": 35.0619039,
+    "lon": -85.3055455,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Jimmy John's",
+      "brand:wikidata": "Q1689380",
+      "brand:wikipedia": "en:Jimmy John's",
+      "cuisine": "sandwich",
+      "name": "Jimmy John's",
+      "official_name": "Jimmy John's Gourmet Sandwiches",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5012932619,
+    "lat": 35.0191787,
+    "lon": -85.2385372,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "chinese",
+      "name": "Number 1 Chinese Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5012932620,
+    "lat": 35.0192227,
+    "lon": -85.2385640,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "pizza",
+      "name": "Pizza Hut"
     }
   },
   {
@@ -1073,6 +1847,49 @@
   },
   {
     "type": "node",
+    "id": 5696476299,
+    "lat": 35.0630862,
+    "lon": -85.3097646,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "20",
+      "addr:postcode": "37405",
+      "addr:state": "TN",
+      "addr:street": "Cherokee Boulevard",
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "opening_hours": "06:00-21:00",
+      "payment:cash": "yes",
+      "payment:coins": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5764747733,
+    "lat": 35.0356924,
+    "lon": -85.3121129,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Smoothie King",
+      "brand:wikidata": "Q5491421",
+      "brand:wikipedia": "en:Smoothie King",
+      "cuisine": "juice",
+      "name": "Smoothie King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 5764747734,
     "lat": 35.0357659,
     "lon": -85.3120659,
@@ -1080,6 +1897,37 @@
       "amenity": "restaurant",
       "cuisine": "mexican",
       "name": "Dosbros Fresh Mexican Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5883150466,
+    "lat": 35.0168245,
+    "lon": -85.3820757,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Waffle House",
+      "brand:wikidata": "Q1701206",
+      "brand:wikipedia": "en:Waffle House",
+      "cuisine": "american",
+      "name": "Waffle House",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5883150467,
+    "lat": 35.0177888,
+    "lon": -85.3792817,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Wendy's",
+      "brand:wikidata": "Q550258",
+      "brand:wikipedia": "en:Wendy's",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Wendy's",
+      "takeaway": "yes"
     }
   },
   {
@@ -1102,6 +1950,17 @@
       "amenity": "restaurant",
       "cuisine": "chinese",
       "name": "Fortune House Chinese Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5924275460,
+    "lat": 35.1392083,
+    "lon": -85.3280304,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "sandwich",
+      "name": "517 Subs"
     }
   },
   {
@@ -1134,6 +1993,16 @@
   },
   {
     "type": "node",
+    "id": 6006076516,
+    "lat": 35.0374240,
+    "lon": -85.1973911,
+    "tags": {
+      "amenity": "cafe",
+      "name": "Copilot Coffee"
+    }
+  },
+  {
+    "type": "node",
     "id": 6006076517,
     "lat": 35.0377722,
     "lon": -85.1978076,
@@ -1151,6 +2020,78 @@
       "amenity": "restaurant",
       "cuisine": "pizza",
       "name": "The Pizza Place"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6073918931,
+    "lat": 35.0196395,
+    "lon": -85.3855900,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Waffle House",
+      "brand:wikidata": "Q1701206",
+      "brand:wikipedia": "en:Waffle House",
+      "cuisine": "american",
+      "name": "Waffle House",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6399870685,
+    "lat": 35.0193393,
+    "lon": -85.3197266,
+    "tags": {
+      "addr:street": "West 31st Street",
+      "amenity": "cafe",
+      "name": "Madpriest Coffee 'd Cocktail bar",
+      "name:en": "Mad Priest Coffee & Cocktails, Stratton Hall",
+      "opening_hours": "Mo-Su 07:00-22:00",
+      "website": "https://www.madpriestcha.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6400926223,
+    "lat": 35.0340356,
+    "lon": -85.3013770,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "509",
+      "addr:postcode": "37408",
+      "addr:state": "TN",
+      "addr:street": "East Main Street",
+      "addr:unit": "#3",
+      "amenity": "cafe",
+      "cuisine": "coffee_shop",
+      "delivery": "no",
+      "email": "CONTACT@VELOCOFFEE.COM",
+      "internet_access": "wlan",
+      "name": "Velo Coffee Roasters",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-15:00",
+      "outdoor_seating": "yes",
+      "payment:american_express": "yes",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "phone": "+1 423-529-2453",
+      "takeaway": "yes",
+      "website": "https://www.velocoffee.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6402879273,
+    "lat": 35.1393098,
+    "lon": -85.3295754,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Domino's Pizza",
+      "brand:wikidata": "Q839466",
+      "brand:wikipedia": "en:Domino's Pizza",
+      "cuisine": "pizza",
+      "name": "Domino's Pizza",
+      "takeaway": "yes"
     }
   },
   {
@@ -1204,6 +2145,16 @@
   },
   {
     "type": "node",
+    "id": 6652331713,
+    "lat": 35.0845819,
+    "lon": -85.2034454,
+    "tags": {
+      "amenity": "cafe",
+      "name": "Speedy Cafe"
+    }
+  },
+  {
+    "type": "node",
     "id": 6652331724,
     "lat": 35.0838098,
     "lon": -85.2041411,
@@ -1212,6 +2163,151 @@
       "cuisine": "breakfast",
       "name": "Waffle House",
       "source": "Bing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6652331739,
+    "lat": 35.0838163,
+    "lon": -85.2011216,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Popeyes",
+      "brand:wikidata": "Q1330910",
+      "brand:wikipedia": "en:Popeyes",
+      "cuisine": "chicken",
+      "name": "Popeyes",
+      "official_name": "Popeyes Louisiana Kitchen",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6652372652,
+    "lat": 35.0880708,
+    "lon": -85.1878886,
+    "tags": {
+      "amenity": "fast_food",
+      "source": "Bing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6652372655,
+    "lat": 35.0891598,
+    "lon": -85.1864736,
+    "tags": {
+      "amenity": "fast_food",
+      "source": "Bing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6652372661,
+    "lat": 35.0920511,
+    "lon": -85.1842923,
+    "tags": {
+      "amenity": "fast_food",
+      "source": "Bing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6652372669,
+    "lat": 35.0883733,
+    "lon": -85.1875293,
+    "tags": {
+      "amenity": "fast_food",
+      "source": "Bing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6652372675,
+    "lat": 35.0846451,
+    "lon": -85.1933646,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6652372679,
+    "lat": 35.0923022,
+    "lon": -85.1805351,
+    "tags": {
+      "amenity": "fast_food",
+      "source": "Bing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7065284064,
+    "lat": 35.1459607,
+    "lon": -85.2518512,
+    "tags": {
+      "addr:city": "Hixson",
+      "addr:housenumber": "5579",
+      "addr:postcode": "37343",
+      "addr:state": "TN",
+      "addr:street": "TN 153",
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7065305859,
+    "lat": 35.0245251,
+    "lon": -85.1556435,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "1816",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "Gunbarrel Road",
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7070868968,
+    "lat": 34.9999362,
+    "lon": -85.2574857,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "pizza",
+      "name": "Little Caesars"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7070868970,
+    "lat": 35.0010809,
+    "lon": -85.2577163,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "sandwich",
+      "name": "Subway"
     }
   },
   {
@@ -1305,6 +2401,22 @@
   },
   {
     "type": "node",
+    "id": 7100456831,
+    "lat": 35.0512717,
+    "lon": -85.3093998,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Taziki's Mediterranean Cafe",
+      "brand:wikidata": "Q19849840",
+      "brand:wikipedia": "en:Taziki's Mediterranean Café",
+      "cuisine": "mediterranean",
+      "name": "Taziki's Mediterranean Cafe",
+      "short_name": "Taziki's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 7100456832,
     "lat": 35.0519545,
     "lon": -85.3098182,
@@ -1312,6 +2424,32 @@
       "amenity": "restaurant",
       "cuisine": "arab",
       "name": "The 405 Mid-East Bistro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7100456835,
+    "lat": 35.0521115,
+    "lon": -85.3109327,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Five Guys",
+      "brand:wikidata": "Q1131810",
+      "brand:wikipedia": "en:Five Guys",
+      "cuisine": "burger",
+      "name": "Five Guys",
+      "official_name": "Five Guys Burgers and Fries",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7125075816,
+    "lat": 35.0323310,
+    "lon": -85.2963435,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Griffins Foot Long Hot Dogs"
     }
   },
   {
@@ -1357,6 +2495,21 @@
       "cuisine": "asian",
       "name": "Kumo Hibachi",
       "phone": "423-468-3385"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7248986798,
+    "lat": 35.1469218,
+    "lon": -85.2486717,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Firehouse Subs",
+      "brand:wikidata": "Q5451873",
+      "brand:wikipedia": "en:Firehouse Subs",
+      "cuisine": "sandwich",
+      "name": "Firehouse Subs",
+      "takeaway": "yes"
     }
   },
   {
@@ -1413,6 +2566,26 @@
   },
   {
     "type": "node",
+    "id": 8025885200,
+    "lat": 35.0980693,
+    "lon": -85.3281686,
+    "tags": {
+      "addr:city": "chattanooga",
+      "addr:postcode": "37405",
+      "addr:state": "TN",
+      "addr:street": "Mountain Creek Road",
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 8025905295,
     "lat": 35.0836782,
     "lon": -85.3182915,
@@ -1441,6 +2614,27 @@
   },
   {
     "type": "node",
+    "id": 8457596114,
+    "lat": 35.0618761,
+    "lon": -85.1377518,
+    "tags": {
+      "amenity": "cafe",
+      "cuisine": "coffee_shop",
+      "name": "Oaks Coffeehouse"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8596283112,
+    "lat": 35.0640810,
+    "lon": -85.3091331,
+    "tags": {
+      "amenity": "cafe",
+      "name": "Milk and Honey"
+    }
+  },
+  {
+    "type": "node",
     "id": 8644095974,
     "lat": 35.1175538,
     "lon": -85.2910450,
@@ -1448,6 +2642,34 @@
       "amenity": "restaurant",
       "cuisine": "asian",
       "name": "Grand China"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8699774301,
+    "lat": 35.0901737,
+    "lon": -85.3122685,
+    "tags": {
+      "addr:city": "Red Bank",
+      "addr:housenumber": "2009",
+      "addr:postcode": "37405",
+      "addr:state": "TN",
+      "addr:street": "Dayton Boulevard",
+      "amenity": "fast_food",
+      "cuisine": "pizza",
+      "name": "Marco's Pizaa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8713470890,
+    "lat": 35.0517361,
+    "lon": -85.3109095,
+    "tags": {
+      "amenity": "cafe",
+      "cuisine": "bubble_tea",
+      "name": "Taichi Bubble Tea",
+      "opening_hours": "Su-Th 11:00-21:00; Fr-Sa 11:00-21:30"
     }
   },
   {
@@ -1494,6 +2716,29 @@
   },
   {
     "type": "node",
+    "id": 9049613547,
+    "lat": 35.1639943,
+    "lon": -84.8829635,
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "125",
+      "addr:postcode": "37311",
+      "addr:state": "TN",
+      "addr:street": "Keith Street NW",
+      "amenity": "fast_food",
+      "brand": "Jimmy John's",
+      "brand:wikidata": "Q1689380",
+      "brand:wikipedia": "en:Jimmy John's",
+      "cuisine": "sandwich",
+      "name": "Jimmy John's",
+      "official_name": "Jimmy John's Gourmet Sandwiches",
+      "payment:apple_pay": "yes",
+      "payment:google_pay": "yes",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 9049613552,
     "lat": 35.1645512,
     "lon": -84.8829179,
@@ -1534,6 +2779,46 @@
   },
   {
     "type": "node",
+    "id": 9146873142,
+    "lat": 35.1301820,
+    "lon": -84.8760460,
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "2661",
+      "addr:postcode": "37323",
+      "addr:state": "TN",
+      "addr:street": "APD 40",
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "opening_hours": "Mo-Sa 07:00-22:00; Su 09:00-22:00",
+      "phone": "+1 423 559 2274",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9213010057,
+    "lat": 35.0338907,
+    "lon": -85.3130997,
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "1900",
+      "addr:postcode": "37408",
+      "addr:state": "TN",
+      "addr:street": "Broad Street",
+      "amenity": "cafe",
+      "cuisine": "coffee_shop",
+      "name": "Mad Priest Coffee",
+      "phone": "+1-423-393-3834",
+      "website": "https://madpriestcoffee.com"
+    }
+  },
+  {
+    "type": "node",
     "id": 9222927799,
     "lat": 34.9896229,
     "lon": -85.2147629,
@@ -1549,6 +2834,42 @@
       "cuisine": "mexican",
       "name": "Don Juans Tienda",
       "phone": "+1-423-892-1080"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9298261336,
+    "lat": 35.1904189,
+    "lon": -84.8837721,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "opening_hours": "Mo-Sa 08:00-23:00; Su 09:00-22:00",
+      "phone": "+1 423 244 5740",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9298261337,
+    "lat": 35.1903685,
+    "lon": -84.8836005,
+    "tags": {
+      "alt_name": "Dunkin' Donuts",
+      "amenity": "fast_food",
+      "brand": "Dunkin'",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "cuisine": "donut;coffee_shop",
+      "name": "Dunkin'",
+      "opening_hours": "Su-Th 05:00-21:00; Fr-Sa 05:00-22:00",
+      "phone": "+1 423 790 7058",
+      "takeaway": "yes",
+      "website": "https://www.dunkindonuts.com/"
     }
   },
   {
@@ -1626,6 +2947,105 @@
       "payment:mastercard": "yes",
       "payment:visa": "yes",
       "website": "http://www.mashandhops.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9726777218,
+    "lat": 34.9526314,
+    "lon": -85.2476957,
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "1010",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Domino's",
+      "brand:wikidata": "Q839466",
+      "brand:wikipedia": "en:Domino's Pizza",
+      "cuisine": "pizza",
+      "name": "Domino's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9726777220,
+    "lat": 34.9526112,
+    "lon": -85.2475904,
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "1014",
+      "addr:postcode": "30742",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "cuisine": "wings",
+      "name": "2A Wings"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9726777222,
+    "lat": 34.9525725,
+    "lon": -85.2473889,
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Soho Hibachi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9730446447,
+    "lat": 34.9554079,
+    "lon": -85.2531378,
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "723",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "brand": "Cicis",
+      "brand:wikidata": "Q2972189",
+      "brand:wikipedia": "en:Cicis",
+      "cuisine": "pizza;buffet",
+      "name": "Cicis"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9730446453,
+    "lat": 34.9554005,
+    "lon": -85.2535995,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "thai;chinese",
+      "name": "Thai Garden"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9750408661,
+    "lat": 34.9532568,
+    "lon": -85.2585993,
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2467",
+      "addr:postcode": "30742",
+      "addr:state": "GA",
+      "addr:street": "Lafayette Road",
+      "amenity": "fast_food",
+      "cuisine": "chinese",
+      "name": "Ming Moon"
     }
   },
   {
@@ -1740,6 +3160,33 @@
       "amenity": "restaurant",
       "building": "yes",
       "name": "Food Works"
+    }
+  },
+  {
+    "type": "way",
+    "id": 45095384,
+    "center": {
+      "lat": 35.0697769,
+      "lon": -85.2897002
+    },
+    "nodes": [
+      571724599,
+      571724600,
+      571724601,
+      571724602,
+      571724603,
+      571724599
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "1211",
+      "addr:postcode": "37343",
+      "addr:street": "Hixson Pike",
+      "amenity": "cafe",
+      "building": "yes",
+      "name": "The Farmer's Daughter",
+      "phone": "423-355-5372",
+      "website": "https://thefarmersdaughterchattanooga.com/"
     }
   },
   {
@@ -1971,6 +3418,67 @@
   },
   {
     "type": "way",
+    "id": 46547705,
+    "center": {
+      "lat": 35.0851726,
+      "lon": -85.3161485
+    },
+    "nodes": [
+      595297870,
+      595297872,
+      595297874,
+      6758468727,
+      6039847232,
+      6758468726,
+      6039847231,
+      6039847230,
+      6758468724,
+      6758468725,
+      595297870
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "1866",
+      "addr:postcode": "37405",
+      "addr:state": "TN",
+      "addr:street": "Dayton Boulevard",
+      "amenity": "fast_food",
+      "brand": "Wendy's",
+      "brand:wikidata": "Q550258",
+      "brand:wikipedia": "en:Wendy's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Wendy's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 46551346,
+    "center": {
+      "lat": 35.0949617,
+      "lon": -85.3075621
+    },
+    "nodes": [
+      595302386,
+      595302390,
+      595302397,
+      595302401,
+      595302386
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 49533126,
     "center": {
       "lat": 35.0432472,
@@ -2022,6 +3530,30 @@
       "cuisine": "tex-mex",
       "name": "Chili's",
       "official_name": "Chili's Grill & Bar"
+    }
+  },
+  {
+    "type": "way",
+    "id": 50264013,
+    "center": {
+      "lat": 35.0650126,
+      "lon": -85.3122206
+    },
+    "nodes": [
+      638790203,
+      6127179651,
+      6127179652,
+      6127179650,
+      6127179649,
+      638790206,
+      638790199,
+      638790207,
+      638790203
+    ],
+    "tags": {
+      "addr:housename": "Krystal",
+      "amenity": "fast_food",
+      "building": "yes"
     }
   },
   {
@@ -2091,6 +3623,63 @@
   },
   {
     "type": "way",
+    "id": 51790230,
+    "center": {
+      "lat": 35.0110110,
+      "lon": -85.2148108
+    },
+    "nodes": [
+      660826620,
+      660826629,
+      660826660,
+      660826631,
+      660826620
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "5610",
+      "addr:postcode": "37411",
+      "addr:state": "TN",
+      "addr:street": "Brainerd Road",
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "building": "yes",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 51790234,
+    "center": {
+      "lat": 35.0110085,
+      "lon": -85.2175830
+    },
+    "nodes": [
+      660826616,
+      660826637,
+      660826654,
+      660826651,
+      660826616
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Krispy Kreme",
+      "brand:wikidata": "Q1192805",
+      "brand:wikipedia": "en:Krispy Kreme",
+      "building": "yes",
+      "cuisine": "donut",
+      "name": "Krispy Kreme",
+      "shop": "bakery",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 51790235,
     "center": {
       "lat": 35.0113818,
@@ -2146,6 +3735,27 @@
   },
   {
     "type": "way",
+    "id": 51805268,
+    "center": {
+      "lat": 35.0097465,
+      "lon": -85.2210645
+    },
+    "nodes": [
+      660937103,
+      660937094,
+      660937095,
+      660937092,
+      660937103
+    ],
+    "tags": {
+      "addr:street": "5402 Brainerd Rd",
+      "amenity": "fast_food",
+      "building": "yes",
+      "name": "Mister Wok"
+    }
+  },
+  {
+    "type": "way",
     "id": 51805269,
     "center": {
       "lat": 35.0106081,
@@ -2167,6 +3777,126 @@
       "building": "yes",
       "cuisine": "seafood",
       "name": "Boil Shack Seafood"
+    }
+  },
+  {
+    "type": "way",
+    "id": 51805270,
+    "center": {
+      "lat": 35.0096615,
+      "lon": -85.2205936
+    },
+    "nodes": [
+      660937098,
+      660937099,
+      8689224238,
+      8689224239,
+      8689224237,
+      660937091,
+      8689224235,
+      8689224233,
+      8689224234,
+      8689224236,
+      660937093,
+      660937098
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "brand:wikipedia": "en:Arby's",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Arby's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 51967124,
+    "center": {
+      "lat": 35.2010941,
+      "lon": -85.1586691
+    },
+    "nodes": [
+      662727846,
+      662727938,
+      662727882,
+      662727893,
+      662727846
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "McDonald's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 51967137,
+    "center": {
+      "lat": 35.1990298,
+      "lon": -85.1610470
+    },
+    "nodes": [
+      662727921,
+      662727831,
+      9051125611,
+      9051125612,
+      9051125613,
+      9051125610,
+      662727924,
+      662727826,
+      662727921
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "brand:wikipedia": "en:Arby's",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Arby's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 53371819,
+    "center": {
+      "lat": 35.1152449,
+      "lon": -85.2544850
+    },
+    "nodes": [
+      674929448,
+      674929440,
+      1438398073,
+      3297931978,
+      674929442,
+      674929445,
+      674929448
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "4123",
+      "addr:postcode": "37415",
+      "addr:street": "Hixson Pike",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "phone": "+1-423-877-9056",
+      "takeaway": "yes",
+      "website": "http://www.mctennessee.com/1281"
     }
   },
   {
@@ -2197,6 +3927,33 @@
   },
   {
     "type": "way",
+    "id": 53648275,
+    "center": {
+      "lat": 35.1281337,
+      "lon": -85.2421281
+    },
+    "nodes": [
+      677530473,
+      677530476,
+      677530475,
+      677530478,
+      677530473
+    ],
+    "tags": {
+      "addr:housename": "arbys",
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "brand:wikipedia": "en:Arby's",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "drive_through": "yes",
+      "name": "Arby's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 53648339,
     "center": {
       "lat": 35.1264540,
@@ -2218,6 +3975,34 @@
       "building": "yes",
       "cuisine": "american",
       "name": "Logan's Roadhouse"
+    }
+  },
+  {
+    "type": "way",
+    "id": 53648478,
+    "center": {
+      "lat": 35.1322677,
+      "lon": -85.2423787
+    },
+    "nodes": [
+      2188671474,
+      677532875,
+      1848542006,
+      1848542005,
+      677532874,
+      677532876,
+      2188671474
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Panera Bread",
+      "brand:wikidata": "Q7130852",
+      "brand:wikipedia": "en:Panera Bread",
+      "building": "yes",
+      "cuisine": "sandwich;bakery",
+      "name": "Panera Bread",
+      "short_name": "Panera",
+      "takeaway": "yes"
     }
   },
   {
@@ -2255,6 +4040,37 @@
   },
   {
     "type": "way",
+    "id": 55910705,
+    "center": {
+      "lat": 35.1216162,
+      "lon": -85.2870051
+    },
+    "nodes": [
+      702015149,
+      702015143,
+      6744821704,
+      6744821701,
+      6744821702,
+      6744821703,
+      702015151,
+      702015147,
+      702015149
+    ],
+    "tags": {
+      "addr:housename": "rite aid",
+      "addr:street": "Dayton Boulevard",
+      "amenity": "fast_food",
+      "brand": "Jack's",
+      "brand:wikidata": "Q6110826",
+      "brand:wikipedia": "en:Jack's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Jack's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 67285974,
     "center": {
       "lat": 35.1204703,
@@ -2276,6 +4092,36 @@
       "amenity": "restaurant",
       "building": "yes",
       "name": "Typhoon of Tokyo"
+    }
+  },
+  {
+    "type": "way",
+    "id": 67470856,
+    "center": {
+      "lat": 35.1233406,
+      "lon": -85.2861394
+    },
+    "nodes": [
+      814460715,
+      814460736,
+      814460691,
+      814460707,
+      814460715
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "4106",
+      "addr:postcode": "37415",
+      "addr:state": "TN",
+      "addr:street": "Dayton Boulevard",
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "building": "retail",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
     }
   },
   {
@@ -2393,6 +4239,59 @@
   },
   {
     "type": "way",
+    "id": 80433826,
+    "center": {
+      "lat": 35.1218359,
+      "lon": -85.2934729
+    },
+    "nodes": [
+      938564933,
+      938564935,
+      938564934,
+      938564932,
+      938564933
+    ],
+    "tags": {
+      "addr:street": "morrison springs rd",
+      "amenity": "fast_food",
+      "brand": "Hardee's",
+      "brand:wikidata": "Q1585088",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Hardee's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 80434080,
+    "center": {
+      "lat": 35.0254672,
+      "lon": -85.1575321
+    },
+    "nodes": [
+      938566970,
+      938566972,
+      938566973,
+      6463518944,
+      938566971,
+      6463518945,
+      938566970
+    ],
+    "tags": {
+      "addr:street": "1810 Gunbarrel Road",
+      "amenity": "fast_food",
+      "brand": "Panera Bread",
+      "brand:wikidata": "Q7130852",
+      "brand:wikipedia": "en:Panera Bread",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Panera Bread",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 80436725,
     "center": {
       "lat": 35.0341042,
@@ -2413,6 +4312,227 @@
       "amenity": "restaurant",
       "building": "yes",
       "name": "P.F. Chang's"
+    }
+  },
+  {
+    "type": "way",
+    "id": 80437442,
+    "center": {
+      "lat": 35.1428512,
+      "lon": -85.2483325
+    },
+    "nodes": [
+      938606418,
+      7249205252,
+      7249205253,
+      7249205254,
+      938606421,
+      7249205256,
+      7249205255,
+      938606623,
+      938606638,
+      7249205249,
+      7249205250,
+      7249205251,
+      7249205248,
+      938606418
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Moe's Southwest Grill",
+      "brand:wikidata": "Q6889938",
+      "brand:wikipedia": "en:Moe's Southwest Grill",
+      "building": "yes",
+      "cuisine": "mexican",
+      "name": "Moe's Southwest Grill",
+      "short_name": "Moe's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 80438117,
+    "center": {
+      "lat": 35.0161883,
+      "lon": -85.3837131
+    },
+    "nodes": [
+      938609957,
+      938610028,
+      938610363,
+      938610262,
+      938609957
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Cracker Barrel",
+      "brand:wikidata": "Q4492609",
+      "brand:wikipedia": "en:Cracker Barrel",
+      "building": "yes",
+      "cuisine": "american",
+      "name": "Cracker Barrel",
+      "official_name": "Cracker Barrel Old Country Store"
+    }
+  },
+  {
+    "type": "way",
+    "id": 80438121,
+    "center": {
+      "lat": 35.0152013,
+      "lon": -85.3842546
+    },
+    "nodes": [
+      938610168,
+      938610231,
+      938610263,
+      938609938,
+      938610168
+    ],
+    "tags": {
+      "addr:housenumber": "3710",
+      "addr:postcode": "37419",
+      "addr:street": "Modern Industries Parkway",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 80512798,
+    "center": {
+      "lat": 35.0064988,
+      "lon": -85.1541979
+    },
+    "nodes": [
+      939257746,
+      939257762,
+      939257759,
+      939257764,
+      939257746
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "name": "Chattanooga BBQ"
+    }
+  },
+  {
+    "type": "way",
+    "id": 80513021,
+    "center": {
+      "lat": 35.0265305,
+      "lon": -85.3633417
+    },
+    "nodes": [
+      939264028,
+      939264033,
+      939264130,
+      939264084,
+      939264028
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Hardee's",
+      "brand:wikidata": "Q1585088",
+      "brand:wikipedia": "en:Hardee's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Hardee's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 80513022,
+    "center": {
+      "lat": 35.0254297,
+      "lon": -85.3638651
+    },
+    "nodes": [
+      939264100,
+      939264082,
+      939264151,
+      939264025,
+      4873110808,
+      4873110809,
+      939264100
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "156",
+      "addr:postcode": "00003-7419",
+      "addr:street": "Browns Ferry Road",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 80513040,
+    "center": {
+      "lat": 35.0177444,
+      "lon": -85.1722894
+    },
+    "nodes": [
+      939264828,
+      939264826,
+      3230231477,
+      939264829,
+      939264827,
+      3230231478,
+      939264828
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "9652",
+      "addr:street": "East Brainerd Road",
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 80513390,
+    "center": {
+      "lat": 35.0135317,
+      "lon": -85.2284580
+    },
+    "nodes": [
+      939271485,
+      939271483,
+      939271486,
+      939271484,
+      939271485
+    ],
+    "tags": {
+      "addr:housenumber": "954-3032",
+      "addr:street": "4829 Brainerd Rd",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
     }
   },
   {
@@ -2488,6 +4608,102 @@
   },
   {
     "type": "way",
+    "id": 81162468,
+    "center": {
+      "lat": 35.0838402,
+      "lon": -85.2046838
+    },
+    "nodes": [
+      945829323,
+      945829303,
+      945829324,
+      945829400,
+      945829323
+    ],
+    "tags": {
+      "addr:street": "highway 58",
+      "amenity": "cafe",
+      "building": "yes",
+      "name": "susans kopper kettle"
+    }
+  },
+  {
+    "type": "way",
+    "id": 81162484,
+    "center": {
+      "lat": 35.0846801,
+      "lon": -85.2027244
+    },
+    "nodes": [
+      945829393,
+      945829409,
+      945829411,
+      945829478,
+      945829393
+    ],
+    "tags": {
+      "addr:street": "Oakhill Drive",
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 81172038,
+    "center": {
+      "lat": 35.0392182,
+      "lon": -85.2667288
+    },
+    "nodes": [
+      945900424,
+      945900417,
+      945171406,
+      945900411,
+      945900410,
+      945900424
+    ],
+    "tags": {
+      "addr:street": "East 3rd Street",
+      "amenity": "fast_food",
+      "building": "yes",
+      "name": "KFC"
+    }
+  },
+  {
+    "type": "way",
+    "id": 81172039,
+    "center": {
+      "lat": 35.0396055,
+      "lon": -85.2665626
+    },
+    "nodes": [
+      945900413,
+      945900407,
+      945900418,
+      4895419071,
+      945900415,
+      945900405,
+      945900413
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "408",
+      "addr:postcode": "37404",
+      "addr:street": "Dodson Avenue",
+      "amenity": "fast_food",
+      "building": "yes",
+      "name": "Ronnie's Grill"
+    }
+  },
+  {
+    "type": "way",
     "id": 82665329,
     "center": {
       "lat": 35.0132460,
@@ -2538,6 +4754,98 @@
   },
   {
     "type": "way",
+    "id": 130662378,
+    "center": {
+      "lat": 35.1151652,
+      "lon": -85.2554266
+    },
+    "nodes": [
+      1438399187,
+      1438399056,
+      1438399058,
+      1438399057,
+      1438399187
+    ],
+    "tags": {
+      "addr:postcode": "37415",
+      "addr:street": "Hixson Pike;Hixson pike",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 130662693,
+    "center": {
+      "lat": 35.1169071,
+      "lon": -85.2510602
+    },
+    "nodes": [
+      1438403481,
+      1438403474,
+      3306489609,
+      3306489610,
+      1277846996,
+      1438403488,
+      1438403472,
+      1438403471,
+      1438403481
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "phone": "+1-423-876-0304",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 130662960,
+    "center": {
+      "lat": 35.1544752,
+      "lon": -85.2481879
+    },
+    "nodes": [
+      1438405198,
+      1438405225,
+      1438405214,
+      1438405227,
+      1844460501,
+      1844460499,
+      1438405230,
+      1844460497,
+      1844460494,
+      1438405213,
+      1844460486,
+      1844460484,
+      1438405198
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Chick-fil-A",
+      "brand:wikidata": "Q491516",
+      "brand:wikipedia": "en:Chick-fil-A",
+      "building": "yes",
+      "cuisine": "chicken",
+      "drive_through": "yes",
+      "name": "Chick-fil-A",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 130663063,
     "center": {
       "lat": 35.1550268,
@@ -2563,6 +4871,86 @@
       "building": "commercial",
       "cuisine": "wings",
       "name": "Buffalo Wild Wings"
+    }
+  },
+  {
+    "type": "way",
+    "id": 130663596,
+    "center": {
+      "lat": 35.1288979,
+      "lon": -85.2438451
+    },
+    "nodes": [
+      1438411907,
+      7226588227,
+      7226588226,
+      7226588225,
+      1438411900,
+      1438411897,
+      1438411894,
+      7226588231,
+      7226588230,
+      7226588229,
+      7226588228,
+      1438411891,
+      1438411907
+    ],
+    "tags": {
+      "alt_name": "Kentucky Fried Chicken",
+      "amenity": "fast_food",
+      "brand": "KFC",
+      "brand:wikidata": "Q524757",
+      "brand:wikipedia": "en:KFC",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "KFC",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 130876899,
+    "center": {
+      "lat": 35.1529490,
+      "lon": -85.1997588
+    },
+    "nodes": [
+      1440423677,
+      1440423657,
+      1440423659,
+      1440423661,
+      1440423677
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 130877928,
+    "center": {
+      "lat": 35.1520826,
+      "lon": -85.1998450
+    },
+    "nodes": [
+      1440431883,
+      1440431825,
+      1440431855,
+      1440431834,
+      1440431883
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "Papa John's"
     }
   },
   {
@@ -2595,6 +4983,82 @@
   },
   {
     "type": "way",
+    "id": 131024070,
+    "center": {
+      "lat": 35.1282511,
+      "lon": -85.2434231
+    },
+    "nodes": [
+      1442787729,
+      1442787416,
+      1442787396,
+      1442787483,
+      1442787729
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Dunkin' Donuts",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "building": "yes",
+      "cuisine": "donut;coffee_shop",
+      "name": "Dunkin' Donuts",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 131031708,
+    "center": {
+      "lat": 35.1526950,
+      "lon": -85.2496113
+    },
+    "nodes": [
+      1442849838,
+      1442849860,
+      1442849865,
+      1442849870,
+      1442849838
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Papa Murphy's",
+      "brand:wikidata": "Q7132349",
+      "brand:wikipedia": "en:Papa Murphy's",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "Papa Murphy's",
+      "official_name": "Papa Murphy's Take 'N' Bake Pizza",
+      "takeaway": "only"
+    }
+  },
+  {
+    "type": "way",
+    "id": 131032095,
+    "center": {
+      "lat": 35.1529041,
+      "lon": -85.2495855
+    },
+    "nodes": [
+      1442852322,
+      1442852324,
+      1442849872,
+      1442849892,
+      1442852322
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 131410714,
     "center": {
       "lat": 35.1330776,
@@ -2619,6 +5083,92 @@
       "building": "yes",
       "cuisine": "seafood",
       "name": "Red Lobster"
+    }
+  },
+  {
+    "type": "way",
+    "id": 131497612,
+    "center": {
+      "lat": 35.1220327,
+      "lon": -85.3475783
+    },
+    "nodes": [
+      1447122667,
+      1447122813,
+      1447122669,
+      1447122989,
+      1447122667
+    ],
+    "tags": {
+      "addr:city": "Signal Mountain",
+      "addr:housenumber": "708",
+      "addr:postcode": "37377",
+      "addr:street": "Mississippi Avenue",
+      "amenity": "cafe",
+      "building": "yes",
+      "name": "Mayfly Coffee"
+    }
+  },
+  {
+    "type": "way",
+    "id": 139302492,
+    "center": {
+      "lat": 35.1621893,
+      "lon": -84.8826043
+    },
+    "nodes": [
+      1527193798,
+      1527193800,
+      1527193818,
+      1527193809,
+      1527193815,
+      1527193812,
+      1527193805,
+      1527193803,
+      1527193798
+    ],
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "653",
+      "addr:postcode": "37311",
+      "addr:state": "TN",
+      "addr:street": "Inman Street West",
+      "amenity": "cafe",
+      "building": "yes",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "Starbucks",
+      "opening_hours": "05:00-21:30",
+      "phone": "+1 423 472 1351"
+    }
+  },
+  {
+    "type": "way",
+    "id": 147151387,
+    "center": {
+      "lat": 34.9988667,
+      "lon": -85.0955440
+    },
+    "nodes": [
+      1603594338,
+      1603594336,
+      1603594329,
+      1603594333,
+      1603594338
+    ],
+    "tags": {
+      "addr:city": "East Brainerd",
+      "addr:housenumber": "1735",
+      "addr:state": "TN",
+      "addr:street": "Ooltewah-Ringold Road",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
     }
   },
   {
@@ -2671,6 +5221,71 @@
       "building": "yes",
       "cuisine": "barbecue",
       "name": "Mike's Smokehouse"
+    }
+  },
+  {
+    "type": "way",
+    "id": 150237174,
+    "center": {
+      "lat": 35.0192864,
+      "lon": -85.3217200
+    },
+    "nodes": [
+      1631655862,
+      1631656082,
+      1631655782,
+      1631655924,
+      1631655862
+    ],
+    "tags": {
+      "addr:housenumber": "3151",
+      "addr:postcode": "37408",
+      "addr:street": "Broad Street",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "retail",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 168087600,
+    "center": {
+      "lat": 35.1289019,
+      "lon": -85.2458773
+    },
+    "nodes": [
+      1793961727,
+      1793961726,
+      1793961724,
+      1793961722,
+      1793961725,
+      1793961723,
+      1793961728,
+      2189950970,
+      938617180,
+      1793961729,
+      1793961727
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "4869",
+      "addr:postcode": "37343",
+      "addr:street": "Hixson Pike",
+      "amenity": "fast_food",
+      "brand": "Krystal",
+      "brand:wikidata": "Q472195",
+      "brand:wikipedia": "en:Krystal (restaurant)",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Krystal",
+      "phone": "+1-423-875-5416",
+      "takeaway": "yes",
+      "website": "https://krystal.com/"
     }
   },
   {
@@ -2743,6 +5358,39 @@
   },
   {
     "type": "way",
+    "id": 178476800,
+    "center": {
+      "lat": 35.1387734,
+      "lon": -85.2472012
+    },
+    "nodes": [
+      1888246772,
+      1888246771,
+      1888246769,
+      1888246766,
+      1888246774,
+      1888246777,
+      1888246778,
+      1888246785,
+      1888246781,
+      1888246782,
+      1888246772
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "retail",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "McDonald's",
+      "takeaway": "yes",
+      "website": "http://www.mcdonalds.com/"
+    }
+  },
+  {
+    "type": "way",
     "id": 178573814,
     "center": {
       "lat": 35.0996063,
@@ -2767,6 +5415,118 @@
       "building": "yes",
       "cuisine": "pizza",
       "name": "Pizza Hut"
+    }
+  },
+  {
+    "type": "way",
+    "id": 178639356,
+    "center": {
+      "lat": 35.0955417,
+      "lon": -85.3288541
+    },
+    "nodes": [
+      1889840313,
+      1889840304,
+      1889840309,
+      1889840317,
+      1889840313
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Krystal",
+      "brand:wikidata": "Q472195",
+      "brand:wikipedia": "en:Krystal (restaurant)",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Krystal",
+      "takeaway": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 178642390,
+    "center": {
+      "lat": 35.1107048,
+      "lon": -85.3653264
+    },
+    "nodes": [
+      1889907439,
+      1889907444,
+      6424471019,
+      1889907437,
+      1889907442,
+      1889907439
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "name": "River Drifters"
+    }
+  },
+  {
+    "type": "way",
+    "id": 185381227,
+    "center": {
+      "lat": 35.0467726,
+      "lon": -85.2869968
+    },
+    "nodes": [
+      1959885508,
+      1959885524,
+      1959885540,
+      7039722282,
+      7039722283,
+      1959885526,
+      7039722281,
+      7039722280,
+      7039722279,
+      7039722284,
+      1959885508
+    ],
+    "tags": {
+      "addr:street": "E 3rd St",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 193674777,
+    "center": {
+      "lat": 35.1128001,
+      "lon": -85.2928994
+    },
+    "nodes": [
+      2041936799,
+      2041936780,
+      6765182423,
+      6765182422,
+      2041936762,
+      6765182424,
+      6765182425,
+      6765182426,
+      6765182427,
+      2041936789,
+      6765182417,
+      2041936799
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Domino's",
+      "brand:wikidata": "Q839466",
+      "brand:wikipedia": "en:Domino's Pizza",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "Domino's",
+      "short_name": "Domino's",
+      "takeaway": "yes"
     }
   },
   {
@@ -2801,6 +5561,89 @@
   },
   {
     "type": "way",
+    "id": 208585434,
+    "center": {
+      "lat": 35.1337469,
+      "lon": -85.2424836
+    },
+    "nodes": [
+      2188670269,
+      2188670268,
+      2188670271,
+      9673133848,
+      2188670273,
+      2188670272,
+      9673133847,
+      9673133846,
+      9673133844,
+      9673133843,
+      9673133842,
+      9673133845,
+      2188670269
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Zaxby's",
+      "brand:wikidata": "Q8067525",
+      "brand:wikipedia": "en:Zaxby's",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Zaxby's",
+      "official_name": "Zaxby's Chicken Fingers & Buffalo Wings",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 209369834,
+    "center": {
+      "lat": 35.1396230,
+      "lon": -85.2490710
+    },
+    "nodes": [
+      2195921715,
+      2195921718,
+      2195921719,
+      2195921714,
+      2195921716,
+      2195921713,
+      2195921717,
+      2195921712,
+      2195921715
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "name": "Rib & loin"
+    }
+  },
+  {
+    "type": "way",
+    "id": 209370579,
+    "center": {
+      "lat": 35.1406636,
+      "lon": -85.2490270
+    },
+    "nodes": [
+      2195926596,
+      2195926599,
+      2195926595,
+      2195926598,
+      2195926596
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 239043558,
     "center": {
       "lat": 35.0467802,
@@ -2825,6 +5668,104 @@
       "name": "Mexiville",
       "opening_hours": "Mo-Sa 11:00-22:00",
       "website": "https://mexivilletn.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 246795021,
+    "center": {
+      "lat": 35.1130639,
+      "lon": -85.2930011
+    },
+    "nodes": [
+      2537903520,
+      2537903521,
+      2537903522,
+      2537903523,
+      2537903525,
+      2537903526,
+      2537903528,
+      2537903530,
+      2537903532,
+      2537903534,
+      2537903536,
+      2537903538,
+      2537903520
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 246814328,
+    "center": {
+      "lat": 35.1360434,
+      "lon": -85.2393246
+    },
+    "nodes": [
+      2538074448,
+      2538074449,
+      2538074450,
+      2538074451,
+      2538074448
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Jimmy John's",
+      "brand:wikidata": "Q1689380",
+      "brand:wikipedia": "en:Jimmy John's",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Jimmy John's",
+      "official_name": "Jimmy John's Gourmet Sandwiches",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 256666158,
+    "center": {
+      "lat": 35.0122397,
+      "lon": -85.2122090
+    },
+    "nodes": [
+      2623029730,
+      5714346023,
+      5714346022,
+      2623029731,
+      5714346021,
+      5714345920,
+      5714345919,
+      2623029732,
+      2623029733,
+      5714345917,
+      5714345918,
+      2623029730
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housename": "Brainerd Village",
+      "addr:housenumber": "5830",
+      "addr:postcode": "37411",
+      "addr:state": "TN",
+      "addr:street": "Brainerd Road",
+      "amenity": "fast_food",
+      "brand": "Chick-fil-A",
+      "brand:wikidata": "Q491516",
+      "brand:wikipedia": "en:Chick-fil-A",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Chick-fil-A",
+      "takeaway": "yes"
     }
   },
   {
@@ -3025,6 +5966,95 @@
   },
   {
     "type": "way",
+    "id": 369786032,
+    "center": {
+      "lat": 35.0221879,
+      "lon": -85.2423873
+    },
+    "nodes": [
+      3735421639,
+      3735421640,
+      3735421643,
+      3735421641,
+      6043041537,
+      6043041536,
+      3735421639
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Church's Chicken",
+      "brand:wikidata": "Q1089932",
+      "brand:wikipedia": "en:Church's Chicken",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Church's Chicken",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 369786037,
+    "center": {
+      "lat": 35.0209230,
+      "lon": -85.2403973
+    },
+    "nodes": [
+      3735420713,
+      3735420717,
+      3735420716,
+      3735420710,
+      3735420711,
+      3735420712,
+      3735420713
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 370684768,
+    "center": {
+      "lat": 35.0847240,
+      "lon": -85.2022810
+    },
+    "nodes": [
+      3743789217,
+      3743789205,
+      3743789204,
+      3743789203,
+      3743789201,
+      3743789207,
+      3743789206,
+      3743789208,
+      3743789209,
+      3743789216,
+      6678172953,
+      6678172954,
+      3743789217
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Bojangles'",
+      "brand:wikidata": "Q891163",
+      "brand:wikipedia": "en:Bojangles' Famous Chicken 'n Biscuits",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Bojangles'",
+      "official_name": "Bojangles' Famous Chicken 'n Biscuits",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 392103747,
     "center": {
       "lat": 35.0422451,
@@ -3065,6 +6095,57 @@
   },
   {
     "type": "way",
+    "id": 393628182,
+    "center": {
+      "lat": 35.0124812,
+      "lon": -85.1572240
+    },
+    "nodes": [
+      3968379275,
+      3968379276,
+      3968379277,
+      3968379278,
+      3968379275
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Zaxby's",
+      "brand:wikidata": "Q8067525",
+      "brand:wikipedia": "en:Zaxby's",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Zaxby's",
+      "official_name": "Zaxby's Chicken Fingers & Buffalo Wings",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 393628183,
+    "center": {
+      "lat": 35.0054666,
+      "lon": -85.1521413
+    },
+    "nodes": [
+      3968379279,
+      3968379280,
+      3968379281,
+      3968379282,
+      3968379279
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Hardee's",
+      "brand:wikidata": "Q1585088",
+      "brand:wikipedia": "en:Hardee's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Hardee's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 393628184,
     "center": {
       "lat": 35.0039545,
@@ -3085,6 +6166,33 @@
   },
   {
     "type": "way",
+    "id": 397966970,
+    "center": {
+      "lat": 35.1195897,
+      "lon": -85.2893305
+    },
+    "nodes": [
+      4007385496,
+      4007385499,
+      4008155063,
+      4007385500,
+      4007385501,
+      4007385502,
+      4007385503,
+      4007385504,
+      6751184008,
+      4007385497,
+      4007385496
+    ],
+    "tags": {
+      "amenity": "cafe",
+      "building": "yes",
+      "cuisine": "coffee,_breakfast,_lunch",
+      "name": "The Meeting Place"
+    }
+  },
+  {
+    "type": "way",
     "id": 474405370,
     "center": {
       "lat": 35.1045042,
@@ -3101,6 +6209,261 @@
       "amenity": "restaurant",
       "building": "yes",
       "name": "El Arca De Noe"
+    }
+  },
+  {
+    "type": "way",
+    "id": 474634082,
+    "center": {
+      "lat": 35.0898039,
+      "lon": -85.3125751
+    },
+    "nodes": [
+      4685447293,
+      4685447294,
+      8025905296,
+      6762876068,
+      4685447295,
+      4685447296,
+      6762876064,
+      6762876067,
+      6762876066,
+      6762876065,
+      4685447293
+    ],
+    "tags": {
+      "addr:city": "Red Bank",
+      "addr:postcode": "37405",
+      "addr:state": "TN",
+      "addr:street": "Dayton Boulevard",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 499193996,
+    "center": {
+      "lat": 35.0817957,
+      "lon": -85.0593580
+    },
+    "nodes": [
+      4905020019,
+      4905020018,
+      4905020015,
+      4905020014,
+      4905020017,
+      4905020012,
+      4905020013,
+      4905020016,
+      4905020019
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 499194006,
+    "center": {
+      "lat": 35.0837634,
+      "lon": -85.0627442
+    },
+    "nodes": [
+      4905020089,
+      4905020086,
+      4905020085,
+      4905020083,
+      4905020082,
+      4905020084,
+      4905020087,
+      4905020088,
+      4905020089
+    ],
+    "tags": {
+      "addr:city": "Ooltewah",
+      "addr:housenumber": "9210",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 499194008,
+    "center": {
+      "lat": 35.0833867,
+      "lon": -85.0586063
+    },
+    "nodes": [
+      4905020123,
+      4905020120,
+      4905020118,
+      4905020117,
+      4905020116,
+      4905020119,
+      4905020121,
+      4905020122,
+      4905020123
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Wendy's",
+      "brand:wikidata": "Q550258",
+      "brand:wikipedia": "en:Wendy's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Wendy's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 499194011,
+    "center": {
+      "lat": 35.0838679,
+      "lon": -85.0633275
+    },
+    "nodes": [
+      4905020159,
+      4905020156,
+      4905020157,
+      4905020158,
+      4905020154,
+      4905020155,
+      4905020159
+    ],
+    "tags": {
+      "addr:state": "TN",
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "brand:wikipedia": "en:Arby's",
+      "building": "commercial",
+      "cuisine": "sandwich",
+      "name": "Arby's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 499194014,
+    "center": {
+      "lat": 35.0841671,
+      "lon": -85.0643719
+    },
+    "nodes": [
+      4905020181,
+      4905020178,
+      4905020176,
+      4905020177,
+      4905020175,
+      4905020174,
+      4905020179,
+      4905020172,
+      4905020173,
+      4905020180,
+      4905020181
+    ],
+    "tags": {
+      "addr:city": "Ooltewah",
+      "addr:housenumber": "5605",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Burger King",
+      "brand:wikidata": "Q177054",
+      "brand:wikipedia": "en:Burger King",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Burger King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 499194019,
+    "center": {
+      "lat": 35.0841157,
+      "lon": -85.0675279
+    },
+    "nodes": [
+      4905020237,
+      4905020234,
+      4905020233,
+      4905020232,
+      4905020231,
+      4905020229,
+      4905020228,
+      4905020230,
+      4905020235,
+      4905020236,
+      4905020224,
+      4905020223,
+      4905020222,
+      4905020225,
+      4905020226,
+      4905020227,
+      4905020237
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Zaxby's",
+      "brand:wikidata": "Q8067525",
+      "brand:wikipedia": "en:Zaxby's",
+      "building": "retail",
+      "cuisine": "chicken",
+      "name": "Zaxby's"
+    }
+  },
+  {
+    "type": "way",
+    "id": 499194023,
+    "center": {
+      "lat": 35.0849080,
+      "lon": -85.0628816
+    },
+    "nodes": [
+      4905020277,
+      4905020274,
+      4905020275,
+      4905020276,
+      4905020277
+    ],
+    "tags": {
+      "addr:city": "Ooltewah",
+      "addr:housenumber": "9201",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Hardee's",
+      "brand:wikidata": "Q1585088",
+      "brand:wikipedia": "en:Hardee's",
+      "building": "retail",
+      "cuisine": "burger",
+      "name": "Hardee's",
+      "takeaway": "yes"
     }
   },
   {
@@ -3154,6 +6517,52 @@
   },
   {
     "type": "way",
+    "id": 509683272,
+    "center": {
+      "lat": 34.9899781,
+      "lon": -85.2108377
+    },
+    "nodes": [
+      4988758435,
+      4988758434,
+      4988758433,
+      4988758432,
+      4988758435
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Hardee's"
+    }
+  },
+  {
+    "type": "way",
+    "id": 509683276,
+    "center": {
+      "lat": 34.9954563,
+      "lon": -85.2370768
+    },
+    "nodes": [
+      4988758455,
+      4988758454,
+      4988758453,
+      4988758452,
+      4988758455
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "diet:kosher": "no",
+      "diet:vegetarian": "no",
+      "name": "Checker's Drive In",
+      "opening_hours": "Mo-Su 10:00-24:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 509707767,
     "center": {
       "lat": 35.0120677,
@@ -3178,6 +6587,66 @@
   },
   {
     "type": "way",
+    "id": 509708045,
+    "center": {
+      "lat": 35.0122103,
+      "lon": -85.2254999
+    },
+    "nodes": [
+      4989040728,
+      4989040725,
+      5714345903,
+      4989040726,
+      5714345904,
+      5714345905,
+      4989040727,
+      4989040728
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "5001",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "Brainerd Road",
+      "amenity": "fast_food",
+      "brand": "Cook Out",
+      "brand:wikidata": "Q5166992",
+      "brand:wikipedia": "en:Cook Out (restaurant)",
+      "building": "yes",
+      "cuisine": "american",
+      "drive_through": "yes",
+      "name": "Cook Out",
+      "takeaway": "yes",
+      "website": "https://cookout.com/location/tennessee-chattanooga-5001-brainerd-rd/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 510029274,
+    "center": {
+      "lat": 35.0113883,
+      "lon": -85.2233742
+    },
+    "nodes": [
+      4991349403,
+      4991349402,
+      4991349401,
+      4991349400,
+      4991349399,
+      4991349398,
+      4991349397,
+      4991349396,
+      4991349403
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Heavenly Wings"
+    }
+  },
+  {
+    "type": "way",
     "id": 510913588,
     "center": {
       "lat": 34.9945144,
@@ -3195,6 +6664,117 @@
       "building": "yes",
       "cuisine": "japanese",
       "name": "Haiku Hibachi"
+    }
+  },
+  {
+    "type": "way",
+    "id": 510913590,
+    "center": {
+      "lat": 34.9975888,
+      "lon": -85.2436486
+    },
+    "nodes": [
+      4998934271,
+      4998934270,
+      4998934269,
+      4998934268,
+      4998934271
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Domino's",
+      "brand:wikidata": "Q839466",
+      "brand:wikipedia": "en:Domino's Pizza",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "Domino's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 511182065,
+    "center": {
+      "lat": 35.0964683,
+      "lon": -85.3284457
+    },
+    "nodes": [
+      5000942155,
+      5000942148,
+      5000942151,
+      5000942150,
+      5000942149,
+      5000942152,
+      5000942153,
+      5000942154,
+      5000942155
+    ],
+    "tags": {
+      "alt_name": "Dunkin' Donuts",
+      "amenity": "fast_food",
+      "brand": "Dunkin'",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "building": "yes",
+      "cuisine": "donut;coffee_shop",
+      "name": "Dunkin'",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 511182067,
+    "center": {
+      "lat": 35.0959995,
+      "lon": -85.3287159
+    },
+    "nodes": [
+      5000942167,
+      5000942166,
+      5000942165,
+      5000942164,
+      5000942163,
+      5000942162,
+      5000942161,
+      5000942160,
+      5000942167
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Zaxby's",
+      "brand:wikidata": "Q8067525",
+      "brand:wikipedia": "en:Zaxby's",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Zaxby's",
+      "official_name": "Zaxby's Chicken Fingers & Buffalo Wings",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 532634940,
+    "center": {
+      "lat": 35.0127353,
+      "lon": -85.2287340
+    },
+    "nodes": [
+      5168280099,
+      5168280098,
+      5168280097,
+      5168280096,
+      5168280099
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Burger King",
+      "brand:wikidata": "Q177054",
+      "brand:wikipedia": "en:Burger King",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Burger King",
+      "takeaway": "yes"
     }
   },
   {
@@ -3238,6 +6818,55 @@
     "tags": {
       "amenity": "restaurant",
       "name": "Dub's Place"
+    }
+  },
+  {
+    "type": "way",
+    "id": 578550027,
+    "center": {
+      "lat": 35.0976424,
+      "lon": -85.3270514
+    },
+    "nodes": [
+      5543101983,
+      5543101975,
+      5543101986,
+      5543101992,
+      5543101982,
+      5543101983
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Burger King",
+      "brand:wikidata": "Q177054",
+      "brand:wikipedia": "en:Burger King",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Burger King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 583601603,
+    "center": {
+      "lat": 34.9710057,
+      "lon": -85.2692128
+    },
+    "nodes": [
+      5579466425,
+      5579466426,
+      5579466427,
+      5579466428,
+      5579466429,
+      5579466430,
+      5579466425
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Armandos",
+      "note": "The Burger Georgia waited for."
     }
   },
   {
@@ -3327,6 +6956,216 @@
   },
   {
     "type": "way",
+    "id": 592093938,
+    "center": {
+      "lat": 35.1573823,
+      "lon": -84.8724398
+    },
+    "nodes": [
+      5651717366,
+      5651717367,
+      5651717368,
+      5651717369,
+      5651717366
+    ],
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "105",
+      "addr:postcode": "37311",
+      "addr:state": "TN",
+      "addr:street": "Edwards Street Northeast",
+      "amenity": "cafe",
+      "building": "yes",
+      "contact:facebook": "https://www.facebook.com/5pointscafe/",
+      "name": "Five Points Cafe",
+      "payment:american_express": "yes",
+      "payment:discover_card": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "phone": "+1 423 457 0041"
+    }
+  },
+  {
+    "type": "way",
+    "id": 593061041,
+    "center": {
+      "lat": 35.2040919,
+      "lon": -84.8482954
+    },
+    "nodes": [
+      5658680199,
+      5658680200,
+      5658680201,
+      5658680202,
+      5658680203,
+      5658680204,
+      5658680205,
+      5658680208,
+      5658680207,
+      5658680206,
+      5658680209,
+      5658680210,
+      5658680199
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 593061044,
+    "center": {
+      "lat": 35.2035998,
+      "lon": -84.8477162
+    },
+    "nodes": [
+      5658680211,
+      5658680212,
+      5658680213,
+      5658680214,
+      5658680215,
+      5658680216,
+      5658680217,
+      5658680218,
+      5658680219,
+      5658680220,
+      5658680211
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 593061050,
+    "center": {
+      "lat": 35.2029259,
+      "lon": -84.8466669
+    },
+    "nodes": [
+      5658680227,
+      5658680228,
+      5658680229,
+      5658680230,
+      5658680231,
+      5658680232,
+      5658680227
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 593061053,
+    "center": {
+      "lat": 35.2021186,
+      "lon": -84.8459525
+    },
+    "nodes": [
+      5658680233,
+      5658680234,
+      5658680235,
+      5658680236,
+      5658680237,
+      5658680238,
+      5658680239,
+      5658680240,
+      5658680233
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 593061110,
+    "center": {
+      "lat": 35.2010816,
+      "lon": -84.8465384
+    },
+    "nodes": [
+      5658680364,
+      5658680365,
+      5658680366,
+      5658680367,
+      5658680368,
+      5658680369,
+      5658680370,
+      5658680371,
+      5658680372,
+      5658680373,
+      5658680374,
+      5658680375,
+      5658680376,
+      5658680377,
+      5658680378,
+      5658680379,
+      5658680364
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Olive Garden",
+      "brand:wikidata": "Q3045312",
+      "brand:wikipedia": "en:Olive Garden",
+      "building": "yes",
+      "cuisine": "italian",
+      "name": "Olive Garden"
+    }
+  },
+  {
+    "type": "way",
+    "id": 593409842,
+    "center": {
+      "lat": 35.1944552,
+      "lon": -84.8541427
+    },
+    "nodes": [
+      5661115837,
+      5661115838,
+      5661115839,
+      5661115840,
+      5661115837
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Aubrey's"
+    }
+  },
+  {
+    "type": "way",
+    "id": 593409844,
+    "center": {
+      "lat": 35.1951923,
+      "lon": -84.8545036
+    },
+    "nodes": [
+      5661115857,
+      5661115858,
+      5661115865,
+      5661115866,
+      5661115859,
+      5661115860,
+      5661115861,
+      5661115862,
+      5661115863,
+      5661115864,
+      5661115857
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Chick-fil-A"
+    }
+  },
+  {
+    "type": "way",
     "id": 594624536,
     "center": {
       "lat": 35.1904132,
@@ -3360,6 +7199,30 @@
   },
   {
     "type": "way",
+    "id": 594770764,
+    "center": {
+      "lat": 35.1954907,
+      "lon": -84.8537700
+    },
+    "nodes": [
+      5670824711,
+      5670824712,
+      5670824713,
+      5670824714,
+      5670824715,
+      5670824716,
+      5670824717,
+      5670824718,
+      5670824711
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Logan's Roadhouse"
+    }
+  },
+  {
+    "type": "way",
     "id": 594770835,
     "center": {
       "lat": 35.1858965,
@@ -3382,6 +7245,40 @@
       "building": "yes",
       "cuisine": "pizza",
       "name": "Pizza Hut"
+    }
+  },
+  {
+    "type": "way",
+    "id": 594770838,
+    "center": {
+      "lat": 35.1853207,
+      "lon": -84.8708759
+    },
+    "nodes": [
+      5670825252,
+      5670825253,
+      5670825254,
+      5670825255,
+      5670825256,
+      5670825257,
+      5670825252
+    ],
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "2720",
+      "addr:postcode": "37312",
+      "addr:state": "TN",
+      "addr:street": "Keith Street",
+      "alt_name": "Kentucky Fried Chicken",
+      "amenity": "fast_food",
+      "brand": "KFC",
+      "brand:wikidata": "Q524757",
+      "brand:wikipedia": "en:KFC",
+      "building": "retail",
+      "cuisine": "chicken",
+      "name": "KFC",
+      "phone": "+1 423 476 6809",
+      "takeaway": "yes"
     }
   },
   {
@@ -3414,6 +7311,39 @@
       "payment:visa": "yes",
       "phone": "+1 423 728 2222",
       "website": "http://gabrielspizzas.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 602837064,
+    "center": {
+      "lat": 35.1817712,
+      "lon": -84.8740139
+    },
+    "nodes": [
+      5724794575,
+      5724794576,
+      5724794577,
+      5724794578,
+      5724794575
+    ],
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "2491",
+      "addr:postcode": "37311",
+      "addr:state": "TN",
+      "addr:street": "Keith Street NW",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "opening_hours": "07:00-02:00 open \"Dining in\" || 09:00-20:00 open \"Drive-through\"",
+      "phone": "+1 423 479 6977",
+      "takeaway": "yes",
+      "website": "https://www.tacobell.com/"
     }
   },
   {
@@ -3474,6 +7404,100 @@
   },
   {
     "type": "way",
+    "id": 605099608,
+    "center": {
+      "lat": 35.2011190,
+      "lon": -84.8446763
+    },
+    "nodes": [
+      5740021120,
+      5740021821,
+      5740021822,
+      5740021823,
+      5740021824,
+      5740021825,
+      5740021826,
+      5740021827,
+      5740021828,
+      5740021829,
+      5740021830,
+      5740021831,
+      5740021832,
+      5740021833,
+      5740021834,
+      5740021835,
+      5740021120
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 605099609,
+    "center": {
+      "lat": 35.2016875,
+      "lon": -84.8442142
+    },
+    "nodes": [
+      5740021836,
+      5740021837,
+      5740021838,
+      5740021839,
+      5740021836
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 605099610,
+    "center": {
+      "lat": 35.2019848,
+      "lon": -84.8438123
+    },
+    "nodes": [
+      5740021840,
+      5740021841,
+      5740021842,
+      5740021843,
+      5740021840
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 605099614,
+    "center": {
+      "lat": 35.2034081,
+      "lon": -84.8423805
+    },
+    "nodes": [
+      5740021874,
+      5740021875,
+      5740021876,
+      5740021877,
+      5740021874
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 613907449,
     "center": {
       "lat": 35.1470951,
@@ -3495,6 +7519,52 @@
   },
   {
     "type": "way",
+    "id": 613907452,
+    "center": {
+      "lat": 35.1458870,
+      "lon": -84.8320545
+    },
+    "nodes": [
+      5807805028,
+      5807805029,
+      5807805030,
+      5807805031,
+      5807805028
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "burger;milkshake;ice_cream;regional",
+      "name": "Shake Shack",
+      "takeaway": "only"
+    }
+  },
+  {
+    "type": "way",
+    "id": 613907455,
+    "center": {
+      "lat": 35.1485488,
+      "lon": -84.8391103
+    },
+    "nodes": [
+      5807805032,
+      5807805033,
+      5807805034,
+      5807805035,
+      5807805032
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Sonic"
+    }
+  },
+  {
+    "type": "way",
     "id": 619598411,
     "center": {
       "lat": 34.9905446,
@@ -3512,6 +7582,41 @@
     "tags": {
       "amenity": "restaurant",
       "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 641647826,
+    "center": {
+      "lat": 35.0907894,
+      "lon": -85.3117576
+    },
+    "nodes": [
+      6042252825,
+      6042252826,
+      6042252827,
+      6042252828,
+      6042252829,
+      6042252830,
+      6042252831,
+      6042252832,
+      6042252825
+    ],
+    "tags": {
+      "addr:city": "Red Bank",
+      "addr:housenumber": "2023",
+      "addr:postcode": "37405",
+      "addr:state": "TN",
+      "addr:street": "Dayton Boulevard",
+      "amenity": "fast_food",
+      "brand": "Bojangles'",
+      "brand:wikidata": "Q891163",
+      "brand:wikipedia": "en:Bojangles' Famous Chicken 'n Biscuits",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Bojangles'",
+      "official_name": "Bojangles' Famous Chicken 'n Biscuits",
+      "takeaway": "yes"
     }
   },
   {
@@ -3665,6 +7770,72 @@
   },
   {
     "type": "way",
+    "id": 659934884,
+    "center": {
+      "lat": 34.9893113,
+      "lon": -85.2117402
+    },
+    "nodes": [
+      6178717603,
+      6178717602,
+      6178717601,
+      6178717600,
+      6178717599,
+      6178717598,
+      6178717597,
+      6178717596,
+      6178717603
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6300",
+      "addr:state": "TN",
+      "addr:street": "Ringgold Road",
+      "amenity": "fast_food",
+      "brand": "Krystal",
+      "brand:wikidata": "Q472195",
+      "brand:wikipedia": "en:Krystal (restaurant)",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Krystal",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 659934885,
+    "center": {
+      "lat": 34.9893153,
+      "lon": -85.2112179
+    },
+    "nodes": [
+      6178717611,
+      6178717610,
+      6178717609,
+      6178717608,
+      6178717607,
+      6178717606,
+      6178717605,
+      6178717604,
+      6178717611
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6302",
+      "addr:state": "TN",
+      "addr:street": "Ringgold Road",
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "brand:wikipedia": "en:Arby's",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Arby's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 659934888,
     "center": {
       "lat": 34.9897617,
@@ -3717,6 +7888,68 @@
   },
   {
     "type": "way",
+    "id": 662780677,
+    "center": {
+      "lat": 34.9978894,
+      "lon": -85.2507351
+    },
+    "nodes": [
+      6204650290,
+      7070868961,
+      7070868960,
+      7070868962,
+      7070868965,
+      7070868964,
+      7070868963,
+      6204650287,
+      6204650288,
+      6204650285,
+      6204650286,
+      6204649884,
+      6204649883,
+      6204650289,
+      6204650290
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "barbecue",
+      "name": "Choo-Choo Bar-B-Que",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 662780694,
+    "center": {
+      "lat": 34.9971692,
+      "lon": -85.2444923
+    },
+    "nodes": [
+      6204650409,
+      6204650408,
+      6204650407,
+      6204650406,
+      6204650405,
+      6204650404,
+      6204650403,
+      6204650402,
+      6204650409
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Bojangles'",
+      "brand:wikidata": "Q891163",
+      "brand:wikipedia": "en:Bojangles' Famous Chicken 'n Biscuits",
+      "building": "commercial",
+      "cuisine": "chicken",
+      "name": "Bojangles'",
+      "official_name": "Bojangles' Famous Chicken 'n Biscuits",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 662780696,
     "center": {
       "lat": 34.9967870,
@@ -3762,6 +7995,64 @@
       "building": "yes",
       "cuisine": "american",
       "name": "Melodee's Diner"
+    }
+  },
+  {
+    "type": "way",
+    "id": 681353774,
+    "center": {
+      "lat": 35.0121630,
+      "lon": -85.1569961
+    },
+    "nodes": [
+      6380611699,
+      6380611700,
+      6380611701,
+      6380611702,
+      6380611699
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "7647",
+      "addr:postcode": "37421",
+      "addr:street": "East Brainerd Road",
+      "amenity": "fast_food",
+      "brand": "Dunkin' Donuts",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "cuisine": "donut;coffee_shop",
+      "name": "Dunkin' Donuts",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 681811770,
+    "center": {
+      "lat": 35.0139550,
+      "lon": -85.1577219
+    },
+    "nodes": [
+      6385135884,
+      6385138185,
+      6385138186,
+      3968379268,
+      6385135884
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "7621",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "E Brainerd Road",
+      "amenity": "fast_food",
+      "brand": "Little Caesars",
+      "brand:wikidata": "Q1393809",
+      "brand:wikipedia": "en:Little Caesars",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "Little Caesars",
+      "takeaway": "yes"
     }
   },
   {
@@ -3820,6 +8111,35 @@
   },
   {
     "type": "way",
+    "id": 686350007,
+    "center": {
+      "lat": 35.0827190,
+      "lon": -85.0607148
+    },
+    "nodes": [
+      6433187944,
+      6433187945,
+      6433187946,
+      6433187947,
+      6433187944
+    ],
+    "tags": {
+      "addr:city": "Ooltewah",
+      "addr:housenumber": "5975",
+      "addr:state": "TN",
+      "addr:street": "Elementary Way",
+      "amenity": "fast_food",
+      "brand": "Smoothie King",
+      "brand:wikidata": "Q5491421",
+      "brand:wikipedia": "en:Smoothie King",
+      "building": "yes",
+      "cuisine": "juice",
+      "name": "Smoothie King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 686352733,
     "center": {
       "lat": 35.0842631,
@@ -3840,6 +8160,393 @@
       "building": "yes",
       "cuisine": "american",
       "name": "Cracker Barrel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 686360486,
+    "center": {
+      "lat": 34.9411579,
+      "lon": -85.2212661
+    },
+    "nodes": [
+      6433305569,
+      6433305568,
+      6433305567,
+      6433305566,
+      6433305565,
+      6433305564,
+      6433305563,
+      6433305562,
+      6433305561,
+      6433305560,
+      6433305559,
+      6433305558,
+      6433305557,
+      6433305556,
+      6433305569
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Panera Bread",
+      "brand:wikidata": "Q7130852",
+      "brand:wikipedia": "en:Panera Bread",
+      "building": "yes",
+      "cuisine": "sandwich;bakery",
+      "name": "Panera Bread",
+      "short_name": "Panera",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 686360487,
+    "center": {
+      "lat": 34.9416366,
+      "lon": -85.2220431
+    },
+    "nodes": [
+      6433305577,
+      6433305576,
+      6433305575,
+      6433305574,
+      6433305573,
+      6433305572,
+      6433305571,
+      6433305570,
+      6433305577
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2584",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "brand": "Logan's Roadhouse",
+      "brand:wikidata": "Q6666872",
+      "brand:wikipedia": "en:Logan's Roadhouse",
+      "building": "yes",
+      "cuisine": "american",
+      "name": "Logan's Roadhouse"
+    }
+  },
+  {
+    "type": "way",
+    "id": 686360488,
+    "center": {
+      "lat": 34.9424428,
+      "lon": -85.2236462
+    },
+    "nodes": [
+      6433305685,
+      6433305584,
+      6433305583,
+      6433305582,
+      6433305581,
+      6433305580,
+      6433305579,
+      6433305578,
+      6433305685
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2542",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "brand": "O'Charley's",
+      "brand:wikidata": "Q7071703",
+      "brand:wikipedia": "en:O'Charley's",
+      "building": "yes",
+      "cuisine": "american",
+      "name": "O'Charley's"
+    }
+  },
+  {
+    "type": "way",
+    "id": 686364129,
+    "center": {
+      "lat": 34.9432045,
+      "lon": -85.2226573
+    },
+    "nodes": [
+      6433340770,
+      6433340769,
+      6433340768,
+      6433340767,
+      6433340766,
+      6433340765,
+      6433340764,
+      6433340763,
+      6433340762,
+      6433340761,
+      6433340760,
+      6433340759,
+      6433340758,
+      6433340757,
+      6433340770
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2603",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "chinese",
+      "name": "Kobe Hibachi & Sushi"
+    }
+  },
+  {
+    "type": "way",
+    "id": 686364135,
+    "center": {
+      "lat": 34.9434549,
+      "lon": -85.2232630
+    },
+    "nodes": [
+      6433340822,
+      6433340821,
+      6433340820,
+      6433340819,
+      6433340822
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2541",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Zaxby's",
+      "brand:wikidata": "Q8067525",
+      "brand:wikipedia": "en:Zaxby's",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Zaxby's",
+      "official_name": "Zaxby's Chicken Fingers & Buffalo Wings",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 687252535,
+    "center": {
+      "lat": 34.9382693,
+      "lon": -85.2143874
+    },
+    "nodes": [
+      6441746301,
+      6441746300,
+      6441746299,
+      6441746298,
+      6441746301
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:housenumber": "3022",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 687252537,
+    "center": {
+      "lat": 34.9385402,
+      "lon": -85.2151134
+    },
+    "nodes": [
+      6441746309,
+      6441746308,
+      6441746307,
+      6441746306,
+      6441746305,
+      6441746304,
+      6441746303,
+      6441746302,
+      6441746309
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:housenumber": "3016",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Fazoli's",
+      "brand:wikidata": "Q1399195",
+      "brand:wikipedia": "en:Fazoli's",
+      "building": "yes",
+      "cuisine": "italian",
+      "name": "Fazoli's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 687252540,
+    "center": {
+      "lat": 34.9394828,
+      "lon": -85.2174383
+    },
+    "nodes": [
+      6441746339,
+      6441746338,
+      6441746337,
+      6441746336,
+      6441746335,
+      6441746334,
+      6441746333,
+      6441746332,
+      6441746331,
+      6441746330,
+      6441746339
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:housenumber": "37",
+      "addr:state": "GA",
+      "addr:street": "Parkway drive",
+      "amenity": "restaurant",
+      "brand": "Buffalo Wild Wings",
+      "brand:wikidata": "Q509255",
+      "brand:wikipedia": "en:Buffalo Wild Wings",
+      "building": "yes",
+      "cuisine": "wings",
+      "name": "Buffalo Wild Wings"
+    }
+  },
+  {
+    "type": "way",
+    "id": 687252541,
+    "center": {
+      "lat": 34.9389603,
+      "lon": -85.2178286
+    },
+    "nodes": [
+      6441746343,
+      6441746342,
+      6441746341,
+      6441746340,
+      6441746343
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:housenumber": "73",
+      "addr:state": "GA",
+      "addr:street": "Parkway drive",
+      "amenity": "fast_food",
+      "brand": "Moe's Southwest Grill",
+      "brand:wikidata": "Q6889938",
+      "brand:wikipedia": "en:Moe's Southwest Grill",
+      "building": "yes",
+      "cuisine": "mexican",
+      "name": "Moe's Southwest Grill",
+      "short_name": "Moe's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 687984023,
+    "center": {
+      "lat": 35.0099101,
+      "lon": -85.3285123
+    },
+    "nodes": [
+      6449962446,
+      6449962443,
+      6449962442,
+      6449962447,
+      6449962446
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "3913",
+      "addr:postcode": "37409",
+      "addr:state": "TN",
+      "addr:street": "Saint Elmo Avenue",
+      "addr:unit": "B",
+      "air_conditioning": "yes",
+      "amenity": "cafe",
+      "branch": "St. Elmo",
+      "building": "yes",
+      "cuisine": "coffee_shop",
+      "delivery": "no",
+      "email": "goodmancoffeeroasters@gmail.com",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "internet_access:ssid": "NETGEAR30",
+      "name": "Goodman Coffee Roasters",
+      "opening_hours": "Mo-Sa 08:00-18:00",
+      "outdoor_seating": "yes",
+      "phone": "+1 (423) 206-5748",
+      "website": "https://www.goodmancoffeeroasters.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 688772988,
+    "center": {
+      "lat": 35.0191779,
+      "lon": -85.3208612
+    },
+    "nodes": [
+      6460551355,
+      6460551354,
+      6460551353,
+      6460551352,
+      6460551355
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Krystal",
+      "brand:wikidata": "Q472195",
+      "brand:wikipedia": "en:Krystal (restaurant)",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Krystal",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 688952574,
+    "center": {
+      "lat": 34.9283548,
+      "lon": -85.1479306
+    },
+    "nodes": [
+      6462492352,
+      6462492353,
+      6462492354,
+      6462492355,
+      6462492356,
+      6462492357,
+      6462492358,
+      6462492359,
+      6462492352
+    ],
+    "tags": {
+      "addr:city": "Ringgold",
+      "addr:country": "US",
+      "addr:housenumber": "120",
+      "addr:state": "GA",
+      "addr:street": "General Lee Drive",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Farm To Fork"
     }
   },
   {
@@ -3870,6 +8577,69 @@
       "cuisine": "american;breakfast",
       "name": "First Watch",
       "opening_hours": "Mo-Su 07:00-14:30"
+    }
+  },
+  {
+    "type": "way",
+    "id": 689273993,
+    "center": {
+      "lat": 35.0408632,
+      "lon": -85.1524467
+    },
+    "nodes": [
+      6466144198,
+      7465015620,
+      7465015621,
+      7465015619,
+      7465015618,
+      6466144199,
+      6466144200,
+      6466144201,
+      6466144202,
+      7465015623,
+      7465015622,
+      6466144203,
+      6466144198
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "brand:wikipedia": "en:Arby's",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Arby's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 689274003,
+    "center": {
+      "lat": 35.0403243,
+      "lon": -85.1557792
+    },
+    "nodes": [
+      6466144268,
+      6466144269,
+      6466144270,
+      6466144271,
+      6466144268
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "2217",
+      "addr:state": "TN",
+      "addr:street": "Hamilton Place Boulevard",
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "building": "yes",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes"
     }
   },
   {
@@ -3927,6 +8697,644 @@
       "name": "Waffle House",
       "opening_hours": "24/7",
       "phone": "423-899-3888"
+    }
+  },
+  {
+    "type": "way",
+    "id": 689526088,
+    "center": {
+      "lat": 34.9444252,
+      "lon": -85.2282012
+    },
+    "nodes": [
+      6468616137,
+      6468616138,
+      6468616139,
+      6468616140,
+      6468616141,
+      6468616142,
+      6468616143,
+      6468616144,
+      6468616145,
+      6468616146,
+      6468616147,
+      6468616148,
+      6468616137
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "56",
+      "addr:state": "GA",
+      "addr:street": "Lakeshore Drive",
+      "amenity": "fast_food",
+      "brand": "Jack's",
+      "brand:wikidata": "Q6110826",
+      "brand:wikipedia": "en:Jack's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Jack's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 689530243,
+    "center": {
+      "lat": 34.9468441,
+      "lon": -85.2303807
+    },
+    "nodes": [
+      6468665138,
+      6468665139,
+      6468665140,
+      6468665141,
+      6468665142,
+      6468665143,
+      6468665144,
+      6468665145,
+      6468665138
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2051",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Bojangles'",
+      "brand:wikidata": "Q891163",
+      "brand:wikipedia": "en:Bojangles (restaurant)",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Bojangles'",
+      "official_name": "Bojangles' Famous Chicken 'n Biscuits",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 689530706,
+    "center": {
+      "lat": 34.9474255,
+      "lon": -85.2313450
+    },
+    "nodes": [
+      6468672016,
+      6468672017,
+      6468672018,
+      6468672019,
+      6468672020,
+      6468672021,
+      6468672022,
+      6468672023,
+      6468672024,
+      6468672025,
+      6468672016
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2047",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "brand": "IHOP",
+      "brand:wikidata": "Q1185675",
+      "brand:wikipedia": "en:IHOP",
+      "building": "yes",
+      "cuisine": "breakfast;pancake",
+      "name": "IHOP"
+    }
+  },
+  {
+    "type": "way",
+    "id": 689532682,
+    "center": {
+      "lat": 34.9489525,
+      "lon": -85.2351196
+    },
+    "nodes": [
+      6468684883,
+      6468684884,
+      6468686585,
+      6468686586,
+      6468686587,
+      6468686588,
+      6468686589,
+      6468686590,
+      6468686591,
+      6468686592,
+      6468686593,
+      6468686594,
+      6468686595,
+      6468686596,
+      6468686597,
+      6468686598,
+      6468686599,
+      6468686600,
+      6468686601,
+      6468686602,
+      6468684883
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:housenumber": "1783",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "layer": "1",
+      "name": "Sonic",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 689532864,
+    "center": {
+      "lat": 34.9457248,
+      "lon": -85.2269793
+    },
+    "nodes": [
+      6468687492,
+      6468687493,
+      6468687494,
+      6468687495,
+      6468687496,
+      6468687497,
+      6468687492
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2219",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "brand": "Applebee's Neighborhood Grill & Bar",
+      "brand:wikidata": "Q621532",
+      "brand:wikipedia": "en:Applebee's",
+      "building": "yes",
+      "cuisine": "american",
+      "name": "Applebee's",
+      "official_name": "Applebee's Neighborhood Grill & Bar"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690083628,
+    "center": {
+      "lat": 35.0291785,
+      "lon": -85.1883338
+    },
+    "nodes": [
+      6474218412,
+      6474218411,
+      6474218410,
+      6474218409,
+      6474218408,
+      6474218407,
+      6474218406,
+      6474218405,
+      6474218404,
+      6474218403,
+      6474218402,
+      6474218401,
+      6474218400,
+      6474218412
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6119",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Krystal",
+      "brand:wikidata": "Q472195",
+      "brand:wikipedia": "en:Krystal (restaurant)",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Krystal",
+      "opening_hours": "24/7",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690307226,
+    "center": {
+      "lat": 34.9547483,
+      "lon": -85.2537095
+    },
+    "nodes": [
+      6476355693,
+      6476355694,
+      6476355695,
+      6476355696,
+      6476355697,
+      6476355698,
+      6476355699,
+      6476355700,
+      6476355701,
+      6476355702,
+      6476355703,
+      6476355704,
+      6476355693
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:housenumber": "663",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "alt_name": "Kentucky Fried Chicken",
+      "amenity": "fast_food",
+      "brand": "KFC",
+      "brand:wikidata": "Q524757",
+      "brand:wikipedia": "en:KFC",
+      "building": "commercial",
+      "cuisine": "chicken",
+      "drive_through": "yes",
+      "name": "KFC",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690307228,
+    "center": {
+      "lat": 34.9550326,
+      "lon": -85.2550405
+    },
+    "nodes": [
+      6476355727,
+      6476355728,
+      6476355729,
+      6476355730,
+      6476355731,
+      6476355733,
+      6476355727
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "589",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "alt_name": "Dunkin' Donuts",
+      "amenity": "fast_food",
+      "brand": "Dunkin'",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "building": "yes",
+      "cuisine": "donut;coffee_shop",
+      "drive_through": "yes",
+      "name": "Dunkin'",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690307870,
+    "center": {
+      "lat": 34.9542166,
+      "lon": -85.2508484
+    },
+    "nodes": [
+      6476362283,
+      6476362284,
+      6476363185,
+      6476363186,
+      6476363187,
+      6476363188,
+      6476363189,
+      6476363190,
+      6476362283
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "831",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Burger King",
+      "brand:wikidata": "Q177054",
+      "brand:wikipedia": "en:Burger King",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Burger King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690308761,
+    "center": {
+      "lat": 34.9556362,
+      "lon": -85.2582896
+    },
+    "nodes": [
+      6476371524,
+      6476371525,
+      6476371526,
+      6476371527,
+      6476371524
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "401",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Wendy's",
+      "brand:wikidata": "Q550258",
+      "brand:wikipedia": "en:Wendy's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Wendy's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690308762,
+    "center": {
+      "lat": 34.9536710,
+      "lon": -85.2526414
+    },
+    "nodes": [
+      6476371528,
+      6476371529,
+      6476371530,
+      6476371531,
+      6476371532,
+      6476371533,
+      6476371534,
+      6476371535,
+      6476371536,
+      6476371537,
+      6476371538,
+      6476371539,
+      6476371540,
+      6476371541,
+      6476371542,
+      6476371543,
+      6476371528
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "760",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "brand": "Golden Corral",
+      "brand:wikidata": "Q4039560",
+      "brand:wikipedia": "en:Golden Corral",
+      "building": "yes",
+      "cuisine": "american;buffet",
+      "name": "Golden Corral"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690309873,
+    "center": {
+      "lat": 34.9539225,
+      "lon": -85.2536903
+    },
+    "nodes": [
+      6476381953,
+      6476381954,
+      6476381955,
+      6476381956,
+      6476381957,
+      6476381958,
+      6476381959,
+      6476381960,
+      6476381961,
+      6476381962,
+      6476381963,
+      6476381964,
+      6476381965,
+      6476381966,
+      6476381967,
+      6476381953
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "668",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Captain D's",
+      "brand:wikidata": "Q5036616",
+      "brand:wikipedia": "en:Captain D's",
+      "building": "yes",
+      "cuisine": "seafood",
+      "name": "Captain D's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690311218,
+    "center": {
+      "lat": 34.9368116,
+      "lon": -85.2072677
+    },
+    "nodes": [
+      6476403144,
+      6476403145,
+      6476403146,
+      6476403147,
+      6476403144
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "3588",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Wendy's",
+      "brand:wikidata": "Q550258",
+      "brand:wikipedia": "en:Wendy's",
+      "building": "yes",
+      "cuisine": "burger",
+      "layer": "1",
+      "name": "Wendy's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690341872,
+    "center": {
+      "lat": 34.9329138,
+      "lon": -85.1834941
+    },
+    "nodes": [
+      6476738933,
+      6476738934,
+      6476738935,
+      6476738928,
+      6476738933
+    ],
+    "tags": {
+      "addr:city": "Ringgold",
+      "addr:country": "US",
+      "addr:housenumber": "4793",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "mexican",
+      "name": "Tres Amigos Mexican Restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690365270,
+    "center": {
+      "lat": 34.9530364,
+      "lon": -85.2444634
+    },
+    "nodes": [
+      6476965559,
+      6476965560,
+      6476965561,
+      6476965562,
+      6476965559
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "1179",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690366867,
+    "center": {
+      "lat": 34.9532066,
+      "lon": -85.2451260
+    },
+    "nodes": [
+      6476983311,
+      6476983312,
+      6476983313,
+      6476983314,
+      6476983315,
+      6476983316,
+      6476983317,
+      6476983318,
+      6476983319,
+      6476983320,
+      6476983321,
+      6476983322,
+      6476983323,
+      6476983324,
+      6476983325,
+      6476983326,
+      6476983327,
+      6476983328,
+      6476983311
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "1137",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Chick-fil-A",
+      "brand:wikidata": "Q491516",
+      "brand:wikipedia": "en:Chick-fil-A",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Chick-fil-A",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690369002,
+    "center": {
+      "lat": 34.9538479,
+      "lon": -85.2494339
+    },
+    "nodes": [
+      6477004905,
+      6477004906,
+      6477004907,
+      6477004908,
+      6477004905
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "909",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "brand": "Waffle House",
+      "brand:wikidata": "Q1701206",
+      "brand:wikipedia": "en:Waffle House",
+      "building": "yes",
+      "cuisine": "american",
+      "name": "Waffle House",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "way",
+    "id": 690756453,
+    "center": {
+      "lat": 34.9294121,
+      "lon": -85.1573023
+    },
+    "nodes": [
+      6481179919,
+      6481179920,
+      6481179921,
+      6481179922,
+      6481179919
+    ],
+    "tags": {
+      "addr:city": "Ringgold",
+      "addr:country": "US",
+      "addr:housenumber": "34",
+      "addr:state": "GA",
+      "addr:street": "KOA Boulevard",
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
     }
   },
   {
@@ -3999,6 +9407,258 @@
   },
   {
     "type": "way",
+    "id": 693439878,
+    "center": {
+      "lat": 34.9486437,
+      "lon": -85.2332467
+    },
+    "nodes": [
+      6510220886,
+      6510220887,
+      6510220888,
+      6510220889,
+      6510220890,
+      6510220886
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "1919",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "brand": "Pizza Hut",
+      "brand:wikidata": "Q191615",
+      "brand:wikipedia": "en:Pizza Hut",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "Pizza Hut"
+    }
+  },
+  {
+    "type": "way",
+    "id": 693440063,
+    "center": {
+      "lat": 34.9501014,
+      "lon": -85.2334410
+    },
+    "nodes": [
+      6510202910,
+      6510202911,
+      6510202912,
+      6510220892,
+      6510202910
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "1849",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "japanese",
+      "name": "Kabuto Grill Japanese Express"
+    }
+  },
+  {
+    "type": "way",
+    "id": 693440569,
+    "center": {
+      "lat": 34.9505751,
+      "lon": -85.2389541
+    },
+    "nodes": [
+      6510227640,
+      6510224928,
+      6510224929,
+      6510227641,
+      6510227640
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "1537",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Papa John's",
+      "brand:wikidata": "Q2759586",
+      "brand:wikipedia": "en:Papa John's Pizza",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "Papa John's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 693441143,
+    "center": {
+      "lat": 34.9518579,
+      "lon": -85.2447658
+    },
+    "nodes": [
+      6510241101,
+      6510241102,
+      6510241103,
+      6510241104,
+      6510241105,
+      6510241106,
+      6510241107,
+      6510241108,
+      6510241109,
+      6510241110,
+      6510241101
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "1182",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Steak 'n Shake",
+      "brand:wikidata": "Q7605233",
+      "brand:wikipedia": "en:Steak 'n Shake",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Steak 'n Shake",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 693441961,
+    "center": {
+      "lat": 34.9524154,
+      "lon": -85.2464169
+    },
+    "nodes": [
+      6510227642,
+      6510227643,
+      6510227644,
+      6510227645,
+      6510227646,
+      6510227647,
+      6510227648,
+      6510227649,
+      6510227650,
+      6510227642
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "541",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Hardee's",
+      "brand:wikidata": "Q1585088",
+      "brand:wikipedia": "en:Hardee's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Hardee's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 693442166,
+    "center": {
+      "lat": 34.9535159,
+      "lon": -85.2515024
+    },
+    "nodes": [
+      6510247915,
+      6510247916,
+      6510247917,
+      6510247918,
+      6510247919,
+      6510247920,
+      6510247921,
+      6510247922,
+      6510247923,
+      6510247924,
+      6510247915
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "794",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Battlefield Burgers"
+    }
+  },
+  {
+    "type": "way",
+    "id": 693442276,
+    "center": {
+      "lat": 34.9531295,
+      "lon": -85.2500257
+    },
+    "nodes": [
+      6510197763,
+      6510197764,
+      6510197765,
+      6510197766,
+      6510197767,
+      6510197768,
+      6510197763
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "882",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Firehouse Subs",
+      "brand:wikidata": "Q5451873",
+      "brand:wikipedia": "en:Firehouse Subs",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Firehouse Subs",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 693445012,
+    "center": {
+      "lat": 34.9530188,
+      "lon": -85.2493600
+    },
+    "nodes": [
+      6510247649,
+      6510247650,
+      6510247651,
+      6510247652,
+      6510247653,
+      6510247654,
+      6510247649
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "902",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Cook Out",
+      "brand:wikidata": "Q5166992",
+      "brand:wikipedia": "en:Cook Out (restaurant)",
+      "building": "yes",
+      "cuisine": "american",
+      "name": "Cook Out",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 693814861,
     "center": {
       "lat": 35.0416344,
@@ -4025,6 +9685,140 @@
   },
   {
     "type": "way",
+    "id": 693814873,
+    "center": {
+      "lat": 35.0432694,
+      "lon": -85.1506763
+    },
+    "nodes": [
+      6514109449,
+      6514109450,
+      6514109451,
+      6514109452,
+      6514109449
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Tropical Smoothie Cafe",
+      "brand:wikidata": "Q7845817",
+      "brand:wikipedia": "en:Tropical Smoothie Cafe",
+      "building": "yes",
+      "cuisine": "juice",
+      "name": "Tropical Smoothie Cafe",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 697917973,
+    "center": {
+      "lat": 34.9890927,
+      "lon": -85.2097689
+    },
+    "nodes": [
+      6554452469,
+      6554452470,
+      6554452471,
+      6554452472,
+      6554452473,
+      6554452474,
+      6554452475,
+      6554452476,
+      6554452477,
+      6554452478,
+      6554452479,
+      6554452480,
+      6554452481,
+      6554452482,
+      6554452469
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6408",
+      "addr:state": "TN",
+      "addr:street": "Ringgold Road",
+      "amenity": "fast_food",
+      "brand": "Dunkin' Donuts",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "building": "yes",
+      "cuisine": "donut;coffee",
+      "name": "Dunkin' Donuts",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 697918807,
+    "center": {
+      "lat": 34.9891205,
+      "lon": -85.2098916
+    },
+    "nodes": [
+      6554452478,
+      6554494403,
+      6554494404,
+      6554452477,
+      6554452478
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6408",
+      "addr:state": "TN",
+      "addr:street": "Ringgold Road",
+      "amenity": "fast_food",
+      "brand": "Firehouse Subs",
+      "brand:wikidata": "Q5451873",
+      "brand:wikipedia": "en:Firehouse Subs",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Firehouse Subs",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 697918808,
+    "center": {
+      "lat": 34.9899731,
+      "lon": -85.1971091
+    },
+    "nodes": [
+      6554494405,
+      6554494406,
+      6554494407,
+      6554494408,
+      6554494409,
+      6554494410,
+      6554494411,
+      6554494412,
+      6554494413,
+      6554494414,
+      6554494415,
+      6554494416,
+      6554494417,
+      6554494418,
+      6554494419,
+      6554494420,
+      6554494405
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6727",
+      "addr:state": "TN",
+      "addr:street": "Ringgold Road",
+      "amenity": "fast_food",
+      "brand": "Wendy's",
+      "brand:wikidata": "Q550258",
+      "brand:wikipedia": "en:Wendy's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Wendy's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 699523255,
     "center": {
       "lat": 35.0104202,
@@ -4046,6 +9840,201 @@
       "building": "yes",
       "cuisine": "asian",
       "name": "Golden Big Bowl"
+    }
+  },
+  {
+    "type": "way",
+    "id": 700181785,
+    "center": {
+      "lat": 34.9911798,
+      "lon": -85.2011658
+    },
+    "nodes": [
+      6575201998,
+      6575201999,
+      6575202000,
+      6575202001,
+      6575202002,
+      6575202003,
+      6575202004,
+      6575202005,
+      6575201998
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "639",
+      "addr:postcode": "37412",
+      "addr:state": "TN",
+      "addr:street": "Camp Jordan Parkway",
+      "amenity": "fast_food",
+      "brand": "Chick-fil-A",
+      "brand:wikidata": "Q491516",
+      "brand:wikipedia": "en:Chick-fil-A",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Chick-fil-A",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 702348691,
+    "center": {
+      "lat": 34.9894542,
+      "lon": -85.2128375
+    },
+    "nodes": [
+      6595612963,
+      6595612964,
+      6595612965,
+      6595612966,
+      6595612967,
+      6595612968,
+      6595612969,
+      6595612970,
+      6595612971,
+      6595612972,
+      6595612973,
+      6595612974,
+      6595612975,
+      6595612976,
+      6595612977,
+      6595612978,
+      6595612979,
+      6595612980,
+      6595612963
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6200",
+      "addr:state": "TN",
+      "addr:street": "Ringgold Road",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 702348882,
+    "center": {
+      "lat": 34.9903913,
+      "lon": -85.2148962
+    },
+    "nodes": [
+      6595601246,
+      6595601247,
+      6595601248,
+      6595601249,
+      6595601250,
+      6595601251,
+      6595601252,
+      6595601253,
+      6595601254,
+      6595601255,
+      6595601256,
+      6595601257,
+      6595601246
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6105",
+      "addr:state": "TN",
+      "addr:street": "Ringgold Road",
+      "amenity": "fast_food",
+      "brand": "Popeyes",
+      "brand:wikidata": "Q1330910",
+      "brand:wikipedia": "en:Popeyes",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Popeyes",
+      "official_name": "Popeyes Louisiana Kitchen",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 702352594,
+    "center": {
+      "lat": 35.0839985,
+      "lon": -85.0603803
+    },
+    "nodes": [
+      6595664405,
+      6595664406,
+      6595664407,
+      6595664408,
+      6595664409,
+      6595664410,
+      6595664411,
+      6595664412,
+      6595664413,
+      6595664414,
+      6595664415,
+      6595664416,
+      6595664405
+    ],
+    "tags": {
+      "addr:city": "Ooltewah",
+      "addr:housenumber": "9225",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Bojangles'",
+      "brand:wikidata": "Q891163",
+      "brand:wikipedia": "en:Bojangles (restaurant)",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Bojangles'",
+      "official_name": "Bojangles' Famous Chicken 'n Biscuits",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 702352595,
+    "center": {
+      "lat": 35.0846058,
+      "lon": -85.0620219
+    },
+    "nodes": [
+      6595664417,
+      6595664418,
+      6595664419,
+      6595664420,
+      6595664421,
+      6595664422,
+      6595664423,
+      6595664424,
+      6595664425,
+      6595664426,
+      6595664427,
+      6595664428,
+      6595664429,
+      6595664430,
+      6595664431,
+      6595664432,
+      6595664433,
+      6595664417
+    ],
+    "tags": {
+      "addr:city": "Ooltewah",
+      "addr:housenumber": "9211",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
     }
   },
   {
@@ -4137,6 +10126,66 @@
   },
   {
     "type": "way",
+    "id": 705268113,
+    "center": {
+      "lat": 34.9520641,
+      "lon": -85.2595091
+    },
+    "nodes": [
+      6624943110,
+      6624943111,
+      6624943112,
+      6624943113,
+      6624943110
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2560",
+      "addr:state": "GA",
+      "addr:street": "Lafayette Road",
+      "amenity": "fast_food",
+      "brand": "Krystal",
+      "brand:wikidata": "Q472195",
+      "brand:wikipedia": "en:Krystal (restaurant)",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Krystal",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 706096596,
+    "center": {
+      "lat": 34.9899938,
+      "lon": -85.2100415
+    },
+    "nodes": [
+      6634604048,
+      6634604049,
+      6634604050,
+      6634604051,
+      6634604052,
+      6634604053,
+      6634604054,
+      6634604055,
+      6634604048
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "McDonald's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 712691471,
     "center": {
       "lat": 35.0137128,
@@ -4164,6 +10213,31 @@
   },
   {
     "type": "way",
+    "id": 725466671,
+    "center": {
+      "lat": 35.1392107,
+      "lon": -85.2486955
+    },
+    "nodes": [
+      6803052622,
+      6803052623,
+      6803052624,
+      6803052625,
+      6803052622
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Dairy Queen",
+      "brand:wikidata": "Q1141226",
+      "brand:wikipedia": "en:Dairy Queen",
+      "building": "yes",
+      "cuisine": "ice_cream;burger",
+      "name": "Dairy Queen",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 726971378,
     "center": {
       "lat": 35.1465577,
@@ -4186,6 +10260,241 @@
       "building": "yes",
       "cuisine": "steak_house",
       "name": "LongHorn Steakhouse"
+    }
+  },
+  {
+    "type": "way",
+    "id": 728862205,
+    "center": {
+      "lat": 35.0298774,
+      "lon": -85.1853175
+    },
+    "nodes": [
+      4883340944,
+      6828669607,
+      6828669608,
+      6828669609,
+      4883340944
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6210",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 728862206,
+    "center": {
+      "lat": 35.0302955,
+      "lon": -85.1846573
+    },
+    "nodes": [
+      4883340945,
+      6828669610,
+      6828669611,
+      6828669612,
+      4883340945
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6220",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "McDonald's",
+      "brand:wikidata": "Q38076",
+      "brand:wikipedia": "en:McDonald's",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "McDonald's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 728862207,
+    "center": {
+      "lat": 35.0306635,
+      "lon": -85.1840105
+    },
+    "nodes": [
+      4883340946,
+      6828669613,
+      6828669614,
+      6828669615,
+      6828669616,
+      6828669617,
+      6828669618,
+      6828669619,
+      4883340946
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "6236",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Burger King",
+      "brand:wikidata": "Q177054",
+      "brand:wikipedia": "en:Burger King",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Burger King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 731804632,
+    "center": {
+      "lat": 34.9546046,
+      "lon": -85.2595003
+    },
+    "nodes": [
+      6852934047,
+      6852934048,
+      6852934049,
+      6852934050,
+      6852934051,
+      6852934052,
+      6852934053,
+      6852934054,
+      6852934055,
+      6852934056,
+      6852934057,
+      6852934058,
+      6852934059,
+      6852934060,
+      6852934061,
+      6852934047
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2392",
+      "addr:state": "GA",
+      "addr:street": "Lafayette Highway",
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "brand:wikipedia": "en:Arby's",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Arby's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 732484126,
+    "center": {
+      "lat": 34.9375802,
+      "lon": -85.2050664
+    },
+    "nodes": [
+      6859180923,
+      6859180924,
+      6859180925,
+      6859180926,
+      6859180923
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "3775",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "brand": "Five Guys",
+      "brand:wikidata": "Q1131810",
+      "brand:wikipedia": "en:Five Guys",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Five Guys",
+      "official_name": "Five Guys Burgers and Fries",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 732484127,
+    "center": {
+      "lat": 34.9376212,
+      "lon": -85.2052921
+    },
+    "nodes": [
+      6859180926,
+      6859180927,
+      6859180928,
+      6859180923,
+      6859180926
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "1415",
+      "addr:state": "GA",
+      "addr:street": "Dietz Road",
+      "amenity": "fast_food",
+      "brand": "Jersey Mike's Subs",
+      "brand:wikidata": "Q6184897",
+      "brand:wikipedia": "en:Jersey Mike's Subs",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Jersey Mike's Subs",
+      "short_name": "Jersey Mike's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 737714052,
+    "center": {
+      "lat": 34.9514651,
+      "lon": -85.2594255
+    },
+    "nodes": [
+      6907093918,
+      6907093919,
+      6907093920,
+      6907093921,
+      6907093922,
+      6907093923,
+      6907093924,
+      6907093925,
+      6907093926,
+      6907093927,
+      6907093918
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "2598",
+      "addr:state": "GA",
+      "addr:street": "Lafayette Road",
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
     }
   },
   {
@@ -4218,6 +10527,127 @@
   },
   {
     "type": "way",
+    "id": 750290214,
+    "center": {
+      "lat": 35.1358259,
+      "lon": -85.2382507
+    },
+    "nodes": [
+      7015580387,
+      7015580388,
+      7015580389,
+      7015580390,
+      7015580387
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Steak 'n Shake",
+      "brand:wikidata": "Q7605233",
+      "brand:wikipedia": "en:Steak 'n Shake",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Steak 'n Shake",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 755279626,
+    "center": {
+      "lat": 35.0850426,
+      "lon": -85.0662600
+    },
+    "nodes": [
+      7055237219,
+      7055237220,
+      7055237221,
+      7055237222,
+      7055237223,
+      7055237224,
+      7055237225,
+      7055237226,
+      7055237219
+    ],
+    "tags": {
+      "addr:city": "Ooltewah",
+      "addr:housenumber": "8959",
+      "addr:state": "TN",
+      "addr:street": "Old Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Chick-fil-A",
+      "brand:wikidata": "Q491516",
+      "brand:wikipedia": "en:Chick-fil-A",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Chick-fil-A",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 755279627,
+    "center": {
+      "lat": 35.0849443,
+      "lon": -85.0657896
+    },
+    "nodes": [
+      7055237227,
+      7055237228,
+      7055237229,
+      7055237230,
+      7055237227
+    ],
+    "tags": {
+      "addr:city": "Ooltewah",
+      "addr:housenumber": "8967",
+      "addr:state": "TN",
+      "addr:street": "Lee Highway",
+      "amenity": "fast_food",
+      "brand": "Panda Express",
+      "brand:wikidata": "Q1358690",
+      "brand:wikipedia": "en:Panda Express",
+      "building": "yes",
+      "cuisine": "chinese",
+      "name": "Panda Express",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 755281970,
+    "center": {
+      "lat": 35.0859689,
+      "lon": -85.0658352
+    },
+    "nodes": [
+      7055270067,
+      7055270068,
+      7055270069,
+      7055270070,
+      7055270071,
+      7055270072,
+      7055270073,
+      7055270074,
+      7055270067
+    ],
+    "tags": {
+      "addr:city": "Ooltewah",
+      "addr:housenumber": "6053",
+      "addr:state": "TN",
+      "addr:street": "Artesian Circle",
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "building": "yes",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 755283379,
     "center": {
       "lat": 35.0873114,
@@ -4243,6 +10673,104 @@
       "cuisine": "american",
       "name": "Waffle House",
       "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "way",
+    "id": 755283380,
+    "center": {
+      "lat": 35.0876087,
+      "lon": -85.0722919
+    },
+    "nodes": [
+      7055284019,
+      7055284020,
+      7055284021,
+      7055284022,
+      7055284019
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "5024",
+      "addr:state": "TN",
+      "addr:street": "Hunter Road",
+      "amenity": "fast_food",
+      "brand": "Dunkin' Donuts",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "building": "yes",
+      "cuisine": "donut;coffee_shop",
+      "name": "Dunkin' Donuts",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 756389804,
+    "center": {
+      "lat": 35.0412763,
+      "lon": -85.1538232
+    },
+    "nodes": [
+      7064918045,
+      7064918046,
+      7064918047,
+      7064918048,
+      7064918049,
+      7064918050,
+      7064918045
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "7300",
+      "addr:state": "TN",
+      "addr:street": "Shallowford Road",
+      "amenity": "fast_food",
+      "brand": "Krystal",
+      "brand:wikidata": "Q472195",
+      "brand:wikipedia": "en:Krystal (restaurant)",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Krystal",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 756389807,
+    "center": {
+      "lat": 35.0412201,
+      "lon": -85.1533916
+    },
+    "nodes": [
+      7064918062,
+      7064918063,
+      7064918064,
+      7064918065,
+      7064918066,
+      7064918067,
+      7064918068,
+      7064918069,
+      7064918070,
+      7465015654,
+      7064918071,
+      7064918072,
+      7064918073,
+      7064918062
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "7304",
+      "addr:state": "TN",
+      "addr:street": "Shallowford Road",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
     }
   },
   {
@@ -4455,6 +10983,81 @@
   },
   {
     "type": "way",
+    "id": 756781540,
+    "center": {
+      "lat": 35.0344752,
+      "lon": -85.1526014
+    },
+    "nodes": [
+      7068203275,
+      7068203276,
+      7068203277,
+      7068203278,
+      7068203279,
+      7068203280,
+      7068203281,
+      7068203282,
+      7068203283,
+      7068203284,
+      7068203275
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Chipotle",
+      "brand:wikidata": "Q465751",
+      "brand:wikipedia": "en:Chipotle Mexican Grill",
+      "building": "yes",
+      "cuisine": "mexican",
+      "name": "Chipotle",
+      "official_name": "Chipotle Mexican Grill",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 756782625,
+    "center": {
+      "lat": 35.0334926,
+      "lon": -85.1531736
+    },
+    "nodes": [
+      7068209524,
+      7068209525,
+      7068209526,
+      7068209527,
+      7068209528,
+      7068209529,
+      7068209530,
+      7068209531,
+      7068209532,
+      7068209533,
+      7068209534,
+      7068209535,
+      7068209536,
+      7068209537,
+      7068209538,
+      7068209539,
+      7068209540,
+      7068209541,
+      7068209524
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "2118",
+      "addr:state": "TN",
+      "addr:street": "Gunbarrel Road",
+      "amenity": "fast_food",
+      "brand": "Dairy Queen",
+      "brand:wikidata": "Q1141226",
+      "brand:wikipedia": "en:Dairy Queen",
+      "building": "yes",
+      "cuisine": "ice_cream;burger",
+      "name": "Dairy Queen",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 756782629,
     "center": {
       "lat": 35.0316426,
@@ -4529,6 +11132,75 @@
     ],
     "tags": {
       "abandoned": "yes",
+      "amenity": "restaurant",
+      "building": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 760094271,
+    "center": {
+      "lat": 34.9262894,
+      "lon": -85.1727694
+    },
+    "nodes": [
+      7100518087,
+      7100518088,
+      7100518089,
+      7100518090,
+      7100518087
+    ],
+    "tags": {
+      "addr:city": "Ringgold",
+      "addr:country": "US",
+      "addr:housenumber": "1670",
+      "addr:state": "GA",
+      "addr:street": "Old Mill Road",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Choo Choo Bar-B-Que"
+    }
+  },
+  {
+    "type": "way",
+    "id": 760696275,
+    "center": {
+      "lat": 34.9569344,
+      "lon": -85.2583435
+    },
+    "nodes": [
+      7106292128,
+      7106292129,
+      7106292130,
+      7106292131,
+      7106292132,
+      7106292133,
+      7106292128
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "mexican",
+      "name": "El Matador | Mexican Restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 761368269,
+    "center": {
+      "lat": 35.0134698,
+      "lon": -85.2719446
+    },
+    "nodes": [
+      7113380002,
+      7113380003,
+      7113380004,
+      7113380005,
+      7113380006,
+      7113380007,
+      7113380002
+    ],
+    "tags": {
       "amenity": "restaurant",
       "building": "yes"
     }
@@ -4668,6 +11340,101 @@
   },
   {
     "type": "way",
+    "id": 773252099,
+    "center": {
+      "lat": 34.9969520,
+      "lon": -85.2412398
+    },
+    "nodes": [
+      7219245387,
+      7219245388,
+      7219245389,
+      7219245390,
+      7219245391,
+      7219245392,
+      7219245393,
+      7219245394,
+      7219245395,
+      7219245396,
+      7219245397,
+      7219245398,
+      7219245399,
+      7219245400,
+      7219245387
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Jack's",
+      "brand:wikidata": "Q6110826",
+      "brand:wikipedia": "en:Jack's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Jack's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 775661172,
+    "center": {
+      "lat": 35.0050932,
+      "lon": -85.1533431
+    },
+    "nodes": [
+      7236243758,
+      7236243759,
+      7236243760,
+      7236243761,
+      429544473,
+      7236243762,
+      7236243758
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Burger King",
+      "brand:wikidata": "Q177054",
+      "brand:wikipedia": "en:Burger King",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Burger King",
+      "phone": "+1-423-899-4149",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 775661173,
+    "center": {
+      "lat": 35.0052428,
+      "lon": -85.1516643
+    },
+    "nodes": [
+      7236243763,
+      7236243764,
+      7236243765,
+      7236243766,
+      7236243763
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "7987",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "East Brainerd Road",
+      "amenity": "fast_food",
+      "brand": "Bojangles'",
+      "brand:wikidata": "Q891163",
+      "brand:wikipedia": "en:Bojangles' Famous Chicken 'n Biscuits",
+      "building": "yes",
+      "cuisine": "chicken",
+      "drive_through": "yes",
+      "name": "Bojangles'",
+      "official_name": "Bojangles' Famous Chicken 'n Biscuits",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 775664252,
     "center": {
       "lat": 35.0012455,
@@ -4724,6 +11491,37 @@
   },
   {
     "type": "way",
+    "id": 775666156,
+    "center": {
+      "lat": 35.0437892,
+      "lon": -85.1582582
+    },
+    "nodes": [
+      7236285786,
+      7236285787,
+      7236285788,
+      7236285789,
+      7236285786
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "7019",
+      "addr:postcode": "37421",
+      "addr:state": "TN",
+      "addr:street": "Shallowford Road",
+      "amenity": "fast_food",
+      "brand": "Wendy's",
+      "brand:wikidata": "Q550258",
+      "brand:wikipedia": "en:Wendy's",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_through": "yes",
+      "name": "Wendy's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 778406266,
     "center": {
       "lat": 34.9935646,
@@ -4748,6 +11546,32 @@
       "amenity": "restaurant",
       "building": "yes",
       "name": "Buddy's bar-b-q East Ridge"
+    }
+  },
+  {
+    "type": "way",
+    "id": 778463251,
+    "center": {
+      "lat": 34.9915112,
+      "lon": -85.2012632
+    },
+    "nodes": [
+      7265451455,
+      7265451456,
+      7265451457,
+      7265451458,
+      7265451455
+    ],
+    "tags": {
+      "amenity": "cafe",
+      "brand": "Starbucks",
+      "brand:wikidata": "Q37158",
+      "brand:wikipedia": "en:Starbucks",
+      "building": "yes",
+      "cuisine": "coffee_shop",
+      "name": "Starbucks",
+      "official_name": "Starbucks Coffee",
+      "takeaway": "yes"
     }
   },
   {
@@ -4894,6 +11718,48 @@
   },
   {
     "type": "way",
+    "id": 827159639,
+    "center": {
+      "lat": 34.9953055,
+      "lon": -85.2367026
+    },
+    "nodes": [
+      7722354956,
+      7722354957,
+      7722354958,
+      7722354959,
+      7722354960,
+      7722354961,
+      7722354962,
+      7722354963,
+      7722354964,
+      7722354965,
+      7722354966,
+      7722354967,
+      7722354968,
+      7722354969,
+      7722354970,
+      7722354971,
+      7722354972,
+      7722354973,
+      7722354974,
+      7722354975,
+      7722354956
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 827725292,
     "center": {
       "lat": 35.0292137,
@@ -5022,6 +11888,104 @@
   },
   {
     "type": "way",
+    "id": 827738251,
+    "center": {
+      "lat": 35.0279984,
+      "lon": -85.1574278
+    },
+    "nodes": [
+      7727482395,
+      7727482396,
+      7727482397,
+      7727482392,
+      7727482395
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Lennys Grill & Subs"
+    }
+  },
+  {
+    "type": "way",
+    "id": 827738254,
+    "center": {
+      "lat": 35.0282065,
+      "lon": -85.1573572
+    },
+    "nodes": [
+      7727482403,
+      7727482404,
+      7727482405,
+      7727482402,
+      7727482403
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Smoothie King",
+      "brand:wikidata": "Q5491421",
+      "brand:wikipedia": "en:Smoothie King",
+      "building": "yes",
+      "cuisine": "juice",
+      "name": "Smoothie King",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 827738875,
+    "center": {
+      "lat": 35.0269173,
+      "lon": -85.1562141
+    },
+    "nodes": [
+      7727482610,
+      7727482611,
+      7727482614,
+      7727482612,
+      7727482613,
+      7727482610
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Jimmy John's",
+      "brand:wikidata": "Q1689380",
+      "brand:wikipedia": "en:Jimmy John's",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Jimmy John's",
+      "official_name": "Jimmy John's Gourmet Sandwiches",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 827739276,
+    "center": {
+      "lat": 35.0260731,
+      "lon": -85.1559010
+    },
+    "nodes": [
+      7727483530,
+      7727483531,
+      7727483532,
+      7727483533,
+      7727483530
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Firehouse Subs",
+      "brand:wikidata": "Q5451873",
+      "brand:wikipedia": "en:Firehouse Subs",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Firehouse Subs",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 827739281,
     "center": {
       "lat": 35.0256252,
@@ -5039,6 +12003,33 @@
       "amenity": "restaurant",
       "building": "yes",
       "name": "Chicken Salad Chick"
+    }
+  },
+  {
+    "type": "way",
+    "id": 827739282,
+    "center": {
+      "lat": 35.0255309,
+      "lon": -85.1561825
+    },
+    "nodes": [
+      7727483550,
+      7727483551,
+      7727483552,
+      7727483553,
+      7727483549,
+      7727483550
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Moe's Southwest Grill",
+      "brand:wikidata": "Q6889938",
+      "brand:wikipedia": "en:Moe's Southwest Grill",
+      "building": "yes",
+      "cuisine": "mexican",
+      "name": "Moe's Southwest Grill",
+      "short_name": "Moe's",
+      "takeaway": "yes"
     }
   },
   {
@@ -5064,6 +12055,49 @@
       "building": "yes",
       "cuisine": "chinese",
       "name": "Shogun Japanese Steak and Sushi"
+    }
+  },
+  {
+    "type": "way",
+    "id": 827740874,
+    "center": {
+      "lat": 35.0236970,
+      "lon": -85.1585070
+    },
+    "nodes": [
+      7727510119,
+      7727510120,
+      7727510121,
+      7727510122,
+      7727510123,
+      7727510124,
+      7727510125,
+      7727510126,
+      7727510127,
+      7727510128,
+      7727510129,
+      7727510130,
+      7727510131,
+      7727510132,
+      7727510133,
+      7727510134,
+      7727510135,
+      7727510136,
+      7727510137,
+      7727510138,
+      7727510139,
+      7727510140,
+      7727510119
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Chick-fil-A",
+      "brand:wikidata": "Q491516",
+      "brand:wikipedia": "en:Chick-fil-A",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Chick-fil-A",
+      "takeaway": "yes"
     }
   },
   {
@@ -5216,6 +12250,60 @@
   },
   {
     "type": "way",
+    "id": 832433555,
+    "center": {
+      "lat": 35.0371107,
+      "lon": -85.1513378
+    },
+    "nodes": [
+      7771736720,
+      7771736721,
+      7771736722,
+      7771736723,
+      7771736724,
+      7771736725,
+      7771736720
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Panda Express",
+      "brand:wikidata": "Q1358690",
+      "brand:wikipedia": "en:Panda Express",
+      "building": "yes",
+      "cuisine": "chinese",
+      "name": "Panda Express",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 832433556,
+    "center": {
+      "lat": 35.0370754,
+      "lon": -85.1512454
+    },
+    "nodes": [
+      7771736725,
+      7771736726,
+      7771736732,
+      7771736727,
+      7771736724,
+      7771736725
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Jersey Mike's Subs",
+      "brand:wikidata": "Q6184897",
+      "brand:wikipedia": "en:Jersey Mike's Subs",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Jersey Mike's Subs",
+      "short_name": "Jersey Mike's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 832433560,
     "center": {
       "lat": 35.0366803,
@@ -5303,6 +12391,67 @@
       "building": "yes",
       "cuisine": "seafood",
       "name": "Pier 88 Boiling Seafood & Bar"
+    }
+  },
+  {
+    "type": "way",
+    "id": 832445141,
+    "center": {
+      "lat": 35.0398165,
+      "lon": -85.1497203
+    },
+    "nodes": [
+      7771864838,
+      7771864839,
+      7771864840,
+      7771864841,
+      7771864842,
+      7771864843,
+      7771864844,
+      7771864845,
+      7771864838
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Steak 'n Shake",
+      "brand:wikidata": "Q7605233",
+      "brand:wikipedia": "en:Steak 'n Shake",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Steak 'n Shake",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 832447148,
+    "center": {
+      "lat": 35.0440685,
+      "lon": -85.1564590
+    },
+    "nodes": [
+      7771852589,
+      7771852590,
+      7771852591,
+      7771852592,
+      7771852593,
+      7771852594,
+      7771852595,
+      7771852596,
+      7771852597,
+      7771852598,
+      7771852599,
+      7771852589
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Fazoli's",
+      "brand:wikidata": "Q1399195",
+      "brand:wikipedia": "en:Fazoli's",
+      "building": "yes",
+      "cuisine": "italian",
+      "name": "Fazoli's",
+      "takeaway": "yes"
     }
   },
   {
@@ -5480,6 +12629,28 @@
   },
   {
     "type": "way",
+    "id": 835629469,
+    "center": {
+      "lat": 35.0028698,
+      "lon": -85.2225253
+    },
+    "nodes": [
+      7799726219,
+      7799726221,
+      7799726223,
+      7799726222,
+      7799726220,
+      7799726219
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "NY Pizza Coumpany"
+    }
+  },
+  {
+    "type": "way",
     "id": 835632085,
     "center": {
       "lat": 35.0616296,
@@ -5505,6 +12676,34 @@
   },
   {
     "type": "way",
+    "id": 836287161,
+    "center": {
+      "lat": 35.0313467,
+      "lon": -85.1850982
+    },
+    "nodes": [
+      7805545587,
+      7805521982,
+      7805545588,
+      7805545591,
+      7805545589,
+      7805545590,
+      7805545585,
+      7805545587
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 836292434,
     "center": {
       "lat": 35.0156079,
@@ -5525,6 +12724,196 @@
       "building": "yes",
       "cuisine": "japanese",
       "name": "Hibachi Express"
+    }
+  },
+  {
+    "type": "way",
+    "id": 836292443,
+    "center": {
+      "lat": 35.0144795,
+      "lon": -85.1632309
+    },
+    "nodes": [
+      7805606631,
+      7805606632,
+      7805606633,
+      7805606634,
+      7805606635,
+      7805606636,
+      7805606637,
+      7805606638,
+      7805606639,
+      7805606640,
+      7805606631
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 836292445,
+    "center": {
+      "lat": 35.0141911,
+      "lon": -85.1627869
+    },
+    "nodes": [
+      7805606645,
+      7805606646,
+      7805606647,
+      7805606648,
+      7805606649,
+      7805606650,
+      7805606651,
+      7805606652,
+      7805606645
+    ],
+    "tags": {
+      "alt_name": "Kentucky Fried Chicken",
+      "amenity": "fast_food",
+      "brand": "KFC",
+      "brand:wikidata": "Q524757",
+      "brand:wikipedia": "en:KFC",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "KFC",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 837472848,
+    "center": {
+      "lat": 34.9472832,
+      "lon": -85.2578884
+    },
+    "nodes": [
+      7816284469,
+      7816284472,
+      7816284473,
+      7816284470,
+      7816284469
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Park Place Restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 837472850,
+    "center": {
+      "lat": 34.9480028,
+      "lon": -85.2585061
+    },
+    "nodes": [
+      7816284477,
+      7816284478,
+      7816284479,
+      7816284480,
+      7816284477
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Long John Silver's",
+      "brand:wikidata": "Q1535221",
+      "brand:wikipedia": "en:Long John Silver's",
+      "building": "yes",
+      "cuisine": "seafood",
+      "name": "Long John Silver's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 837694593,
+    "center": {
+      "lat": 34.9465235,
+      "lon": -85.2591797
+    },
+    "nodes": [
+      7818388722,
+      7818388723,
+      7818388724,
+      7818388725,
+      7818388726,
+      7818388727,
+      7818388728,
+      7818388729,
+      7818388730,
+      7818388731,
+      7818388722
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "BBQ Shack"
+    }
+  },
+  {
+    "type": "way",
+    "id": 839174616,
+    "center": {
+      "lat": 35.0308096,
+      "lon": -85.1546017
+    },
+    "nodes": [
+      7830875783,
+      7830875784,
+      7830918685,
+      7830918686,
+      7830918687,
+      7830918688,
+      7830918689,
+      7830918690,
+      7830875783
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Captain D's",
+      "brand:wikidata": "Q5036616",
+      "brand:wikipedia": "en:Captain D's",
+      "building": "yes",
+      "cuisine": "seafood",
+      "name": "Captain D's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 839176264,
+    "center": {
+      "lat": 35.0311499,
+      "lon": -85.1512326
+    },
+    "nodes": [
+      7830930307,
+      7830930309,
+      7830930310,
+      7830930313,
+      7830930311,
+      7830930312,
+      7830930307
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Five Guys",
+      "brand:wikidata": "Q1131810",
+      "brand:wikipedia": "en:Five Guys",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Five Guys",
+      "official_name": "Five Guys Burgers and Fries",
+      "takeaway": "yes"
     }
   },
   {
@@ -5576,6 +12965,31 @@
   },
   {
     "type": "way",
+    "id": 839181528,
+    "center": {
+      "lat": 35.0425460,
+      "lon": -85.1578406
+    },
+    "nodes": [
+      7830980418,
+      7830980419,
+      7830980420,
+      7830980421,
+      7830980418
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 839182834,
     "center": {
       "lat": 35.0421504,
@@ -5609,6 +13023,70 @@
       "building": "yes",
       "cuisine": "japanese",
       "name": "Fuji Steak & Sushi Tennessee"
+    }
+  },
+  {
+    "type": "way",
+    "id": 850701778,
+    "center": {
+      "lat": 35.0447324,
+      "lon": -85.1610087
+    },
+    "nodes": [
+      7936142995,
+      7936142996,
+      7936142997,
+      7936142998,
+      7936142999,
+      7936143000,
+      7936143001,
+      7936143002,
+      7936143003,
+      7936143004,
+      7936143005,
+      7936143006,
+      7936143007,
+      7936143008,
+      7936143009,
+      7936143010,
+      7936142995
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Sonic",
+      "brand:wikidata": "Q7561808",
+      "brand:wikipedia": "en:Sonic Drive-In",
+      "building": "yes",
+      "cuisine": "burger",
+      "drive_in": "yes",
+      "name": "Sonic",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 859941367,
+    "center": {
+      "lat": 35.0347529,
+      "lon": -85.1799151
+    },
+    "nodes": [
+      8015227006,
+      8015227013,
+      8015227007,
+      8015227008,
+      8015227009,
+      8015227006
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "brand:wikipedia": "en:Subway (restaurant)",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
     }
   },
   {
@@ -5659,6 +13137,35 @@
       "building": "yes",
       "cuisine": "pizza",
       "name": "Lupi's Pizza"
+    }
+  },
+  {
+    "type": "way",
+    "id": 910957379,
+    "center": {
+      "lat": 35.1458396,
+      "lon": -85.2234317
+    },
+    "nodes": [
+      8458726999,
+      8458727000,
+      8458727001,
+      8458727002,
+      8458727003,
+      8458727004,
+      8458727005,
+      8458727006,
+      8458726999
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Hardee's",
+      "brand:wikidata": "Q1585088",
+      "brand:wikipedia": "en:Hardee's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Hardee's",
+      "takeaway": "yes"
     }
   },
   {
@@ -5806,6 +13313,49 @@
   },
   {
     "type": "way",
+    "id": 973294859,
+    "center": {
+      "lat": 34.9735515,
+      "lon": -85.3476486
+    },
+    "nodes": [
+      8892829494,
+      9008299904,
+      9008299905,
+      9008299906,
+      9008299907,
+      9008299908,
+      9008299909,
+      9008299910,
+      9008299911,
+      9008299912,
+      9008299913,
+      9008299914,
+      9008299915,
+      9008299916,
+      9008305017,
+      9008305018,
+      9008305019,
+      9008305020,
+      9008305021,
+      9008305022,
+      9008305023,
+      9008305024,
+      9008305025,
+      9008305026,
+      8892829496,
+      8892829495,
+      8892829494
+    ],
+    "tags": {
+      "amenity": "cafe",
+      "building": "no",
+      "name": "Café 7",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 973940529,
     "center": {
       "lat": 35.0111591,
@@ -5863,6 +13413,116 @@
   },
   {
     "type": "way",
+    "id": 978160932,
+    "center": {
+      "lat": 35.1994377,
+      "lon": -85.1602846
+    },
+    "nodes": [
+      9051139619,
+      9051139620,
+      9051139621,
+      9051139622,
+      9051139623,
+      9051139624,
+      9051139619
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 983786477,
+    "center": {
+      "lat": 34.9542714,
+      "lon": -85.2555980
+    },
+    "nodes": [
+      9096692459,
+      9096692460,
+      9096692461,
+      9096692462,
+      9096692463,
+      9096692464,
+      9096692459
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Del Taco",
+      "brand:wikidata": "Q1183818",
+      "brand:wikipedia": "en:Del Taco",
+      "building": "yes",
+      "cuisine": "mexican",
+      "name": "Del Taco",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 983786480,
+    "center": {
+      "lat": 34.9426333,
+      "lon": -85.2211104
+    },
+    "nodes": [
+      9096692489,
+      9096692490,
+      9096692491,
+      9096692492,
+      9096692493,
+      9096692494,
+      9096692495,
+      9096692496,
+      9096692489
+    ],
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "McAlister's Deli",
+      "brand:wikidata": "Q17020829",
+      "brand:wikipedia": "en:McAlister's Deli",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "McAlister's Deli"
+    }
+  },
+  {
+    "type": "way",
+    "id": 989261902,
+    "center": {
+      "lat": 35.1753483,
+      "lon": -84.8675023
+    },
+    "nodes": [
+      9143520809,
+      9143520810,
+      9143520811,
+      9143520812,
+      9143520813,
+      9143520814,
+      9143520815,
+      9143520816,
+      9143520809
+    ],
+    "tags": {
+      "amenity": "cafe",
+      "building": "yes",
+      "cuisine": "coffee_shop",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "name": "Ocoee Coffee Company",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 989276134,
     "center": {
       "lat": 35.1786697,
@@ -5887,6 +13547,70 @@
       "building": "yes",
       "cuisine": "mexican",
       "name": "Tres Hermanos"
+    }
+  },
+  {
+    "type": "way",
+    "id": 989682504,
+    "center": {
+      "lat": 35.1307227,
+      "lon": -84.8779799
+    },
+    "nodes": [
+      9146298778,
+      9146298777,
+      9146298776,
+      9146298775,
+      9146298778
+    ],
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "2428",
+      "addr:postcode": "37323",
+      "addr:state": "TN",
+      "addr:street": "Blackburn Road Southeast",
+      "alt_name": "Dunkin' Donuts",
+      "amenity": "fast_food",
+      "brand": "Dunkin'",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "building": "retail",
+      "cuisine": "donut;coffee_shop",
+      "name": "Dunkin'",
+      "opening_hours": "Mo-Th 05:00-21:00; Fr-Sa 05:00-23:00; Su 06:00-21:00",
+      "takeaway": "yes",
+      "website": "https://www.dunkindonuts.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 989742020,
+    "center": {
+      "lat": 35.1305665,
+      "lon": -84.8764792
+    },
+    "nodes": [
+      9146873146,
+      9146873145,
+      9146873144,
+      9146873143,
+      9146873146
+    ],
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "2675",
+      "addr:postcode": "37323",
+      "addr:state": "TN",
+      "addr:street": "APD 40",
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "phone": "+1 423 479 3634",
+      "takeaway": "yes"
     }
   },
   {
@@ -5919,6 +13643,68 @@
   },
   {
     "type": "way",
+    "id": 997804609,
+    "center": {
+      "lat": 35.0168448,
+      "lon": -85.2758621
+    },
+    "nodes": [
+      9213050039,
+      9213050040,
+      9213050041,
+      9213050042,
+      9213050039
+    ],
+    "tags": {
+      "addr:city": "Chattanooga",
+      "addr:housenumber": "2401",
+      "addr:postcode": "37407",
+      "addr:state": "TN",
+      "addr:street": "East 23rd Street",
+      "amenity": "fast_food",
+      "building": "retail",
+      "cuisine": "burger",
+      "description": "Good burgers in a double drive through small building. There is no eating inside.",
+      "drive_through": "yes",
+      "name": "Central Park Hamburgers",
+      "opening_hours": "Su-Sa 10:30-21:30",
+      "phone": "+1-423-622-0019",
+      "takeaway": "only"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1002186919,
+    "center": {
+      "lat": 35.1869162,
+      "lon": -84.8713052
+    },
+    "nodes": [
+      9249612537,
+      9249612538,
+      9249612539,
+      9249612540,
+      9249612541,
+      9249612542,
+      9249612543,
+      9249612544,
+      9249612545,
+      9249612546,
+      9249612537
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Arby's",
+      "brand:wikidata": "Q630866",
+      "brand:wikipedia": "en:Arby's",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Arby's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
     "id": 1007901519,
     "center": {
       "lat": 35.1902688,
@@ -5940,6 +13726,42 @@
       "amenity": "restaurant",
       "building": "yes",
       "name": "Old Fort Restaurant"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1007901520,
+    "center": {
+      "lat": 35.1901701,
+      "lon": -84.8810403
+    },
+    "nodes": [
+      9298261382,
+      9298261381,
+      9298261380,
+      9298261379,
+      9298261378,
+      9298261377,
+      9298261376,
+      9298261375,
+      9298261382
+    ],
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "1410",
+      "addr:state": "TN",
+      "addr:street": "25th Street Northwest",
+      "amenity": "fast_food",
+      "brand": "Bojangles'",
+      "brand:wikidata": "Q891163",
+      "brand:wikipedia": "en:Bojangles (restaurant)",
+      "building": "yes",
+      "cuisine": "chicken",
+      "name": "Bojangles'",
+      "official_name": "Bojangles' Famous Chicken 'n Biscuits",
+      "opening_hours": "Mo-Sa 05:00-22:00; Su 06:00-22:00",
+      "phone": "+1 423 472 2602",
+      "takeaway": "yes"
     }
   },
   {
@@ -5978,6 +13800,280 @@
       "name": "City Cafe",
       "opening_hours": "24/7",
       "phone": "+1 423 790 7460"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1007901524,
+    "center": {
+      "lat": 35.1829479,
+      "lon": -84.8742389
+    },
+    "nodes": [
+      9298278432,
+      9298278431,
+      9298278430,
+      9298278429,
+      9298278428,
+      9298278427,
+      9298278426,
+      9298278425,
+      9298278432
+    ],
+    "tags": {
+      "addr:city": "Cleveland",
+      "addr:housenumber": "822",
+      "addr:postcode": "37311",
+      "addr:state": "TN",
+      "addr:street": "25th Street",
+      "amenity": "fast_food",
+      "brand": "Cook Out",
+      "brand:wikidata": "Q5166992",
+      "brand:wikipedia": "en:Cook Out (restaurant)",
+      "building": "yes",
+      "cuisine": "american",
+      "name": "Cook Out",
+      "takeaway": "yes",
+      "website": "https://cookout.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1016801569,
+    "center": {
+      "lat": 34.9532091,
+      "lon": -85.2459706
+    },
+    "nodes": [
+      9378464445,
+      9378464446,
+      9378464447,
+      9378464448,
+      9378464449,
+      9378464450,
+      9378464451,
+      9378464452,
+      9378464445
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Panda Express",
+      "brand:wikidata": "Q1358690",
+      "brand:wikipedia": "en:Panda Express",
+      "building": "yes",
+      "cuisine": "chinese",
+      "name": "Panda Express",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1025337009,
+    "center": {
+      "lat": 35.0166214,
+      "lon": -85.3223526
+    },
+    "nodes": [
+      9453978611,
+      9453978612,
+      9453978613,
+      9453978614,
+      9453978611
+    ],
+    "tags": {
+      "addr:street": "Broad Street",
+      "alt_name": "Dunkin' Donuts",
+      "amenity": "fast_food",
+      "brand": "Dunkin'",
+      "brand:wikidata": "Q847743",
+      "brand:wikipedia": "en:Dunkin' Donuts",
+      "building": "yes",
+      "cuisine": "donut;coffee_shop",
+      "drive_through": "yes",
+      "name": "Dunkin'",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1025510836,
+    "center": {
+      "lat": 35.0177878,
+      "lon": -85.3746563
+    },
+    "nodes": [
+      9455438452,
+      9455438453,
+      9455438454,
+      9455438455,
+      9455438456,
+      9455438457,
+      9455438458,
+      9455438459,
+      9455438460,
+      9455438461,
+      9455438462,
+      9455438463,
+      9455438452
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Jack's",
+      "brand:wikidata": "Q6110826",
+      "brand:wikipedia": "en:Jack's",
+      "building": "yes",
+      "cuisine": "burger",
+      "name": "Jack's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1025510842,
+    "center": {
+      "lat": 35.0190061,
+      "lon": -85.3705136
+    },
+    "nodes": [
+      9455438487,
+      9455438488,
+      9455438489,
+      9455438490,
+      9455438487
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Taco Bell",
+      "brand:wikidata": "Q752941",
+      "brand:wikipedia": "en:Taco Bell",
+      "building": "yes",
+      "cuisine": "tex-mex",
+      "name": "Taco Bell",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1052916574,
+    "center": {
+      "lat": 34.9550355,
+      "lon": -85.2549389
+    },
+    "nodes": [
+      6476355731,
+      9676294754,
+      9676294753,
+      6476355733,
+      6476355731
+    ],
+    "tags": {
+      "addr:city": "Fort Oglethorpe",
+      "addr:country": "US",
+      "addr:housenumber": "591",
+      "addr:state": "GA",
+      "addr:street": "Battlefield Parkway",
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "pizza",
+      "drive_through": "no",
+      "name": "Little Caesars",
+      "takeaway": "only"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1053791178,
+    "center": {
+      "lat": 35.0526445,
+      "lon": -85.1835899
+    },
+    "nodes": [
+      9684270521,
+      9684270522,
+      9684270523,
+      9684270524,
+      9684270521
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Subway",
+      "brand:wikidata": "Q244457",
+      "building": "yes",
+      "cuisine": "sandwich",
+      "name": "Subway",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 2318394,
+    "center": {
+      "lat": 35.1430004,
+      "lon": -85.2478547
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 173677981,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 173677983,
+        "role": "outer"
+      }
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Little Caesars",
+      "brand:wikidata": "Q1393809",
+      "brand:wikipedia": "en:Little Caesars",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "Little Caesars",
+      "takeaway": "yes",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 2334269,
+    "center": {
+      "lat": 35.0841239,
+      "lon": -85.0588127
+    },
+    "members": [
+      {
+        "type": "way",
+        "ref": 174705323,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 107498106,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 174705320,
+        "role": "outer"
+      },
+      {
+        "type": "way",
+        "ref": 174705324,
+        "role": "outer"
+      }
+    ],
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "Little Caesars",
+      "brand:wikidata": "Q1393809",
+      "brand:wikipedia": "en:Little Caesars",
+      "building": "yes",
+      "cuisine": "pizza",
+      "name": "Little Caesars",
+      "takeaway": "yes",
+      "type": "multipolygon"
     }
   },
   {

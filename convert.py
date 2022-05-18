@@ -23,6 +23,7 @@ with open('data.json') as f:
         if i['type'] == 'node' :
             if 'name' not in i['tags']:
                 continue
+            results.append(i)
 
         elif i['type'] == 'way':
             if 'name' not in i['tags']:
@@ -38,8 +39,17 @@ with open('data.json') as f:
             results.append(i)
         
         elif i['type'] == 'relation':
-            # Not currently doing anything with relations since our query only returned 1 relation result
-            continue
+            if 'name' not in i['tags']:
+                continue
+            
+            # Change the center coordinates to match the same format as the nodes
+            i['lat'] = i['center']['lat']
+            i['lon'] = i['center']['lon']
+            del i['center']
+
+            # Delete the node data (this is just a bounding box for the restaraunt)
+            del i['members']
+            results.append(i)
         
     # Save the data
     with open('exported_data.json', 'w') as f:

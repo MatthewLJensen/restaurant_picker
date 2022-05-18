@@ -147,7 +147,7 @@ function App() {
 
     // Filter by name (which has been converted to an ID)
     if (filteredName) {
-      tempFilteredRestaurants = tempFilteredRestaurants.filter(r => r.tags.name === filteredName)
+      tempFilteredRestaurants = tempFilteredRestaurants.filter(r => r.tags.name.toLowerCase().includes(filteredName.toLowerCase()))
     }
 
     // Filter the restaurants by cuisine
@@ -189,6 +189,7 @@ function App() {
             id="name-filter"
             options={filteredRestaurants.map(r => r)}
             getOptionLabel={(option) => option.tags.name}
+            freeSolo
             renderOption={(props, option, index) => {
               return (
                 <li {...props} key={option.id}>
@@ -197,6 +198,7 @@ function App() {
               )
             }}
             onChange={(e, value) => {
+              console.log(value)
               if (value) {
                 setFilteredName(value.tags.name)
               }else{
@@ -209,6 +211,11 @@ function App() {
                 {...params}
                 label="Name"
                 variant="outlined"
+                onChange={(e) => {
+                  console.log(e.target.value)
+                  setFilteredName(e.target.value)
+                }}
+
               />
             )}
           />
