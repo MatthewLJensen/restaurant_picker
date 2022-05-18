@@ -116,6 +116,7 @@ function LocationMarker(props) {
 function App() {
   const [restaurants, setRestaurants] = useState([])
   const [filteredRestaurants, setFilteredRestaurants] = useState([])
+  const [filteredName, setFilteredName] = useState('')
   const [filteredCuisines, setFilteredCuisines] = useState([])
   const [filteredDistance, setFilteredDistance] = useState(null)
   const [cuisines, setCuisines] = useState([])
@@ -143,6 +144,12 @@ function App() {
 
   useEffect(() => {
     let tempFilteredRestaurants = restaurants.slice()
+
+    // Filter by name (which has been converted to an ID)
+    if (filteredName) {
+      tempFilteredRestaurants = tempFilteredRestaurants.filter(r => r.tags.name === filteredName)
+    }
+
     // Filter the restaurants by cuisine
     if (filteredCuisines.length > 0) {
       tempFilteredRestaurants = tempFilteredRestaurants.filter(r => r.tags.cuisine ? r.tags.cuisine.split(";").some(c => filteredCuisines.includes(c)) : false)
@@ -166,7 +173,7 @@ function App() {
 
     setFilteredRestaurants(tempFilteredRestaurants)
 
-  }, [filteredCuisines, filteredDistance, userPosition])
+  }, [filteredName, filteredCuisines, filteredDistance, userPosition])
 
 
   return (
@@ -175,6 +182,39 @@ function App() {
       <div className={classes.filter_column}>
         <h1>Filters</h1>
         <div className={classes.filters_list}>
+
+          {/* Filter By Name */}
+          <Autocomplete
+            className={classes.filter}
+            id="name-filter"
+            options={filteredRestaurants.map(r => r)}
+            getOptionLabel={(option) => option.tags.name}
+            renderOption={(props, option, index) => {
+              return (
+                <li {...props} key={option.id}>
+                  {option.tags.name}
+                </li>
+              )
+            }}
+            onChange={(e, value) => {
+              if (value) {
+                setFilteredName(value.tags.name)
+              }else{
+                setFilteredName('')
+              }
+            }}
+
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                label="Name"
+                variant="outlined"
+              />
+            )}
+          />
+
+
+
           {/* Filter by cuisine: */}
           <Autocomplete
             className={classes.filter}
@@ -267,6 +307,7 @@ function App() {
           <LocationMarker position={userPosition} setPosition={setUserPosition} />
 
           {/* User defined filterDistance circle */}
+          {filteredDistance && userPosition && (
           <Circle
             center={userPosition}
             radius={milesToMeters(filteredDistance)}
@@ -274,6 +315,7 @@ function App() {
             fillColor="red"
             fillOpacity={0.2}
           />
+          )}
 
         </MapContainer>
 
